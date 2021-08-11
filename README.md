@@ -39,10 +39,10 @@ As I stated above, professionally, I'm a software developer. More specifically h
 ## Where am I?
 While I physically reside in the state of Florida, my online presence is a bit more colorful.
 
-[![Stack Exchange](https://cdn.sstatic.net/Sites/stackexchange/Img/favicon.ico)](https://stackexchange.com/users/13342919/taco-%e3%82%bf%e3%82%b3%e3%82%b9)
-[![GitHub](https://github.githubassets.com/favicons/favicon.png)](https://github.com/tacosontitan)
-[![Codepen](href="https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico")](https://codepen.io/tacosontitan)
-[![Discord](https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico)](https://discord.gg/9taXGnEs)
+[![Stack Exchange](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/stack-exchange.png)](https://stackexchange.com/users/13342919/taco-%e3%82%bf%e3%82%b3%e3%82%b9)
+[![GitHub](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/github.png)](https://github.com/tacosontitan)
+[![Codepen](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/codepen.png)](https://codepen.io/tacosontitan)
+[![Discord](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/discord.png)](https://discord.gg/9taXGnEs)
 
 ---
 ### What am I listening to?
