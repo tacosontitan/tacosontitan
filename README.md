@@ -14,26 +14,12 @@ This section is under construction...
 ---
 ## Where am I?
 
+While I physically reside in the state of Florida, my online presence is a bit more colorful.
+
 [![Stack Exchange](https://cdn.sstatic.net/Sites/stackexchange/Img/favicon.ico)](https://stackexchange.com/users/13342919/taco-%e3%82%bf%e3%82%b3%e3%82%b9)
-
-
-<details>
-  <summary>:zap: Stack Exchange</summary>
-
-[<img src="https://stackexchange.com/users/flair/13342919.png" width="208" height="58" alt="profile for Taco タコス on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Taco タコス on Stack Exchange, a network of free, community-driven Q&amp;A sites">](https://stackexchange.com/users/13342919)
-
-</details>
-
-<details>
-  <summary>:zap: GitHub</summary>
-
-[![Taco's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacosontitan)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
-
-:zap: GitHub
-
-
+[![GitHub](https://github.githubassets.com/favicons/favicon.png)](https://github.com/tacosontitan)
+[![Codepen](href="https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico")](https://codepen.io/tacosontitan)
+[![Discord](https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico)](https://discord.gg/9taXGnEs)
 
 ---
 ### What am I listening to?
