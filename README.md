@@ -17,12 +17,8 @@ This section is under construction...
 
 [<img src="https://stackexchange.com/users/flair/13342919.png" width="208" height="58" alt="profile for Taco タコス on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Taco タコス on Stack Exchange, a network of free, community-driven Q&amp;A sites">](https://stackexchange.com/users/13342919)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.tacosontitan.vercel.app/api?username=tacosontitan&show_icons=true&hide_border=true" />
-
-</details>
+:zap: GitHub Stats
+<img align="left" src="https://github-readme-stats.tacosontitan.vercel.app/api?username=tacosontitan&show_icons=true&hide_border=true" />
 
 ---
 ### What am I listening to?
