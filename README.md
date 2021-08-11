@@ -10,6 +10,14 @@ Professionally, I'm a mid-to-senior level C# developer with an official title of
 As a side note, my favorite emotes to use are: 😁, 🙋‍♀️, 🤦‍♀️, 👩‍🔧, 🦄, 🦥, 🌸, 🌊, and 🔥.
 
 ---
+## What do I do?
+
+This section is under construction...
+
+
+[<img src="https://stackexchange.com/users/flair/13342919.png" width="208" height="58" alt="profile for Taco タコス on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Taco タコス on Stack Exchange, a network of free, community-driven Q&amp;A sites">](https://stackexchange.com/users/13342919)
+
+---
 ### What am I listening to?
 
 Here's a table of *some* of my favorite tracks:
