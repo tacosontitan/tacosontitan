@@ -50,7 +50,7 @@ I don't get to play as often as I used to, but when I get the chance, I love pla
 [![Forza Horizon 4](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/forza.png)]()
 
 ---
-### What am I listening to?
+## What am I listening to?
 Here's a table of *some* of my favorite tracks:
 
 Title | Artist | Title | Artist
