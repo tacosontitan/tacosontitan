@@ -20,11 +20,11 @@ My goal in life is to learn and experience as much as possible, within reason of
 ---
 These are my favorite songs right now, but it really varies from day-to-day.
 
-<img src="https://assets.codepen.io/2940219/RocketGirl.png" height="200" />
-<img src="https://assets.codepen.io/2940219/SoakMeInBleach.png" height="200" />
-<img src="https://assets.codepen.io/2940219/NoMoney.png" height="200" />
-<img src="https://assets.codepen.io/2940219/Monsters.png" height="200" />
-<img src="https://assets.codepen.io/2940219/TripleSweet.png" height="200" />
-<img src="https://assets.codepen.io/2940219/SetItOff.png" height="200" />
+![Rocket Girl](https://assets.codepen.io/2940219/RocketGirl.png")
+![Soak Me In Bleach](https://assets.codepen.io/2940219/SoakMeInBleach.png")
+![No Money](https://assets.codepen.io/2940219/NoMoney.png")
+![Monsters](https://assets.codepen.io/2940219/Monsters.png")
+![Triple Sweet](https://assets.codepen.io/2940219/TripleSweet.png")
+![Set It Off](https://assets.codepen.io/2940219/SetItOff.png")
 
 Feel free to scan them with Spotify to listen to them.
