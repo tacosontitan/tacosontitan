@@ -17,7 +17,21 @@ As I stated above, professionally, I'm a software developer. More specifically h
 
 :speech_balloon: Languages
 
+[![C#](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/c-sharp.png)]()
+[![JavaScript](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/javascript.png)]()
+[![Python](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/python.png)]()
+
 :abacus: Technologies
+
+[![Visual Studio](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/visual-studio.png)]()
+[![Visual Studio Code](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/vs-code.png)]()
+[![SQL Server](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/sql-server.png)]()
+[![SSMS](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/ssms.png)]()
+[![Azure](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/azure.png)]()
+[![Azure Data Studio](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/azure-data-studio.png)]()
+[![Git](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/git.png)]()
+[![Google Analytics](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/google-analytics.png)]()
+[![Unity](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/unity.png)]()
 
 <sub>*Yes, I used an abacus to represent technologies.* 😁</sub>
 
