@@ -14,11 +14,10 @@ As a side note, my favorite emotes to use are: 😁, 🙋‍♀️, 🤦‍♀�
 
 This section is under construction...
 
-
 [<img src="https://stackexchange.com/users/flair/13342919.png" width="208" height="58" alt="profile for Taco タコス on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Taco タコス on Stack Exchange, a network of free, community-driven Q&amp;A sites">](https://stackexchange.com/users/13342919)
 
 :zap: GitHub Stats
-<img align="left" src="https://github-readme-stats.tacosontitan.vercel.app/api?username=tacosontitan&show_icons=true&hide_border=true" />
+[![tacosontitan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacosontitan)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### What am I listening to?
