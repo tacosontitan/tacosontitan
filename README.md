@@ -3,15 +3,7 @@
 My name is Jamie, but you can call me Taco! I'm just another average millennial, with a 🔥 passion for all things code.
 
 ---
-Professionally, I'm a mid-to-senior level C# developer with an official title of simply `Software Developer`. Personally, I'm, uh, awkward? I try to avoid human beings as much as possible, but I have no issues being social in a professional setting. As far as Stack Exchange sites go, I like helping others, so I'm online every few days.
-
-I was born in 1991, I care what people think, and hate upsetting others. My favorite emotes to use are: 😁, 🙋‍♀️, 🤦‍♀️, 👩‍🔧, 🦄, 🦥, 🌸, 🌊, and 🔥; also, if you're a fan of throwbacks, my favorite emoticon is: O_o.
-
-My hobbies include distance running, guitar (playing and construction), sleeping, and day trading.
-
-My goal in life is to learn and experience as much as possible, within reason of course. This is because my mind is an enigma and I never know what I'll want to learn next, nor do I concern myself with trying to figure it out.
-
-> 私の先生はかつて私たち全員が将来の世代への義務があると私に言いました。トーチを渡すには… それが私の目的ですか？
+Professionally, I'm a mid-to-senior level C# developer with an official title of simply `Software Developer`. Personally, I'm, uh, awkward? I was born in 1991 and I have many hobbies, to include creating software, games and mobile apps, playing video games and guitar, day trading and distance running. With that, my goal in life is, and always has been, to learn and experience as much as possible, within reason. I attribute this to the enigmatic nature of my mind. Subsequently, this is caused by my ADHD, and, as a result, I never know what I'll want to learn next, nor do I concern myself with trying to figure it out. I just sort of go with the flow of it at this point.
 
 ---
 These are my favorite songs right now, but it really varies from day-to-day.
@@ -24,3 +16,5 @@ These are my favorite songs right now, but it really varies from day-to-day.
 ![Set It Off](https://assets.codepen.io/2940219/SetItOff.png")
 
 Feel free to scan them with Spotify to listen to them.
+
+<sub>As a side note, my favorite emotes to use are: 😁, 🙋‍♀️, 🤦‍♀️, 👩‍🔧, 🦄, 🦥, 🌸, 🌊, and 🔥.</sub>
