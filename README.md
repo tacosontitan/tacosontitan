@@ -7,7 +7,10 @@ Professionally, I'm a mid-to-senior level C# developer with an official title of
 
 Some of my favorite games are:
 
-
+[![Minecraft](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/minecraft.png)]()
+[![Fortnite](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/fortnite.png)]()
+[![Genshin Impact](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/genshin.png)]()
+[![Forza Horizon 4](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/forza.png)]()
 
 As a side note, my favorite emotes to use are: 😁, 🙋‍♀️, 🤦‍♀️, 👩‍🔧, 🦄, 🦥, 🌸, 🌊, and 🔥.
 
