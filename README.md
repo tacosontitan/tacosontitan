@@ -5,13 +5,6 @@ My name is Jamie, but you can call me Taco! I'm just another average millennial,
 ## Who am I?
 Professionally, I'm a mid-to-senior level C# developer with an official title of simply `Software Developer`. Personally, I'm, uh, awkward? I was born in 1991 and I have many hobbies, to include creating software, games and mobile apps, playing video games and guitar, day trading and distance running. With that, my goal in life is, and always has been, to learn and experience as much as possible, within reason. I attribute this to the enigmatic nature of my mind. This is caused by my ADHD, and, as a result, I never know what I'll want to learn next, nor do I concern myself with trying to figure it out. I just sort of go with the flow of it at this point.
 
-Some of my favorite games are:
-
-[![Minecraft](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/minecraft.png)]()
-[![Fortnite](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/fortnite.png)]()
-[![Genshin Impact](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/genshin.png)]()
-[![Forza Horizon 4](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/forza.png)]()
-
 As a side note, my favorite emotes to use are: 😁, 🙋‍♀️, 🤦‍♀️, 👩‍🔧, 🦄, 🦥, 🌸, 🌊, and 🔥.
 
 ---
@@ -48,8 +41,15 @@ While I physically reside in the state of Florida, my online presence is a bit m
 [![Discord](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/discord.png)](https://discord.gg/9taXGnEs)
 
 ---
-### What am I listening to?
+## What am I playing?
 
+[![Minecraft](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/minecraft.png)]()
+[![Fortnite](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/fortnite.png)]()
+[![Genshin Impact](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/genshin.png)]()
+[![Forza Horizon 4](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/forza.png)]()
+
+---
+### What am I listening to?
 Here's a table of *some* of my favorite tracks:
 
 Title | Artist | Title | Artist
