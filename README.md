@@ -9,13 +9,9 @@ I was born in 1991, I care what people think, and hate upsetting others. My favo
 
 My hobbies include distance running, guitar (playing and construction), sleeping, and day trading.
 
----
-
 My goal in life is to learn and experience as much as possible, within reason of course. This is because my mind is an enigma and I never know what I'll want to learn next, nor do I concern myself with trying to figure it out.
 
----
-
-私の先生はかつて私たち全員が将来の世代への義務があると私に言いました。トーチを渡すには… それが私の目的ですか？
+> 私の先生はかつて私たち全員が将来の世代への義務があると私に言いました。トーチを渡すには… それが私の目的ですか？
 
 ---
 These are my favorite songs right now, but it really varies from day-to-day.
