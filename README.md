@@ -32,6 +32,4 @@ Title | Artist | Title | Artist
 [Lit Right Now](https://open.spotify.com/track/3ROfLScNbTGtKdjEzbx74b?si=67fb1d2622624ebd) | Ayo & Teo | [Party Talk](https://open.spotify.com/track/4zTmlIwRUwtVwBzUjb4FOb?si=38c6dccbb39b4dac) | Kai Takahashi
 [Kamen](https://open.spotify.com/track/5eNGz9DIz9ArlFKNH9GhUm?si=665a45abbcc44c65) | Exyz | [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18?si=223a7a60980c4ed8) | Ikimonogakari
 
-
-
-<sub>Clicking any of the links in the table will open the respective track in Spotify.</sub>
+<sub>***Note**: Clicking any of the links in the table will open the respective track in Spotify.*</sub>
