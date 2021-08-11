@@ -1,6 +1,6 @@
-### Oh, umm, hello there. 👋
+# Oh, umm, hello there. 👋
 
-I'm just another average millennial, with a 🔥 passion for all things code.
+My name is Jamie, but you can call me Taco! I'm just another average millennial, with a 🔥 passion for all things code.
 
 ---
 Professionally, I'm a mid-to-senior level C# developer with an official title of simply `Software Developer`. Personally, I'm, uh, awkward? I try to avoid human beings as much as possible, but I have no issues being social in a professional setting. As far as Stack Exchange sites go, I like helping others, so I'm online every few days.
