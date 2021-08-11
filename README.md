@@ -42,6 +42,7 @@ While I physically reside in the state of Florida, my online presence is a bit m
 
 ---
 ## What am I playing?
+I don't get to play as often as I used to, but when I get the chance, I love playing games that allow me to mindlessly drone through objectives and properly unwind.
 
 [![Minecraft](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/minecraft.png)]()
 [![Fortnite](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/fortnite.png)]()
