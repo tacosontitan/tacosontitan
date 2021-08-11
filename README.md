@@ -7,7 +7,7 @@ My name is Jamie, but you can call me Taco! I'm just another average millennial,
 
 Professionally, I'm a mid-to-senior level C# developer with an official title of simply `Software Developer`. Personally, I'm, uh, awkward? I was born in 1991 and I have many hobbies, to include creating software, games and mobile apps, playing video games and guitar, day trading and distance running. With that, my goal in life is, and always has been, to learn and experience as much as possible, within reason. I attribute this to the enigmatic nature of my mind. Subsequently, this is caused by my ADHD, and, as a result, I never know what I'll want to learn next, nor do I concern myself with trying to figure it out. I just sort of go with the flow of it at this point.
 
-<sub>As a side note, my favorite emotes to use are: 😁, 🙋‍♀️, 🤦‍♀️, 👩‍🔧, 🦄, 🦥, 🌸, 🌊, and 🔥.</sub>
+As a side note, my favorite emotes to use are: 😁, 🙋‍♀️, 🤦‍♀️, 👩‍🔧, 🦄, 🦥, 🌸, 🌊, and 🔥.
 
 ---
 ### What am I listening to?
