@@ -9,7 +9,7 @@ As a side note, my favorite emotes to use are: 😁, 🙋‍♀️, 🤦‍♀�
 
 ---
 ## What do I do?
-As I stated above, professionally, I'm a software developer. More specifically however I'm a framework and Windows service developer specializing in the `C#` language. As a result, I work with the following languages on a daily to weekly basis.
+As I stated above, professionally, I'm a software developer. More specifically however I'm a framework and Windows service developer specializing in the `C#` language. As a result, I work with the following languages and technologies on a daily to weekly basis.
 
 :speech_balloon: Languages
 
