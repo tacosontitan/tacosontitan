@@ -17,7 +17,7 @@ As I stated above, professionally, I'm a software developer. More specifically h
 [![Python](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/python.png)]()
 [![SQL](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/sql.png)]()
 
-#### :abacus: Technologies
+#### :abacus: Technologies and Tools
 
 [![Visual Studio](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/visual-studio.png)]()
 [![Visual Studio Code](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/vs-code.png)]()
