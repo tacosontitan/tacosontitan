@@ -7,18 +7,17 @@ Professionally, I'm a software developer with over a decade of experience in the
 
 As a side note, my favorite emotes to use are: 😁, 🙋‍♀️, 🤦‍♀️, 👩‍🔧, 🦄, 🦥, 🌸, 🌊, and 🔥.
 
----
 ## What do I do?
 As I stated above, professionally, I'm a software developer. More specifically however I'm a framework and Windows service developer specializing in the `C#` language. As a result, I work with the following languages and technologies on a daily to weekly basis.
 
-:speech_balloon: Languages
+#### :speech_balloon: Languages
 
 [![C#](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/c-sharp.png)]()
 [![JavaScript](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/javascript.png)]()
 [![Python](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/python.png)]()
 [![SQL](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/sql.png)]()
 
-:abacus: Technologies
+#### :abacus: Technologies
 
 [![Visual Studio](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/visual-studio.png)]()
 [![Visual Studio Code](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/vs-code.png)]()
@@ -32,7 +31,6 @@ As I stated above, professionally, I'm a software developer. More specifically h
 
 <sub>*Yes, I used an abacus to represent technologies.* 😁</sub>
 
----
 ## Where am I?
 While I physically reside in the state of Florida, my online presence is a bit more colorful.
 
@@ -41,7 +39,8 @@ While I physically reside in the state of Florida, my online presence is a bit m
 [![Codepen](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/codepen.png)](https://codepen.io/tacosontitan)
 [![Discord](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/discord.png)](https://discord.gg/9taXGnEs)
 
----
+<sub>*Click on a logo to navigate to my respective profile.*</sub>
+
 ## What am I playing?
 I don't get to play as often as I used to, but when I get the chance, I love playing games that allow me to mindlessly drone through objectives and properly unwind.
 
@@ -50,7 +49,6 @@ I don't get to play as often as I used to, but when I get the chance, I love pla
 [![Genshin Impact](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/genshin.png)]()
 [![Forza Horizon 4](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/forza.png)]()
 
----
 ## What am I listening to?
 Here's a table of *some* of my favorite tracks:
 
