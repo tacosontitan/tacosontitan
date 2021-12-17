@@ -1,3 +1,5 @@
+[![C#](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/images/header.jpg)]()
+
 # Oh, umm, hello there. 👋
 My name is Jamie, but you can call me Taco! I'm just another average millennial, with a 🔥 passion for all things code.
 
