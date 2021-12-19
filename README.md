@@ -3,11 +3,9 @@ My name is Jamie, but you can call me Taco! I'm just another average millennial,
 
 ---
 ## Who am I?
-Professionally, I'm a software developer with over a decade of experience in the industry. Personally, I'm, uh, awkward? I was born in 1991 and I have many hobbies, to include creating software, games and mobile apps, playing video games and guitar, day trading and distance running. With that, my goal in life is, and always has been, to learn and experience as much as possible, within reason. I attribute this to the enigmatic nature of my mind. This is caused by my ADHD, and, as a result, I never know what I'll want to learn next, nor do I concern myself with trying to figure it out. I just sort of go with the flow of it at this point.
+Professionally, I'm a software developer with over a decade of experience in the industry. Personally, I'm, uh, awkward? I was born in 1991 and I have many hobbies, including creating software, games, and mobile apps, playing video games, and guitar, day trading, and distance running. With that, my goal in life is, and always has been, to learn and experience as much as possible, within reason.
 
-As a side note, my favorite emotes to use are: 😁, 🙋‍♀️, 🤦‍♀️, 👩‍🔧, 🦄, 🦥, 🌸, 🌊, and 🔥.
-
-[![C#](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/images/relaxing-header.jpg)]()
+[![Header](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/images/relaxing-header.jpg)]()
 
 ## What do I do?
 As I stated above, professionally, I'm a software developer. More specifically however I'm a framework and Windows service developer specializing in the `C#` language. As a result, I work with the following languages and technologies on a daily to weekly basis.
