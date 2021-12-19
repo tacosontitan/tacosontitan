@@ -7,7 +7,7 @@ Professionally, I'm a software developer with over a decade of experience in the
 
 As a side note, my favorite emotes to use are: 😁, 🙋‍♀️, 🤦‍♀️, 👩‍🔧, 🦄, 🦥, 🌸, 🌊, and 🔥.
 
-[![C#](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/images/header.jpg)]()
+[![C#](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/images/relaxing-header.jpg)]()
 
 ## What do I do?
 As I stated above, professionally, I'm a software developer. More specifically however I'm a framework and Windows service developer specializing in the `C#` language. As a result, I work with the following languages and technologies on a daily to weekly basis.
