@@ -10,44 +10,8 @@ Professionally, I'm a software developer with over a decade of experience in the
 ## What do I do?
 As I stated above, professionally, I'm a software developer. More specifically however I'm a framework and Windows service developer specializing in the `C#` language. As a result, I work with the following languages and technologies on a daily to weekly basis.
 
-#### :speech_balloon: Languages
-
-[![C#](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/c-sharp.png)]()
-[![JavaScript](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/javascript.png)]()
-[![Python](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/python.png)]()
-[![SQL](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/sql.png)]()
-
-#### :abacus: Technologies and Tools
-
-[![Visual Studio](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/visual-studio.png)]()
-[![Visual Studio Code](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/vs-code.png)]()
-[![SQL Server](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/sql-server.png)]()
-[![SSMS](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/ssms.png)]()
-[![Azure](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/azure.png)]()
-[![Azure Data Studio](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/azure-data-studio.png)]()
-[![Git](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/git.png)]()
-[![Google Analytics](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/google-analytics.png)]()
-[![Unity](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/unity.png)]()
-
-<sub>*Yes, I used an abacus to represent technologies.* 😁</sub>
-
-## Where am I?
-While I physically reside in the state of Florida, my online presence is a bit more colorful.
-
-[![Stack Exchange](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/stack-exchange.png)](https://stackexchange.com/users/13342919/taco-%e3%82%bf%e3%82%b3%e3%82%b9)
-[![GitHub](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/github.png)](https://github.com/tacosontitan)
-[![Codepen](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/codepen.png)](https://codepen.io/tacosontitan)
-[![Discord](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/discord.png)](https://discord.gg/9taXGnEs)
-
-<sub>*Click on a logo to navigate to my respective profile.*</sub>
-
-## What am I playing?
-I don't get to play as often as I used to, but when I get the chance, I love playing games that allow me to mindlessly drone through objectives and properly unwind.
-
-[![Minecraft](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/minecraft.png)]()
-[![Fortnite](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/fortnite.png)]()
-[![Genshin Impact](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/genshin.png)]()
-[![Forza Horizon 4](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/icons/forza.png)]()
+### What's Missing?
+Well, I have sections representing the languages I work with, the tools and technologies I use the most often, along with my social media presence, and the games I play the most. However, I'm reworking the logos to get a consistent look and feel to those sections. Feel free to check the [legacy-staging branch](https://github.com/tacosontitan/tacosontitan/tree/legacy-staging) to see what's missing in more detail until I get the logos updated.
 
 ## What am I listening to?
 Here's a table of *some* of my favorite tracks:
