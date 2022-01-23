@@ -17,7 +17,7 @@ Well, I have sections representing the languages I work with, the tools and tech
 Here's a table of *some* of my favorite tracks:
 
 Title | Artist | Source
-:------------ | :------------- | :-------------:
+:------------ | :------------- | -------------:
 |||Click on a logo to listen to the selected track with the provider of your choosing.
 Rocket Girl | Lemaitre, Betty Who | [![s][1]](https://open.spotify.com/track/4wvj3LqF8EqGxoNc1FIbHr?si=b40848f99b8b4870) [![y][2]](https://www.youtube.com/watch?v=bfwOdpur01M)
 Overthinker | INZO | [![s][1]](https://open.spotify.com/track/4K9xid96G3YmIvQZXN9SXg?si=8dde0c3238724804) [![y][2]](https://www.youtube.com/watch?v=2WrOaA7QCM4)
