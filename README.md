@@ -18,6 +18,7 @@ Here's a table of *some* of my favorite tracks:
 
 Title | Artist | Genre | Source
 :------------ | :------------- | :------------- | :-------------:
+ | | | Click on a logo to listen to the selected track with the provider of your choosing.
 Rocket Girl | Lemaitre, Betty Who | Dance/Electronic | [![s][1]](https://open.spotify.com/track/4wvj3LqF8EqGxoNc1FIbHr?si=b40848f99b8b4870) [![y][2]](https://www.youtube.com/watch?v=bfwOdpur01M)
 Overthinker | INZO | Dance/Electronic | [![s][1]](https://open.spotify.com/track/4K9xid96G3YmIvQZXN9SXg?si=8dde0c3238724804) [![y][2]](https://www.youtube.com/watch?v=2WrOaA7QCM4)
 Good Times Bad Times | Camo & Krooked | | [![s][1]](https://open.spotify.com/track/44nRLXNwTmTIV7Zk7lRol5?si=de1fabedfb6c4098) [![y][2]]()
