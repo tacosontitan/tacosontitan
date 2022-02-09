@@ -31,5 +31,5 @@ I Like Cute Girls | cute girls doing cute things, miraie | [![s][1]](https://ope
 
 <sub>***Note**: Click on the Spotify or Youtube logo to listen to the selected track with either respective source.*</sub>
 
-[1]: https://raw.githubusercontent.com/tacosontitan/tacosontitan/music-update/logos/spotify.png
-[2]: https://raw.githubusercontent.com/tacosontitan/tacosontitan/music-update/logos/youtube.png
+[1]: https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/logos/spotify.png
+[2]: https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/logos/youtube.png
