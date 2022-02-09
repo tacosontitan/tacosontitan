@@ -39,7 +39,7 @@ I Like Cute Girls | cute girls doing cute things, miraie | [![s][1]](https://ope
 
 <sub>***Note**: Click on the Spotify or Youtube logo to listen to the selected track with either respective source.*</sub>
 
-### ☕ Can I buy you a coffee?
+### ☕ Do I like coffee?
 Absolutely, and there's actually a website just for that!
 <p><a href="https://www.buymeacoffee.com/tacosontitan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tacosontitan" /></a></p><br><br>
 
