@@ -13,8 +13,6 @@ I have a rather limited network presence, but I'm most active here on GitHub, ov
 <a href="https://codepen.io/tacosontitan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tacosontitan" height="30" width="40" /></a>
 <a href="https://twitter.com/tacosontitan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tacosontitan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/tacosontitan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tacosontitan" height="30" width="40" /></a>
-<a href="https://instagram.com/tacosontitan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tacosontitan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tacosontitan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tacosontitan" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/uqyFPrwEUQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/uqyFPrwEUQ" height="30" width="40" /></a>
 </p>
 
