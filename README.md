@@ -39,5 +39,5 @@ I Like Cute Girls | cute girls doing cute things, miraie | [![s][1]](https://ope
 Absolutely, and there's actually a website just for that!
 <p><a href="https://www.buymeacoffee.com/tacosontitan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tacosontitan" /></a></p><br><br>
 
-[1]: https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/logos/spotify.png
-[2]: https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/logos/youtube.png
+[1]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
+[2]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
