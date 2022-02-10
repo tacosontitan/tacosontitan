@@ -36,8 +36,11 @@ I Like Cute Girls | cute girls doing cute things, miraie | [![Listen on Spotify]
 
 ### ☕ Do I like coffee?
 Absolutely, and there's actually a website just for that!
-<p><a href="https://www.buymeacoffee.com/tacosontitan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tacosontitan" /></a></p><br><br>
+[![Buy me a Coffee][bmac-badge]](https://www.buymeacoffee.com/tacosontitan)
 
 [comment]: MUSIC_BADGES
 [spotify-badge]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 [youtube-badge]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+
+[comment]: SUPPORT_BADGES
+[bmac-badge]: https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png
