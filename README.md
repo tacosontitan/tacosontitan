@@ -15,10 +15,10 @@ I have a rather limited network presence, but I'm most active here on GitHub, ov
 As I stated above, professionally, I'm a software developer. More specifically however I'm a framework and Windows service developer specializing in the `C#` language. As a result, I work with the following languages and technologies on a daily to weekly basis.
 
 [![Learn about Azure][b-azure]][azure]
+[![Learn about Bash][b-bash]][bash]
 <p align="left"> 
-<a href="" target="_blank" rel="noreferrer"> <img src="" alt="azure" width="40" height="40"/> </a> 
 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 
@@ -86,7 +86,7 @@ Absolutely, and there's actually a website just for that!
 [b-twitter]: 
 [b-stackoverflow]: 
 [b-azure]: https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg
-[b-bash]: 
+[b-bash]: https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg
 [b-bootstrap]: 
 [b-csharp]: 
 [b-css3]: 
@@ -115,7 +115,7 @@ Absolutely, and there's actually a website just for that!
 [twitter]: 
 [stackoverflow]: 
 [azure]: https://azure.microsoft.com/en-in/
-[bash]: 
+[bash]: https://www.gnu.org/software/bash/
 [bootstrap]: 
 [csharp]: 
 [css3]: 
