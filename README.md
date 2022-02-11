@@ -14,36 +14,127 @@ I have a rather limited network presence, but I'm most active here on GitHub, ov
 ### ⚒️ What do I do?
 As I stated above, professionally, I'm a software developer. More specifically however I'm a framework and Windows service developer specializing in the `C#` language. As a result, I work with the following languages and technologies on a daily to weekly basis.
 
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
+
+<a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
+
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+
+<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a
+
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="" alt="typescript" width="40" height="40"/> </a>
+
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="" alt="unity" width="40" height="40"/> </a>
+
+<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="" alt="webpack" width="40" height="40"/> </a>
+</p>
 
 ### 🎧 What am I listening to?
 I listen to a rather colorful palette of music, and with my genre interest ranging from classical to heavy metal, there's not much I *won't* listen to. Below you'll find a table containing *some* of my favorite tracks.
 
 Title | Artist | Source
 :------------ | :------------- | :-------------:
-Rocket Girl | Lemaitre, Betty Who | [![Listen on Spotify][spotify-badge]][s0] [![Listen on YouTube][youtube-badge]][y0]
-Overthinker | INZO | [![Listen on Spotify][spotify-badge]][s1] [![Listen on YouTube][youtube-badge]][y1]
-Good Times Bad Times | Camo & Krooked | [![Listen on Spotify][spotify-badge]][s2] [![Listen on YouTube][youtube-badge]][y2]
-Soak Me In Bleach | The Amity Affliction | [![Listen on Spotify][spotify-badge]][s3] [![Listen on YouTube][youtube-badge]][y3]
-The Speed in My Soul | CG5, Hyper Potions | [![Listen on Spotify][spotify-badge]][s4] [![Listen on YouTube][youtube-badge]][y4]
-Ticking | TIN | [![Listen on Spotify][spotify-badge]][s5] [![Listen on YouTube][youtube-badge]][y5]
-True Friends | Bring Me The Horizon | [![Listen on Spotify][spotify-badge]][s6] [![Listen on YouTube][youtube-badge]][y6]
-Fall | Palisades | [![Listen on Spotify][spotify-badge]][s7] [![Listen on YouTube][youtube-badge]][y7]
-NJ Legion Iced Tea | A Day To Remember | [![Listen on Spotify][spotify-badge]][s8] [![Listen on YouTube][youtube-badge]][y8]
-I Like Cute Girls | cute girls doing cute things, miraie | [![Listen on Spotify][spotify-badge]][s9] [![Listen on YouTube][youtube-badge]][y9]
+Rocket Girl | Lemaitre, Betty Who | [![Listen on Spotify][b-spotify]][s0] [![Listen on YouTube][b-youtube]][y0]
+Overthinker | INZO | [![Listen on Spotify][b-spotify]][s1] [![Listen on YouTube][b-youtube]][y1]
+Good Times Bad Times | Camo & Krooked | [![Listen on Spotify][b-spotify]][s2] [![Listen on YouTube][b-youtube]][y2]
+Soak Me In Bleach | The Amity Affliction | [![Listen on Spotify][b-spotify]][s3] [![Listen on YouTube][b-youtube]][y3]
+The Speed in My Soul | CG5, Hyper Potions | [![Listen on Spotify][b-spotify]][s4] [![Listen on YouTube][b-youtube]][y4]
+Ticking | TIN | [![Listen on Spotify][b-spotify]][s5] [![Listen on YouTube][b-youtube]][y5]
+True Friends | Bring Me The Horizon | [![Listen on Spotify][b-spotify]][s6] [![Listen on YouTube][b-youtube]][y6]
+Fall | Palisades | [![Listen on Spotify][b-spotify]][s7] [![Listen on YouTube][b-youtube]][y7]
+NJ Legion Iced Tea | A Day To Remember | [![Listen on Spotify][b-spotify]][s8] [![Listen on YouTube][b-youtube]][y8]
+I Like Cute Girls | cute girls doing cute things, miraie | [![Listen on Spotify][b-spotify]][s9] [![Listen on YouTube][b-youtube]][y9]
 
 <sub>***Note**: Click on the Spotify or Youtube logo to listen to the selected track with either respective source.*</sub>
 
 ### ☕ Do I like coffee?
 Absolutely, and there's actually a website just for that!
-[![Buy me a Coffee][bmac-badge]](https://www.buymeacoffee.com/tacosontitan)
+[![Buy me a Coffee][b-buymeacoffee]](https://www.buymeacoffee.com/tacosontitan)
 
 <!-- Badges -->
-[spotify-badge]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
-[youtube-badge]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-[bmac-badge]: https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png
+[b-codepen]:
+[b-twitter]:
+[b-stackoverflow]:
+[b-azure]:
+[b-bash]:
+[b-bootstrap]:
+[b-csharp]:
+[b-css3]:
+[b-msnet]:
+[b-electron]:
+[b-firebase]:
+[b-git]:
+[b-html5]:
+[b-javascript]:
+[b-mongo]:
+[b-mssql]:
+[b-node]:
+[b-photoshop]:
+[b-postman]:
+[b-react]:
+[b-sass]:
+[b-typescript]: https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg
+[b-unity]: https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg
+[b-webpack]: https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg
+[b-spotify]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
+[b-youtube]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+[b-buymeacoffee]: https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png
 
-<!-- Music Links -->
+<!-- Links -->
+[codepen]: 
+[twitter]: 
+[stackoverflow]: 
+[azure]: 
+[bash]: 
+[bootstrap]: 
+[csharp]: 
+[css3]: 
+[msnet]: 
+[electron]: 
+[firebase]: 
+[git]: 
+[html5]: 
+[javascript]: 
+[mongo]: 
+[mssql]: 
+[node]: 
+[photoshop]: 
+[postman]: 
+[react]: 
+[sass]: 
+[typescript]: 
+[unity]: 
+[webpack]: 
+
 [s0]: https://open.spotify.com/track/4wvj3LqF8EqGxoNc1FIbHr?si=b40848f99b8b4870
 [y0]: https://www.youtube.com/watch?v=bfwOdpur01M
 
