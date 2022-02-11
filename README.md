@@ -21,16 +21,16 @@ I listen to a rather colorful palette of music, and with my genre interest rangi
 
 Title | Artist | Source
 :------------ | :------------- | :-------------:
-Rocket Girl | Lemaitre, Betty Who | [![Listen on Spotify][spotify-badge]](https://open.spotify.com/track/4wvj3LqF8EqGxoNc1FIbHr?si=b40848f99b8b4870) [![Listen on YouTube][youtube-badge]](https://www.youtube.com/watch?v=bfwOdpur01M)
-Overthinker | INZO | [![Listen on Spotify][spotify-badge]](https://open.spotify.com/track/4K9xid96G3YmIvQZXN9SXg?si=8dde0c3238724804) [![Listen on YouTube][youtube-badge]](https://www.youtube.com/watch?v=2WrOaA7QCM4)
-Good Times Bad Times | Camo & Krooked | [![Listen on Spotify][spotify-badge]](https://open.spotify.com/track/44nRLXNwTmTIV7Zk7lRol5?si=de1fabedfb6c4098) [![Listen on YouTube][youtube-badge]](https://www.youtube.com/watch?v=RyzO6jusY1I)
-Soak Me In Bleach | The Amity Affliction | [![Listen on Spotify][spotify-badge]](https://open.spotify.com/track/1oB9nCQ3Qm1B1ArD1TAg0R?si=25be84dd6aaa47e2) [![Listen on YouTube][youtube-badge]](https://www.youtube.com/watch?v=iF6tDQiQJm4)
-The Speed in My Soul | CG5, Hyper Potions | [![Listen on Spotify][spotify-badge]](https://open.spotify.com/track/1YKuyBE345bnC4hkZOGAXT?si=1feac0eaab2743c6) [![Listen on YouTube][youtube-badge]](https://www.youtube.com/watch?v=Edaj8u_44n4)
-Ticking | TIN | [![Listen on Spotify][spotify-badge]](https://open.spotify.com/track/1t7ZwPiCYLOi1xlP235GRa?si=675b5aaf5ea4404e) [![Listen on YouTube][youtube-badge]](https://www.youtube.com/watch?v=8j2Ag41KgdY)
-True Friends | Bring Me The Horizon | [![Listen on Spotify][spotify-badge]](https://open.spotify.com/track/1KTJmfwrk5pYqsi9mkY3nT?si=8c91f319cb9e4731) [![Listen on YouTube][youtube-badge]](https://www.youtube.com/watch?v=jeQMuTf3B0E)
-Fall | Palisades | [![Listen on Spotify][spotify-badge]](https://open.spotify.com/track/4o2mXUsityYafHUt0kWjFx?si=932b0c7a847c47c6) [![Listen on YouTube][youtube-badge]](https://www.youtube.com/watch?v=0Va03mW9374)
-NJ Legion Iced Tea | A Day To Remember | [![Listen on Spotify][spotify-badge]](https://open.spotify.com/track/6KyOCzf2A2jjROH4ZokTEw?si=aba1de19645c4180) [![Listen on YouTube][youtube-badge]](https://www.youtube.com/watch?v=Z9A7B6zUO-0)
-I Like Cute Girls | cute girls doing cute things, miraie | [![Listen on Spotify][spotify-badge]](https://open.spotify.com/track/6pbWDtVZYrpCx6YDQvDS3J?si=a55a82ce31074786) [![Listen on YouTube][youtube-badge]](https://www.youtube.com/watch?v=YUyedpix0P8)
+Rocket Girl | Lemaitre, Betty Who | [![Listen on Spotify][spotify-badge]][s0] [![Listen on YouTube][youtube-badge]][y0]
+Overthinker | INZO | [![Listen on Spotify][spotify-badge]][s1] [![Listen on YouTube][youtube-badge]][y1]
+Good Times Bad Times | Camo & Krooked | [![Listen on Spotify][spotify-badge]][s2] [![Listen on YouTube][youtube-badge]][y2]
+Soak Me In Bleach | The Amity Affliction | [![Listen on Spotify][spotify-badge]][s3] [![Listen on YouTube][youtube-badge]][y3]
+The Speed in My Soul | CG5, Hyper Potions | [![Listen on Spotify][spotify-badge]][s4] [![Listen on YouTube][youtube-badge]][y4]
+Ticking | TIN | [![Listen on Spotify][spotify-badge]][s5] [![Listen on YouTube][youtube-badge]][y5]
+True Friends | Bring Me The Horizon | [![Listen on Spotify][spotify-badge]][s6] [![Listen on YouTube][youtube-badge]][y6]
+Fall | Palisades | [![Listen on Spotify][spotify-badge]][s7] [![Listen on YouTube][youtube-badge]][y7]
+NJ Legion Iced Tea | A Day To Remember | [![Listen on Spotify][spotify-badge]][s8] [![Listen on YouTube][youtube-badge]][y8]
+I Like Cute Girls | cute girls doing cute things, miraie | [![Listen on Spotify][spotify-badge]][s9] [![Listen on YouTube][youtube-badge]][y9]
 
 <sub>***Note**: Click on the Spotify or Youtube logo to listen to the selected track with either respective source.*</sub>
 
@@ -38,9 +38,38 @@ I Like Cute Girls | cute girls doing cute things, miraie | [![Listen on Spotify]
 Absolutely, and there's actually a website just for that!
 [![Buy me a Coffee][bmac-badge]](https://www.buymeacoffee.com/tacosontitan)
 
-[comment]: MUSIC_BADGES
+<!-- Badges -->
 [spotify-badge]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 [youtube-badge]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-
-[comment]: SUPPORT_BADGES
 [bmac-badge]: https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png
+
+<!-- Music Links -->
+[s0]: https://open.spotify.com/track/4wvj3LqF8EqGxoNc1FIbHr?si=b40848f99b8b4870
+[y0]: https://www.youtube.com/watch?v=bfwOdpur01M
+
+[s1]: https://open.spotify.com/track/4K9xid96G3YmIvQZXN9SXg?si=8dde0c3238724804
+[y1]: https://www.youtube.com/watch?v=2WrOaA7QCM4
+
+[s2]: https://open.spotify.com/track/44nRLXNwTmTIV7Zk7lRol5?si=de1fabedfb6c4098
+[y2]: https://www.youtube.com/watch?v=RyzO6jusY1I
+
+[s3]: https://open.spotify.com/track/1oB9nCQ3Qm1B1ArD1TAg0R?si=25be84dd6aaa47e2
+[y3]: https://www.youtube.com/watch?v=iF6tDQiQJm4
+
+[s4]: https://open.spotify.com/track/1YKuyBE345bnC4hkZOGAXT?si=1feac0eaab2743c6
+[y4]: https://www.youtube.com/watch?v=Edaj8u_44n4
+
+[s5]: https://open.spotify.com/track/1t7ZwPiCYLOi1xlP235GRa?si=675b5aaf5ea4404e
+[y5]: https://www.youtube.com/watch?v=8j2Ag41KgdY
+
+[s6]: https://open.spotify.com/track/1KTJmfwrk5pYqsi9mkY3nT?si=8c91f319cb9e4731
+[y6]: https://www.youtube.com/watch?v=jeQMuTf3B0E
+
+[s7]: https://open.spotify.com/track/4o2mXUsityYafHUt0kWjFx?si=932b0c7a847c47c6
+[y7]: https://www.youtube.com/watch?v=0Va03mW9374
+
+[s8]: https://open.spotify.com/track/6KyOCzf2A2jjROH4ZokTEw?si=aba1de19645c4180
+[y8]: https://www.youtube.com/watch?v=Z9A7B6zUO-0
+
+[s9]: https://open.spotify.com/track/6pbWDtVZYrpCx6YDQvDS3J?si=a55a82ce31074786
+[y9]: https://www.youtube.com/watch?v=YUyedpix0P8
