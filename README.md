@@ -14,8 +14,9 @@ I have a rather limited network presence, but I'm most active here on GitHub, ov
 ### ⚒️ What do I do?
 As I stated above, professionally, I'm a software developer. More specifically however I'm a framework and Windows service developer specializing in the `C#` language. As a result, I work with the following languages and technologies on a daily to weekly basis.
 
+[![Learn about Azure][b-azure]][azure]
 <p align="left"> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="" alt="azure" width="40" height="40"/> </a> 
 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 
@@ -81,27 +82,27 @@ Absolutely, and there's actually a website just for that!
 [![Buy me a Coffee][b-buymeacoffee]](https://www.buymeacoffee.com/tacosontitan)
 
 <!-- Badges -->
-[b-codepen]:
-[b-twitter]:
-[b-stackoverflow]:
-[b-azure]:
-[b-bash]:
-[b-bootstrap]:
-[b-csharp]:
-[b-css3]:
-[b-msnet]:
-[b-electron]:
-[b-firebase]:
-[b-git]:
-[b-html5]:
-[b-javascript]:
-[b-mongo]:
-[b-mssql]:
-[b-node]:
-[b-photoshop]:
-[b-postman]:
-[b-react]:
-[b-sass]:
+[b-codepen]: 
+[b-twitter]: 
+[b-stackoverflow]: 
+[b-azure]: https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg
+[b-bash]: 
+[b-bootstrap]: 
+[b-csharp]: 
+[b-css3]: 
+[b-msnet]: 
+[b-electron]: 
+[b-firebase]: 
+[b-git]: 
+[b-html5]: 
+[b-javascript]: 
+[b-mongo]: 
+[b-mssql]: 
+[b-node]: 
+[b-photoshop]: 
+[b-postman]: 
+[b-react]: 
+[b-sass]: 
 [b-typescript]: https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg
 [b-unity]: https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg
 [b-webpack]: https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg
@@ -113,7 +114,7 @@ Absolutely, and there's actually a website just for that!
 [codepen]: 
 [twitter]: 
 [stackoverflow]: 
-[azure]: 
+[azure]: https://azure.microsoft.com/en-in/
 [bash]: 
 [bootstrap]: 
 [csharp]: 
