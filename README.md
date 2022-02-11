@@ -16,10 +16,9 @@ As I stated above, professionally, I'm a software developer. More specifically h
 
 [![Learn about Azure][b-azure]][azure]
 [![Learn about Bash][b-bash]][bash]
+[![Learn about Bootstrap][b-bootstrap]][bootstrap]
+
 <p align="left"> 
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -87,7 +86,7 @@ Absolutely, and there's actually a website just for that!
 [b-stackoverflow]: 
 [b-azure]: https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg
 [b-bash]: https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg
-[b-bootstrap]: 
+[b-bootstrap]: https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg
 [b-csharp]: 
 [b-css3]: 
 [b-msnet]: 
@@ -116,7 +115,7 @@ Absolutely, and there's actually a website just for that!
 [stackoverflow]: 
 [azure]: https://azure.microsoft.com/en-in/
 [bash]: https://www.gnu.org/software/bash/
-[bootstrap]: 
+[bootstrap]: https://getbootstrap.com
 [csharp]: 
 [css3]: 
 [msnet]: 
