@@ -17,8 +17,12 @@ do {
     if (response?.Equals("exit", ignoreCase: true) == true)
         break;
 
+    // Determine if help was requested.
+    else if (response?.Equals("help", ignoreCase: true) == true)
+        Console.WriteLine(moduleService.GenerateHelpMessage());
+
     // Attempt to invoke a module.
-    if (moduleService.ContainsModule(response, out ConsumableModule module))
+    else if (moduleService.ContainsModule(response, out ConsumableModule module))
         moduleService.Invoke(module);
     else
         Console.WriteLine($"No module found with the key `{response}`.");
