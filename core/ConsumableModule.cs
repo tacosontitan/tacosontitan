@@ -1,7 +1,7 @@
 /// <summary>
-/// Represents module metadata within the sandbox.
+/// Represents a consumable module within the sandbox.
 /// </summary>
-public class ModuleAttribute : Attribute {
+internal abstract class ConsumableModule {
 
     #region Properties
 
@@ -23,12 +23,12 @@ public class ModuleAttribute : Attribute {
     #region Constructor
 
     /// <summary>
-    /// Creates a new instance of <see cref="ModuleAttribute" /> with the specified key, name, and description.
+    /// Creates a new instance of <see cref="ConsumableModule" /> with the specified key, name, and description.
     /// </summary>
     /// <param name="key">The key that invokes the module.</param>
     /// <param name="name">The display name for the module.</param>
     /// <param name="description">Describes what the module does.</param>
-    public ModuleAttribute(string key, string name, string description) {
+    public ConsumableModule(string key, string name, string description) {
         Key = key;
         Name = name;
         Description = description;
