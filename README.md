@@ -15,7 +15,9 @@ internal sealed class HelloWorld : ConsumableModule {
 Then simply use `dotnet run` to start the sandbox and enter the key for your module when prompted:
 
 > Successfully discovered 1 module(s).<br/>
-> Please enter `help` for help, `exit` to exit, or a command key: hello<br/>
+> If you need help at any point, use the `help` command.<br/>
+> To exit the application, use the `exit` command.<br/>
+> \> hello<br/>
 > Hello World: Hello world!
 
 It's as simple as that! Welcome to my sandbox, wanna play?
