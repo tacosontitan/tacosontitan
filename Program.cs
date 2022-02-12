@@ -8,10 +8,14 @@ moduleService.Discover();
 // Give the user a module count.
 Console.WriteLine($"Successfully discovered {moduleService.ModuleCount} modules.");
 
+// Explain how to get help and exit.
+Console.WriteLine($"If you need help at any point, use the `help` command.");
+Console.WriteLine($"To exit the application, use the `exit` command.");
+
 do {
 
     // Prompt the user for a module.
-    Console.Write("Please enter `help` for help, `exit` to exit, or a command key: ");
+    Console.Write("> ");
 
     // Store the user's response.
     var response = Console.ReadLine();

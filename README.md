@@ -1,5 +1,9 @@
 # 🌮 Taco's Sandbox 📦
-Do you ever get tired of creating console app after console app just to test out ideas or concepts? Well, so do I! This sandbox utilizes reflection to enable a modularized approach to testing new ideas and concepts. Implementation is as simple as deriving a new `class` from `ConsumableModule`:
+Do you ever get tired of creating console app after console app just to test out ideas or concepts? Well, so do I! This sandbox utilizes reflection to enable a modularized approach to testing new ideas and concepts.
+
+[![Example of runtime execution.](images/screenshot.jpg)](images/screenshot.jpg)
+
+Implementation is as simple as deriving a new `class` from `ConsumableModule`:
 
 ```cs
 internal sealed class HelloWorld : ConsumableModule {
