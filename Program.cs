@@ -5,6 +5,9 @@ moduleService.ErrorOccurred += RecordMessage;
 // Discover any defined modules.
 moduleService.Discover();
 
+// Give the user a module count.
+Console.WriteLine($"Successfully discovered {moduleService.ModuleCount} modules.");
+
 do {
 
     // Prompt the user for a module.
@@ -21,18 +24,22 @@ do {
     else if (response?.Equals("help", ignoreCase: true) == true)
         Console.WriteLine(moduleService.GenerateHelpMessage());
 
-    // Attempt to invoke a module.
-    if (!string.IsNullOrWhiteSpace(response)) {
-        if (moduleService.ContainsModule(response, out ConsumableModule? module)) {
-            if (module != null) {
-                module.MessageReady += RecordMessage;
-                moduleService.Invoke(module);
+    else {
+
+        // Attempt to invoke a module.
+        if (!string.IsNullOrWhiteSpace(response)) {
+            if (moduleService.ContainsModule(response, out ConsumableModule? module)) {
+                if (module != null) {
+                    module.MessageReady += RecordMessage;
+                    moduleService.Invoke(module);
+                }
             }
-        }
-        else
-            Console.WriteLine($"No module found with the key `{response}`.");
-    } else
-        Console.WriteLine("User response lost.");
+            else
+                Console.WriteLine($"No module found with the key `{response}`.");
+        } else
+            Console.WriteLine("User response lost.");
+
+    }
 
 } while (true);
 

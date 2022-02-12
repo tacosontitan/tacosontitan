@@ -12,6 +12,15 @@ internal sealed class ModuleService {
 
     #endregion
 
+    #region Properties
+
+    /// <summary>
+    /// The number of modules currently loaded in the service.
+    /// </summary
+    public int ModuleCount => modules?.Values?.Count() ?? 0;
+
+    #endregion
+
     #region Public Methods
 
     /// <summary>
@@ -44,9 +53,13 @@ internal sealed class ModuleService {
     /// <returns>Returns a complete list of keys and descriptions for all loaded modules.</returns>
     public string GenerateHelpMessage() {
         var moduleDescriptions = modules.Values.Select(s => $"{s.Key} - {s.Description}");
-        StringBuilder helpMessageBuilder = new("help - Generates this message with a list of commands.");
+        var helpMessageBuilder = new StringBuilder();
+        helpMessageBuilder.AppendLine("help - Generates this message with a list of commands.");
         helpMessageBuilder.AppendLine("exit - Exits the application");
-        helpMessageBuilder.AppendLine(string.Join('\n', moduleDescriptions));
+
+        if (ModuleCount > 0)
+            helpMessageBuilder.AppendLine(string.Join('\n', moduleDescriptions));
+            
         return helpMessageBuilder.ToString();
     }
     /// <summary>
