@@ -36,4 +36,13 @@ internal abstract class ConsumableModule {
 
     #endregion
 
+    #region Public Methods
+
+    /// <summary>
+    /// Invoke the consumable module.
+    /// </summary>
+    public abstract void Invoke();
+
+    #endregion
+
 }

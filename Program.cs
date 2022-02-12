@@ -22,10 +22,13 @@ do {
         Console.WriteLine(moduleService.GenerateHelpMessage());
 
     // Attempt to invoke a module.
-    else if (moduleService.ContainsModule(response, out ConsumableModule module))
-        moduleService.Invoke(module);
-    else
-        Console.WriteLine($"No module found with the key `{response}`.");
+    if (!string.IsNullOrWhiteSpace(response)) {
+        if (moduleService.ContainsModule(response, out ConsumableModule? module))
+            moduleService.Invoke(module);
+        else
+            Console.WriteLine($"No module found with the key `{response}`.");
+    } else
+        Console.WriteLine("User response lost.");
 
 } while (true);
 
