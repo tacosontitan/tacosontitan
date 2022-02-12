@@ -1,6 +1,6 @@
 ﻿// Create a module service and register a handler to observe the error occurred event.
 var moduleService = new ModuleService();
-moduleService.ErrorOccurred += RecordModuleServiceError;
+moduleService.ErrorOccurred += RecordMessage;
 
 // Discover any defined modules.
 moduleService.Discover();
@@ -23,8 +23,12 @@ do {
 
     // Attempt to invoke a module.
     if (!string.IsNullOrWhiteSpace(response)) {
-        if (moduleService.ContainsModule(response, out ConsumableModule? module))
-            moduleService.Invoke(module);
+        if (moduleService.ContainsModule(response, out ConsumableModule? module)) {
+            if (module != null) {
+                module.MessageReady += RecordMessage;
+                moduleService.Invoke(module);
+            }
+        }
         else
             Console.WriteLine($"No module found with the key `{response}`.");
     } else
@@ -36,10 +40,15 @@ do {
 #region Local Functions
 
 /// <summary>
-/// Records an error message received from the module service.
+/// Records a message received from a module or the module service.
 /// </summary>
 /// <param name="sender">The sender of the event.</param>
-/// <param name="message">The error message that should be recorded.</param>
-void RecordModuleServiceError(object? sender, string message) => Console.WriteLine(message);
+/// <param name="message">The message that should be recorded.</param>
+void RecordMessage(object? sender, string message) {
+    if (sender is ConsumableModule module)
+        Console.WriteLine($"{module.Name}: {message}");
+    else
+        Console.WriteLine(message);
+}
 
 #endregion
