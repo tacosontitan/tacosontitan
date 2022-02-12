@@ -40,9 +40,10 @@ I Like Cute Girls | cute girls doing cute things, miraie | [![Listen on Spotify]
 <sub>*Let's be honest, it's impossible to fit all of one's favorite songs into a 10 row table.*</sub>
 
 ### ☕ Do I like coffee?
-Absolutely, and there's actually a website just for that!
+Absolutely, and there's actually a [website](https://www.buymeacoffee.com/tacosontitan) just for that!
 
-[![Buy me a Coffee][bmac-badge]](https://www.buymeacoffee.com/tacosontitan)
+### 🎨 Artwork
+My profile picture and header image are creations I ordered from [lucy_was_taken](https://www.fiverr.com/lucy_was_taken) on Fiverr. If you like their work, feel free to let them know I sent you their way!
 
 <!-- Badges -->
 [spotify-badge]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
