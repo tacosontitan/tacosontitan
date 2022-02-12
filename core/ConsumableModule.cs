@@ -45,4 +45,23 @@ internal abstract class ConsumableModule {
 
     #endregion
 
+    #region Protected Methods
+
+    /// <summary>
+    /// Invokes the message ready event for any observers.
+    /// </summary>
+    /// <param name="message">The message to post.</param>
+    protected void PostMessage(string message) => MessageReady?.Invoke(this, message);
+
+    #endregion
+
+    #region Events
+
+    /// <summary>
+    /// Invoked when a message is ready for consumption.
+    /// </summary>
+    public event EventHandler<string>? MessageReady;
+
+    #endregion
+
 }
