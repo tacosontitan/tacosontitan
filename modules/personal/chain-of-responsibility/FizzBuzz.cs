@@ -1,11 +1,10 @@
-using ChainOfResponsibility.FizzBuzz;
 namespace ChainOfResponsibility;
 
 /// <summary>
 /// Represents the popular programming test `fizz-buzz` in a way that implements the chain of responsibility design pattern; as a <see cref="ConsumableModule" />.
 /// </summary>
-internal sealed class FizzBuzzModule : ConsumableModule {
-    public FizzBuzzModule() : base("fizz", "Fizz Buzz", "Demonstrates the chain of responsibility pattern using fizz-buzz.") { }
+internal sealed class FizzBuzz : ConsumableModule {
+    public FizzBuzz() : base("fizz", "Fizz Buzz", "Demonstrates the chain of responsibility pattern using fizz-buzz.") { }
     public override void Invoke()
     {
         // Create the chain; though it seems backwards, think about it from an execution standpoint.
