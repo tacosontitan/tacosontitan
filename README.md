@@ -25,7 +25,7 @@ Then simply use `dotnet run` to start the sandbox and enter the key for your mod
 > Hello World: Hello world!
 
 ## 🎨 Design Patterns
-I've implemented plenty of design patterns in my carreer; you can find solid, easy to follow examples of the following design patterns within this repository.
+I've implemented plenty of design patterns in my carreer, but the one thing that always bothered me was a lack of demonstrations that related to junior or intermediate knowledge levels. As a result, I've intentionally implemented several design patterns with entry level use-cases.
 
 - [Chain of Responsibility](modules/personal/chain-of-responsibility)
 
