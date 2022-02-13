@@ -3,6 +3,10 @@ Do you ever get tired of creating console app after console app just to test out
 
 [![Example of runtime execution.](images/screenshot.jpg)](images/screenshot.jpg)
 
+Welcome to my sandbox, wanna play?
+
+## 👋 Hello World
+
 Implementation is as simple as deriving a new `class` from `ConsumableModule`:
 
 ```cs
@@ -20,9 +24,7 @@ Then simply use `dotnet run` to start the sandbox and enter the key for your mod
 > \> hello<br/>
 > Hello World: Hello world!
 
-It's as simple as that! Welcome to my sandbox, wanna play?
-
-## Design Patterns
+## 🎨 Design Patterns
 I've implemented plenty of design patterns in my carreer; you can find solid, easy to follow examples of the following design patterns within this repository.
 
 - [Chain of Responsibility](modules/personal/chain-of-responsibility)
