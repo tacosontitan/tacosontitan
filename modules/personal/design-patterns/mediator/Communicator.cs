@@ -38,6 +38,19 @@ public abstract class Communicator {
 
     #region Public Methods
 
+    public abstract void ProcessData<T>(Communicator sender, T data);
+    public abstract TResult ProcessInputRequest<TRequest, TResult>(Communicator sender, TRequest request);
+
     #endregion
-    
+
+    #region Protected Methods
+
+    protected void SendData<T>(Communicator recipient, T data) { }
+    protected bool TryRequestInput<TRequest, TResponse>(Communicator recipient, TRequest request, out TResponse response) {
+        response = default;
+        return false;
+    }
+
+    #endregion
+
 }
