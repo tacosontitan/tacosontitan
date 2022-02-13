@@ -14,7 +14,7 @@ internal sealed class FizzBuzzModule : ConsumableModule {
         var outputWorker = new OutputProcessor();
         var fizzWorker = new FizzProcessor(outputWorker);
         var buzzWorker = new BuzzProcessor(fizzWorker);
-        var fizzBuzzWorker = new FizzBuzzWorker(buzzWorker);
+        var fizzBuzzWorker = new FizzBuzzProcessor(buzzWorker);
 
         // Subscribe to the worker events.
         void WorkerProcessingComplete(object? sender, object data) => PostMessage(data?.ToString() ?? string.Empty);
