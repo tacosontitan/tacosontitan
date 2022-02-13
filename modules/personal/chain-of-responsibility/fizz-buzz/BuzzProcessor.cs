@@ -3,14 +3,14 @@ namespace ChainOfResponsibility.FizzBuzz;
 /// <summary>
 /// Represents the `buzz` case of fizz buzz as a <see cref="ChainedProcess{T}" />.
 /// </summary>
-internal sealed class BuzzWorker : ChainedProcess<int> {
+internal sealed class BuzzProcessor : ChainedProcess<int> {
     
     #region Constructor
 
     /// <summary>
-    /// Creates a new instance of <see cref="BuzzWorker" />.
+    /// Creates a new instance of <see cref="BuzzProcessor" />.
     /// </summary>
-    public BuzzWorker(ChainedProcess<int> processor) : base(processor) { }
+    public BuzzProcessor(ChainedProcess<int> processor) : base(processor) { }
 
     #endregion
 
