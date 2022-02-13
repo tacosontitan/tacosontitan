@@ -1,11 +1,14 @@
 namespace Sandbox;
 
-internal sealed class UserService : Communicator {
+/// <summary>
+/// Represents a <see cref="ConsoleService"/>.
+/// </summary>
+internal sealed class ConsoleService : Communicator {
     /// <summary>
-    /// Creates a new instance of the user service.
+    /// Creates a new instance of a console service.
     /// </summary>
-    /// <param name="mediator">The mediator of the user service.</param>
-    public UserService(Mediator mediator) : base(mediator) { }
+    /// <param name="mediator">The mediator of the service.</param>
+    public ConsoleService(Mediator mediator) : base(mediator) { }
     /// <summary>
     /// Writes the incoming data to the console.
     /// </summary>
