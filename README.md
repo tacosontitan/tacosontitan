@@ -21,3 +21,10 @@ Then simply use `dotnet run` to start the sandbox and enter the key for your mod
 > Hello World: Hello world!
 
 It's as simple as that! Welcome to my sandbox, wanna play?
+
+## Design Patterns
+I've implemented plenty of design patterns in my carreer; you can find solid, easy to follow examples of the following design patterns within this repository.
+
+- [Chain of Responsibility](modules/personal/chain-of-responsibility)
+
+<sub>*If you have any questions regarding a design pattern implementation, feel free to ask a question in the [discussions area](https://github.com/tacosontitan/sandbox/discussions/categories/q-a).
