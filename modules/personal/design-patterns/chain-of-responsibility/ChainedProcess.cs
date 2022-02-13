@@ -1,9 +1,9 @@
-namespace ChainOfResponsibility;
+namespace Sandbox.ChainOfResponsibility;
 
 /// <summary>
 /// Represents a <see cref="ChainedProcess{T}" />.
 /// </summary>
-internal abstract class ChainedProcess<T> {
+public abstract class ChainedProcess<T> {
 
     #region Properties
 
