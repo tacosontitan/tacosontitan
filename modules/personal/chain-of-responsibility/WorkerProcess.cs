@@ -40,7 +40,7 @@ internal abstract class WorkerProcess<T> {
     /// Invokes the data processed event for any observers.
     /// </summary>
     /// <param name="result">The result of processing.</param>
-    protected void OnDataProcessed(object result) => ProcessingComplete?.Invoke(this, result);
+    protected void OnProcessingComplete(object result) => ProcessingComplete?.Invoke(this, result);
 
     #endregion
 
