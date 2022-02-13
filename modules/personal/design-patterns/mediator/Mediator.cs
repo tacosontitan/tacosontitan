@@ -1,4 +1,4 @@
-namespace Sandbox.Mediator;
+namespace Sandbox;
 
 public class Mediator {
     private Dictionary<Guid, Communicator> _communicators = new();

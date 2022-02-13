@@ -1,4 +1,4 @@
-namespace Sandbox.Mediator;
+namespace Sandbox;
 
 /// <summary>
 /// An abstract class representing a communicator.

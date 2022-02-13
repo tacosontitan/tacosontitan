@@ -1,4 +1,4 @@
-namespace Sandbox.ChainOfResponsibility;
+namespace Sandbox;
 
 /// <summary>
 /// Represents a <see cref="ChainedProcess{T}" />.
