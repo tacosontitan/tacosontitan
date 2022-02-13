@@ -1,26 +1,26 @@
 namespace ChainOfResponsibility;
 
 /// <summary>
-/// Represents a <see cref="WorkerProcess{T}" />.
+/// Represents a <see cref="ChainedProcess{T}" />.
 /// </summary>
-internal abstract class WorkerProcess<T> {
+internal abstract class ChainedProcess<T> {
 
     #region Properties
 
     /// <summary>
-    /// The processor of this process, if applicable.
+    /// The next processor in the chain, if applicable.
     /// </summary>
-    protected WorkerProcess<T>? Processor { get; set; }
+    protected ChainedProcess<T>? Processor { get; set; }
 
     #endregion
 
     #region Constructor
 
     /// <summary>
-    /// Creates a new instance of <see cref="WorkerProcess{T}" />.
+    /// Creates a new instance of <see cref="ChainedProcess{T}" />.
     /// </summary>
     /// <param name="processor">The processor that should process this process.</param>
-    public WorkerProcess(WorkerProcess<T>? processor) => Processor = processor;
+    public ChainedProcess(ChainedProcess<T>? processor) => Processor = processor;
 
     #endregion
 

@@ -1,9 +1,9 @@
 namespace ChainOfResponsibility.FizzBuzz;
 
 /// <summary>
-/// Represents the fallback case of fizz buzz as a <see cref="WorkerProcess{T}" />.
+/// Represents the fallback case of fizz buzz as a <see cref="ChainedProcess{T}" />.
 /// </summary>
-internal sealed class OutputWorker : WorkerProcess<int> {
+internal sealed class OutputWorker : ChainedProcess<int> {
     
     #region Constructor
 
