@@ -36,8 +36,15 @@ I've implemented plenty of design patterns in my carreer, but the one thing that
 Every now and then I stumble across a topic or problem that piques my interest to an extreme degree. When that happens, I like to break it down and try to understand it so that I can share it with others in an intelligent manner.
 
 ### Hamming Distance
-The Hamming distance is the number of differences between two string-type inputs. For example:
+The [Hamming distance](https://en.wikipedia.org/wiki/Hamming_distance) is the number of differences between two string-type inputs; or better explained by the aforelinked Wikipedia article:
+
+> *In information theory, the Hamming distance between two strings of equal length is the number of positions at which the corresponding symbols are different.* <sub>[1]</sub>
+
+For example:
 
 > aaabaaa | abababa
 
 In the example above there are *two* differences between the supplied inputs, so therefore the Hamming distance is 2. However, the use-case I found it through was actually working with integers instead of strings, yet its implementation was using string comparison which seemed rather, over the top. I was pretty sure it could be done with bitwise operations, and that led to an implementation [here](modules/personal//HammingDistance.cs) in my sandbox.
+
+## ✒️ Citations
+1. Wikipedia contributors. (2021, November 9). Hamming distance. In Wikipedia, The Free Encyclopedia. Retrieved 04:51, February 13, 2022, from https://en.wikipedia.org/w/index.php?title=Hamming_distance&oldid=1054348646
