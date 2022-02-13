@@ -1,7 +1,9 @@
+namespace Sandbox;
+
 /// <summary>
 /// Represents a consumable module within the sandbox.
 /// </summary>
-internal abstract class ConsumableModule {
+public abstract class ConsumableModule {
 
     #region Properties
 

@@ -1,10 +1,12 @@
 using System.Reflection;
 using System.Text;
 
+namespace Sandbox;
+
 /// <summary>
 /// Represents a <see cref="ModuleService" /> in the sandbox.
 /// </summary>
-internal sealed class ModuleService {
+public sealed class ModuleService {
 
     #region Fields
 

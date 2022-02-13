@@ -1,3 +1,5 @@
+namespace Sandbox;
+
 /// <summary>
 /// A collection of simple extension methods to simplify implementations with clarity.
 /// </summary>
