@@ -23,7 +23,7 @@ internal sealed class FizzBuzz : ConsumableModule {
         fizzBuzzProcessor.ProcessingComplete += ChainProcessingComplete;
 
         // Run through a few integers to test it.
-        for (int i = 0; i < 15; i++)
+        for (int i = 0; i <= 15; i++)
             fizzBuzzProcessor.Process(i);
     }
 }
