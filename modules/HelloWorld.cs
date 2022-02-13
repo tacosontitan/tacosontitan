@@ -1,3 +1,4 @@
+using Sandbox;
 /// <summary>
 /// Represents a basic module that says hello to the world.
 /// </summary>

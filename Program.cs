@@ -1,4 +1,6 @@
-﻿// Create a module service and register a handler to observe the error occurred event.
+﻿using Sandbox;
+
+// Create a module service and register a handler to observe the error occurred event.
 var moduleService = new ModuleService();
 moduleService.ErrorOccurred += RecordMessage;
 
