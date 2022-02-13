@@ -35,4 +35,9 @@ I've implemented plenty of design patterns in my carreer, but the one thing that
 ## 🔥 Interesting Implementations
 Every now and then I stumble across a topic or problem that piques my interest to an extreme degree. When that happens, I like to break it down and try to understand it so that I can share it with others in an intelligent manner.
 
-- [Hamming Distance with Bitwise Operations](modules/personal//HammingDistance.cs)
+#### Hamming Distance
+I recently learned about the Hamming distance. Just-in-case you're not familiar with it, the Hamming distance is the number of differences between two string-type inputs. For example:
+
+> aaabaaa | abababa
+
+In the example above there are *two* differences between the supplied inputs, so therefore the Hamming distance is 2. However, the use-case I found it through was actually working with integers instead of strings, yet its implementation was using string comparison which seemed rather, over the top. I was pretty sure it could be done with bitwise operations, and that led to an implementation [here](modules/personal//HammingDistance.cs) in my sandbox.
