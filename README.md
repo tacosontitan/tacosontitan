@@ -35,7 +35,7 @@ I've implemented plenty of design patterns in my carreer, but the one thing that
 ## 🔥 Interesting Implementations
 Every now and then I stumble across a topic or problem that piques my interest to an extreme degree. When that happens, I like to break it down and try to understand it so that I can share it with others in an intelligent manner.
 
-#### Hamming Distance
+### Hamming Distance
 The Hamming distance is the number of differences between two string-type inputs. For example:
 
 > aaabaaa | abababa
