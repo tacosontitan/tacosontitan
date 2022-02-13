@@ -34,4 +34,23 @@ internal abstract class WorkerProcess<T> {
 
     #endregion
 
+    #region Protected Methods
+
+    /// <summary>
+    /// Invokes the data processed event for any observers.
+    /// </summary>
+    /// <param name="result">The result of processing.</param>
+    protected void OnDataProcessed(object result) => ProcessingComplete?.Invoke(this, result);
+
+    #endregion
+
+    #region Events
+
+    /// <summary>
+    /// Invoked when the data sent to the process method has been successfuly processed.
+    /// </summary>
+    public event EventHandler<object>? ProcessingComplete;
+
+    #endregion
+
 }
