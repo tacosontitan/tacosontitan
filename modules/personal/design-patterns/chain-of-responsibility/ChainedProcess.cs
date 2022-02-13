@@ -19,7 +19,7 @@ internal abstract class ChainedProcess<T> {
     /// <summary>
     /// Creates a new instance of <see cref="ChainedProcess{T}" />.
     /// </summary>
-    /// <param name="processor">The processor that should process this process.</param>
+    /// <param name="processor">The next processor in the chain, if applicable.</param>
     public ChainedProcess(ChainedProcess<T>? processor) => Processor = processor;
 
     #endregion
@@ -27,7 +27,7 @@ internal abstract class ChainedProcess<T> {
     #region Public Methods
 
     /// <summary>
-    /// If a processor is present, then pass processing to it.
+    /// If there's another processor in the chain, then pass processing to it.
     /// </summary>
     /// <param name="value">The value to process.</param>
     public virtual void Process(T value) => Processor?.Process(value);
