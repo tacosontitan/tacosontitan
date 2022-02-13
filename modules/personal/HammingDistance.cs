@@ -1,3 +1,5 @@
+namespace Sandbox.Modules;
+
 /// <summary>
 /// Represents the Hamming distance (the number of differences between two values).
 /// </summary>

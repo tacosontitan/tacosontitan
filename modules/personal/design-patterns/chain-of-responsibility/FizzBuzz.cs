@@ -1,4 +1,5 @@
-namespace Sandbox.ChainOfResponsibility;
+using Sandbox.ChainOfResponsibility.FizzBuzz;
+namespace Sandbox.Modules;
 
 /// <summary>
 /// Represents the popular programming test `fizz-buzz` in a way that implements the chain of responsibility design pattern; as a <see cref="ConsumableModule" />.

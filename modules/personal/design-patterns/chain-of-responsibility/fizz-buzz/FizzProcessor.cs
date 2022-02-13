@@ -1,4 +1,4 @@
-namespace Sandbox.ChainOfResponsibility;
+namespace Sandbox.ChainOfResponsibility.FizzBuzz;
 
 /// <summary>
 /// Represents the `fizz` case of fizz buzz as a <see cref="ChainedProcess{T}" />.
