@@ -1,6 +1,6 @@
 namespace Sandbox.Mediator;
 
-internal sealed class Mediator {
+public class Mediator {
     private Dictionary<Guid, Communicator> _communicators = new();
     public void Register(Communicator communicator) {
         if (!_communicators.ContainsKey(communicator.Id))

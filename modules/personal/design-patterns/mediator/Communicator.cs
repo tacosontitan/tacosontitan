@@ -3,7 +3,7 @@ namespace Sandbox.Mediator;
 /// <summary>
 /// An abstract class representing a communicator.
 /// </summary>
-internal abstract class Communicator {
+public abstract class Communicator {
     public Guid Id { get; private set; }
     protected Mediator Mediator { get; private set; }
     public Communicator(Mediator mediator) {
