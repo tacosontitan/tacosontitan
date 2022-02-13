@@ -1,7 +1,7 @@
 namespace ChainOfResponsibility.FizzBuzz;
 
 /// <summary>
-/// Represents the fallback case of fizz buzz as a <see cref="WorkerProcess{T}" /> by simply passing an input value as output.
+/// Represents the fallback case of fizz buzz as a <see cref="WorkerProcess{T}" />.
 /// </summary>
 internal sealed class OutputWorker : WorkerProcess<int> {
     

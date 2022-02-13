@@ -29,7 +29,7 @@ internal abstract class WorkerProcess<T> {
     /// <summary>
     /// If a processor is present, then pass processing to it.
     /// </summary>
-    /// <param name="value">The value to pass to the processor.</param>
+    /// <param name="value">The value to process.</param>
     public virtual void Process(T value) => Processor?.Process(value);
 
     #endregion
