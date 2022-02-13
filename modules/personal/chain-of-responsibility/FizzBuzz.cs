@@ -11,20 +11,20 @@ internal sealed class FizzBuzzModule : ConsumableModule {
         // Create the chain; though it seems backwards, think about it from an execution standpoint.
         //      Invocation begins with the `fizz-buzz` condition,
         //      if that fails, it falls back to the `buzz` condition, and so on.
-        var outputWorker = new OutputProcessor();
-        var fizzWorker = new FizzProcessor(outputWorker);
-        var buzzWorker = new BuzzProcessor(fizzWorker);
-        var fizzBuzzWorker = new FizzBuzzProcessor(buzzWorker);
+        var outputProcessor = new OutputProcessor();
+        var fizzProcessor = new FizzProcessor(outputProcessor);
+        var buzzProcessor = new BuzzProcessor(fizzProcessor);
+        var fizzBuzzProcessor = new FizzBuzzProcessor(buzzProcessor);
 
         // Subscribe to the worker events.
-        void WorkerProcessingComplete(object? sender, object data) => PostMessage(data?.ToString() ?? string.Empty);
-        outputWorker.ProcessingComplete += WorkerProcessingComplete;
-        fizzWorker.ProcessingComplete += WorkerProcessingComplete;
-        buzzWorker.ProcessingComplete += WorkerProcessingComplete;
-        fizzBuzzWorker.ProcessingComplete += WorkerProcessingComplete;
+        void ChainProcessingComplete(object? sender, object data) => PostMessage(data?.ToString() ?? string.Empty);
+        outputProcessor.ProcessingComplete += ChainProcessingComplete;
+        fizzProcessor.ProcessingComplete += ChainProcessingComplete;
+        buzzProcessor.ProcessingComplete += ChainProcessingComplete;
+        fizzBuzzProcessor.ProcessingComplete += ChainProcessingComplete;
 
         // Run through a few integers to test it.
         for (int i = 0; i < 15; i++)
-            fizzBuzzWorker.Process(i);
+            fizzBuzzProcessor.Process(i);
     }
 }
