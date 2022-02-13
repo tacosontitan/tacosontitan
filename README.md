@@ -27,4 +27,4 @@ I've implemented plenty of design patterns in my carreer; you can find solid, ea
 
 - [Chain of Responsibility](modules/personal/chain-of-responsibility)
 
-<sub>*If you have any questions regarding a design pattern implementation, feel free to ask a question in the [discussions area](https://github.com/tacosontitan/sandbox/discussions/categories/q-a).
+<sub>*If you have any questions regarding a design pattern implementation, feel free to ask a question in the [discussions area](https://github.com/tacosontitan/sandbox/discussions/categories/q-a).*</sub>
