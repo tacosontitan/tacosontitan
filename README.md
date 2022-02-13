@@ -31,3 +31,8 @@ I've implemented plenty of design patterns in my carreer, but the one thing that
 - [Mediator](../../tree/main/modules/personal/design-patterns/mediator) - Guessing Game
 
 <sub>*If you have any questions regarding a design pattern implementation, feel free to ask a question in the [discussions area](https://github.com/tacosontitan/sandbox/discussions/categories/q-a).*</sub>
+
+## 🔥 Interesting Implementations
+Every now and then I stumble across a topic or problem that piques my interest to an extreme degree. When that happens, I like to break it down and try to understand it so that I can share it with others in an intelligent manner.
+
+- [Hamming Distance with Bitwise Operations](modules/personal//HammingDistance.cs)
