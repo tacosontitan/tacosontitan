@@ -156,7 +156,7 @@ I Like Cute Girls | cute girls doing cute things, miraie | [![Listen on Spotify]
 ### ☕ Do I like coffee?
 Absolutely, and there's actually a [website](https://www.buymeacoffee.com/tacosontitan) just for that!
 
-### 🎨 Artwork
+### 🎨 Where did I get my artwork?
 My profile picture and header image are creations I ordered from [lucy_was_taken](https://www.fiverr.com/lucy_was_taken) on Fiverr. If you like her work, feel free to let her know I sent you her way!
 
 <p align="left">
