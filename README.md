@@ -39,7 +39,7 @@ I'm a senior developer with more than a decade of experience creating and mainta
 </a>
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="75" height="75"/>
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/bootstrap.png" alt="bootstrap" width="75" height="75"/>
 </a>
 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
