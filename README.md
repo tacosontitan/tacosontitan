@@ -86,7 +86,7 @@ I'm a senior developer with more than a decade of experience creating and mainta
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/react.png" alt="react" width="75" height="75"/> 
 </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="75" height="75"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/sass.png" alt="sass" width="75" height="75"/> 
 </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="75" height="75"/> 
