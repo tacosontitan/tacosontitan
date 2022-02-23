@@ -33,14 +33,21 @@ internal sealed class TravelingSalesperson : ConsumableModule {
     public override void Invoke() {
         Console.Write("Traveling Salesperson: How many cities should the salesperson traverse through?\n> ");
         var userInput = Console.ReadLine();
-        if (int.TryParse(userInput, out int x)) {
+        if (int.TryParse(userInput, out int numberOfCities)) {
             int cityCount = ChallengeData.CityNames.Length;
-            if (x > cityCount)
+            if (numberOfCities > cityCount)
                 PostInvalidInput($"There are only `{cityCount}` city names available.");
             else {
-                IEnumerable<City> cities = GenerateCities(x);
-                foreach (City city in cities)
-                    Console.WriteLine($"Traveling Salesperson: `{city.Name}` is located at `{city.Coordinates.Latitude}`, `{city.Coordinates.Longitude}`.");
+                Console.Write("Traveling Salesperson: How large of an area, in kilometers, should these cities cover?\n> ");
+                userInput = Console.ReadLine();
+                if (int.TryParse(userInput, out int spread)) {
+                    IEnumerable<City> cities = GenerateCities(numberOfCities, spread);
+                    foreach (City city in cities)
+                        Console.WriteLine($"Traveling Salesperson: `{city.Name}` is located at `{city.Coordinates.Latitude}`, `{city.Coordinates.Longitude}`.");
+
+                    CityPath path = new (cities);
+                    Console.WriteLine($"The distance of traversing these cities in chronological order is `{path.Distance}` kilometers.");
+                }
             }
         } else
             PostInvalidInput(userInput ?? string.Empty);
@@ -51,7 +58,7 @@ internal sealed class TravelingSalesperson : ConsumableModule {
     #region Private Methods
 
     private void PostInvalidInput(string input) => PostMessage($"The value `{input}` is not a valid integer.");
-    private IEnumerable<City> GenerateCities(int threshold) {
+    private IEnumerable<City> GenerateCities(int threshold, int spread) {
         var cities = new List<City>();
         for (int i = 0; i < threshold && i < ChallengeData.CityNames.Length; i++) {
             string nextCityName = ChallengeData.CityNames.First(cityName => !cities.Any(city => city.Name.Equals(cityName, ignoreCase: true)));
@@ -60,8 +67,8 @@ internal sealed class TravelingSalesperson : ConsumableModule {
                     Id = i,
                     Name = nextCityName,
                     Coordinates = new WorldCoordinate {
-                        Latitude = _random.NextDouble(),
-                        Longitude = _random.NextDouble()
+                        Latitude = _random.NextDouble() * spread,
+                        Longitude = _random.NextDouble() * spread
                     }
                 };
 
