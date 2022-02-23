@@ -34,62 +34,97 @@ I'm a senior developer with more than a decade of experience creating and mainta
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/bash.png" alt="bash" width="75" height="75"/>
 </a>
 
+<!-- -->
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/bootstrap.png" alt="bootstrap" width="75" height="75"/>
 </a>
 
+<!-- -->
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/csharp.png" alt="csharp" width="75" height="75"/>
 </a>
 
+<!-- -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/css.png" alt="css3" width="75" height="75"/> 
-</a> 
+</a>
+
+<!-- -->
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/msnet.png" alt="dotnet" width="75" height="75"/> 
-</a> 
+</a>
+
+<!-- -->
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/electron.png" alt="electron" width="75" height="75"/> 
-</a> 
+</a>
+
+<!-- -->
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/firebase.png" alt="firebase" width="75" height="75"/> 
-</a> 
+</a>
+
+<!-- -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/git.png" alt="git" width="75" height="75"/> 
-</a> 
+</a>
+
+<!-- -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/html.png" alt="html5" width="75" height="75"/> 
-</a> 
+</a>
+
+<!-- -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/javascript.png" alt="javascript" width="75" height="75"/> 
-</a> 
+</a>
+
+<!-- -->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/mongo.png" alt="mongodb" width="75" height="75"/> 
-</a> 
+</a>
+
+<!-- -->
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/mssql.png" alt="mssql" width="75" height="75"/> 
-</a> 
+</a>
+
+<!-- -->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/node.png" alt="nodejs" width="75" height="75"/> 
-</a> 
+</a>
+
+<!-- -->
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/postman.png" alt="postman" width="75" height="75"/> 
-</a> 
+</a>
+
+<!-- -->
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/rabbit.png" alt="rabbitMQ" width="75" height="75"/> 
-</a> 
+</a>
+
+<!-- -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/react.png" alt="react" width="75" height="75"/> 
-</a> 
+</a>
+
+<!-- -->
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/sass.png" alt="sass" width="75" height="75"/> 
-</a> 
+</a>
+
+<!-- -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/typescript.png" alt="typescript" width="75" height="75"/> 
-</a> 
+</a>
+
+<!-- -->
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="75" height="75"/> 
-</a> 
+</a>
+
+<!-- -->
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/webpack.png" alt="webpack" width="75" height="75"/> 
 </a>
