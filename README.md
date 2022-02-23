@@ -159,6 +159,20 @@ Absolutely, and there's actually a [website](https://www.buymeacoffee.com/tacoso
 ### 🎨 Artwork
 My profile picture and header image are creations I ordered from [lucy_was_taken](https://www.fiverr.com/lucy_was_taken) on Fiverr. If you like her work, feel free to let her know I sent you her way!
 
+<p align="left">
+
+<a href="https://www.fiverr.com/lucy_was_taken" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/profile3.png" alt="lucy_was_taken" width="40" height="40"/>
+</a>
+<a href="https://www.fiverr.com/lucy_was_taken" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/profile2.png" alt="lucy_was_taken" width="40" height="40"/>
+</a>
+<a href="https://www.fiverr.com/lucy_was_taken" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/profile1.png" alt="lucy_was_taken" width="40" height="40"/>
+</a>
+
+</p>
+
 <!-- Badges -->
 [spotify-badge]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 [youtube-badge]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
