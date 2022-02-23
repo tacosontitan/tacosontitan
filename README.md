@@ -8,10 +8,12 @@ I have a rather limited network presence, but I'm most active here on GitHub, ov
 
 <p align="left">
 
+<!-- Twitter -->
 <a href="https://twitter.com/tacosontitan" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tacosontitan" height="30" width="40" />
 </a>
 
+<!-- Stack Overflow -->
 <a href="https://stackoverflow.com/users/tacosontitan" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/stackoverflow.png" alt="tacosontitan" height="75" width="75" />
 </a>
@@ -34,97 +36,97 @@ I'm a senior developer with more than a decade of experience creating and mainta
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/bash.png" alt="bash" width="75" height="75"/>
 </a>
 
-<!-- -->
+<!-- Bootstrap -->
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/bootstrap.png" alt="bootstrap" width="75" height="75"/>
 </a>
 
-<!-- -->
+<!-- C# -->
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/csharp.png" alt="csharp" width="75" height="75"/>
 </a>
 
-<!-- -->
+<!-- CSS -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/css.png" alt="css3" width="75" height="75"/> 
 </a>
 
-<!-- -->
+<!-- .NET -->
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/msnet.png" alt="dotnet" width="75" height="75"/> 
 </a>
 
-<!-- -->
+<!-- Electron JS -->
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/electron.png" alt="electron" width="75" height="75"/> 
 </a>
 
-<!-- -->
+<!-- Firebase -->
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/firebase.png" alt="firebase" width="75" height="75"/> 
 </a>
 
-<!-- -->
+<!-- Git -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/git.png" alt="git" width="75" height="75"/> 
 </a>
 
-<!-- -->
+<!-- HTML -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/html.png" alt="html5" width="75" height="75"/> 
 </a>
 
-<!-- -->
+<!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/javascript.png" alt="javascript" width="75" height="75"/> 
 </a>
 
-<!-- -->
+<!-- Mongo DB -->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/mongo.png" alt="mongodb" width="75" height="75"/> 
 </a>
 
-<!-- -->
+<!-- Microsoft SQL -->
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/mssql.png" alt="mssql" width="75" height="75"/> 
 </a>
 
-<!-- -->
+<!-- Node JS -->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/node.png" alt="nodejs" width="75" height="75"/> 
 </a>
 
-<!-- -->
+<!-- Postman -->
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/postman.png" alt="postman" width="75" height="75"/> 
 </a>
 
-<!-- -->
+<!-- Rabbit MQ -->
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/rabbit.png" alt="rabbitMQ" width="75" height="75"/> 
 </a>
 
-<!-- -->
+<!-- React JS -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/react.png" alt="react" width="75" height="75"/> 
 </a>
 
-<!-- -->
+<!-- SASS -->
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/sass.png" alt="sass" width="75" height="75"/> 
 </a>
 
-<!-- -->
+<!-- TypeScript -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/typescript.png" alt="typescript" width="75" height="75"/> 
 </a>
 
-<!-- -->
+<!-- Unity 3D -->
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="75" height="75"/> 
 </a>
 
-<!-- -->
+<!-- Webpack -->
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/webpack.png" alt="webpack" width="75" height="75"/> 
 </a>
