@@ -26,7 +26,7 @@ I'm a senior developer with more than a decade of experience creating and mainta
 
 <!-- Azure -->
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/azure.png" alt="azure" width="75" height="75"/>
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/azure.png" alt="azure" width="75" height="75" style="padding: 5px"/>
 </a>
 
 <!-- Bash -->
