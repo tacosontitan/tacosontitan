@@ -8,16 +8,12 @@ I have a rather limited network presence, but I'm most active here on GitHub, ov
 
 <p align="left">
 
-<a href="https://codepen.io/tacosontitan" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tacosontitan" height="30" width="40" />
-</a>
-
 <a href="https://twitter.com/tacosontitan" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tacosontitan" height="30" width="40" />
 </a>
 
 <a href="https://stackoverflow.com/users/tacosontitan" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tacosontitan" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/stackoverflow.png" alt="tacosontitan" height="75" width="75" />
 </a>
 </p>
 
