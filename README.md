@@ -22,7 +22,7 @@ I have a rather limited network presence, but I'm most active here on GitHub, ov
 <sub>***Note**: I don't respond to direct messages from non-sponsors outside of the discussions area.*</sub>
 
 ### ⚒️ What do I do?
-I'm a senior developer with more than a decade of experience creating and maintaining software applications. In my career, I've particpated in teams ranging in size from 2 to 50 developers, and lead teams of 3 to 5. With my years of working knowledge, I now create infinitely scalable solutions to a vast expanse of issues in the transportation and logistics industry utilizing a colorful array of technologies.
+I'm a senior developer with more than a decade of experience creating and maintaining software applications. In my career, I've particpated in teams ranging in size from 2 to 50 developers, and lead teams of 3 to 5. With my years of working knowledge, I now create infinitely scalable solutions to a vast expanse of issues in the transportation and logistics industry, utilizing a colorful array of technologies.
 
 <p align="left">
 
