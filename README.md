@@ -43,7 +43,7 @@ I'm a senior developer with more than a decade of experience creating and mainta
 </a>
 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="75" height="75"/>
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/csharp.png" alt="csharp" width="75" height="75"/>
 </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
