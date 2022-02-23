@@ -65,7 +65,7 @@ I'm a senior developer with more than a decade of experience creating and mainta
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/html.png" alt="html5" width="75" height="75"/> 
 </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/javascript.png" alt="javascript" width="75" height="75"/> 
 </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
