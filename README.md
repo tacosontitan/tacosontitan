@@ -77,7 +77,7 @@ I'm a senior developer with more than a decade of experience creating and mainta
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/node.png" alt="nodejs" width="75" height="75"/> 
 </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="75" height="75"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/postman.png" alt="postman" width="75" height="75"/> 
 </a> 
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="75" height="75"/> 
