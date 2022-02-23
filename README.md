@@ -35,7 +35,7 @@ I'm a senior developer with more than a decade of experience creating and mainta
 
 <!-- Bash -->
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="75" height="75"/>
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/bash.png" alt="bash" width="75" height="75"/>
 </a>
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
