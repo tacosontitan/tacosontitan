@@ -95,7 +95,7 @@ I'm a senior developer with more than a decade of experience creating and mainta
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="75" height="75"/> 
 </a> 
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="75" height="75"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/webpack.png" alt="webpack" width="75" height="75"/> 
 </a>
 
 </p>
