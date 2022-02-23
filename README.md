@@ -30,7 +30,7 @@ I'm a senior developer with more than a decade of experience creating and mainta
 
 <!-- Azure -->
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-<img src="hhttps://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/azure.png" alt="azure" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/azure.png" alt="azure" width="40" height="40"/>
 </a>
 
 <!-- Bash -->
