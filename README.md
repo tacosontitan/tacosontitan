@@ -74,7 +74,7 @@ I'm a senior developer with more than a decade of experience creating and mainta
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/mssql.png" alt="mssql" width="75" height="75"/> 
 </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="75" height="75"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/node.png" alt="nodejs" width="75" height="75"/> 
 </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="75" height="75"/> 
