@@ -28,107 +28,107 @@ I'm a senior developer with more than a decade of experience creating and mainta
 
 <!-- Azure -->
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/azure.png" alt="azure" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/azure.png" alt="azure" width="50" height="50"/>
 </a>
 
 <!-- Bash -->
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/bash.png" alt="bash" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/bash.png" alt="bash" width="50" height="50"/>
 </a>
 
 <!-- Bootstrap -->
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/bootstrap.png" alt="bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/bootstrap.png" alt="bootstrap" width="50" height="50"/>
 </a>
 
 <!-- C# -->
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/csharp.png" alt="csharp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/csharp.png" alt="csharp" width="50" height="50"/>
 </a>
 
 <!-- CSS -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/css.png" alt="css3" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/css.png" alt="css3" width="50" height="50"/> 
 </a>
 
 <!-- .NET -->
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/msnet.png" alt="dotnet" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/msnet.png" alt="dotnet" width="50" height="50"/> 
 </a>
 
 <!-- Electron JS -->
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/electron.png" alt="electron" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/electron.png" alt="electron" width="50" height="50"/> 
 </a>
 
 <!-- Firebase -->
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/firebase.png" alt="firebase" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/firebase.png" alt="firebase" width="50" height="50"/> 
 </a>
 
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/git.png" alt="git" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/git.png" alt="git" width="50" height="50"/> 
 </a>
 
 <!-- HTML -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/html.png" alt="html5" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/html.png" alt="html5" width="50" height="50"/> 
 </a>
 
 <!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/javascript.png" alt="javascript" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/javascript.png" alt="javascript" width="50" height="50"/> 
 </a>
 
 <!-- Mongo DB -->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/mongo.png" alt="mongodb" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/mongo.png" alt="mongodb" width="50" height="50"/> 
 </a>
 
 <!-- Microsoft SQL -->
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/mssql.png" alt="mssql" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/mssql.png" alt="mssql" width="50" height="50"/> 
 </a>
 
 <!-- Node JS -->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/node.png" alt="nodejs" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/node.png" alt="nodejs" width="50" height="50"/> 
 </a>
 
 <!-- Postman -->
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/postman.png" alt="postman" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/postman.png" alt="postman" width="50" height="50"/> 
 </a>
 
 <!-- Rabbit MQ -->
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/rabbit.png" alt="rabbitMQ" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/rabbit.png" alt="rabbitMQ" width="50" height="50"/> 
 </a>
 
 <!-- React JS -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/react.png" alt="react" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/react.png" alt="react" width="50" height="50"/> 
 </a>
 
 <!-- SASS -->
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/sass.png" alt="sass" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/sass.png" alt="sass" width="50" height="50"/> 
 </a>
 
 <!-- TypeScript -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/typescript.png" alt="typescript" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/typescript.png" alt="typescript" width="50" height="50"/> 
 </a>
 
 <!-- Unity 3D -->
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/unity.png" alt="unity" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/unity.png" alt="unity" width="50" height="50"/> 
 </a>
 
 <!-- Webpack -->
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/webpack.png" alt="webpack" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/webpack.png" alt="webpack" width="50" height="50"/> 
 </a>
 
 </p>
