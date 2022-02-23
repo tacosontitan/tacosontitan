@@ -5,7 +5,15 @@ namespace Sandbox.Modules;
 /// Represents the popular programming test `fizz-buzz` in a way that implements the chain of responsibility design pattern; as a <see cref="ConsumableModule" />.
 /// </summary>
 internal sealed class FizzBuzz : ConsumableModule {
+
+    #region Constructor
+
     public FizzBuzz() : base("fizz", "Fizz Buzz", "Demonstrates the chain of responsibility pattern using fizz-buzz.") { }
+
+    #endregion
+
+    #region Public Methods
+
     public override void Invoke()
     {
         // Create the chain; though it seems backwards, think about it from an execution standpoint.
@@ -27,4 +35,7 @@ internal sealed class FizzBuzz : ConsumableModule {
         for (int i = 0; i <= 15; i++)
             fizzBuzzProcessor.Process(i);
     }
+
+    #endregion
+    
 }
