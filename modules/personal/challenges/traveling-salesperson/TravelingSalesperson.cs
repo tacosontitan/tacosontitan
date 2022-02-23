@@ -4,7 +4,15 @@ namespace Sandbox.Modules;
 /// Represents the traveling salesperson problem.
 /// </summary>
 internal sealed class TravelingSalesperson : ConsumableModule {
+
+    #region Constructor
+
     public TravelingSalesperson() : base("traveler", "Traveling Salesperson", "Calculates the shortest path between a specified number of random cities.") { }
+
+    #endregion
+
+    #region Public Methods
+
     public override void Invoke() {
         Console.Write("Traveling Salesperson: How many cities should the salesperson traverse through?\n> ");
         var userInput = Console.ReadLine();
@@ -13,6 +21,8 @@ internal sealed class TravelingSalesperson : ConsumableModule {
         } else
             PostInvalidInput(userInput ?? string.Empty);
     }
+
+    #endregion
 
     #region Private Methods
 
