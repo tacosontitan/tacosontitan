@@ -39,9 +39,8 @@ internal sealed class TravelingSalesperson : ConsumableModule {
                 PostInvalidInput($"There are only `{cityCount}` city names available.");
             else {
                 IEnumerable<City> cities = GenerateCities(x);
-                foreach (City city in cities) {
+                foreach (City city in cities)
                     Console.WriteLine($"Traveling Salesperson: `{city.Name}` is located at `{city.Coordinates.Latitude}`, `{city.Coordinates.Longitude}`.");
-                }
             }
         } else
             PostInvalidInput(userInput ?? string.Empty);
