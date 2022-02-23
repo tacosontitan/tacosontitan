@@ -10,7 +10,7 @@ I have a rather limited network presence, but I'm most active here on GitHub, ov
 
 <!-- Twitter -->
 <a href="https://twitter.com/tacosontitan" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tacosontitan" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/twitter.png" alt="tacosontitan" height="75" width="75" />
 </a>
 
 <!-- Stack Overflow -->
@@ -123,7 +123,7 @@ I'm a senior developer with more than a decade of experience creating and mainta
 
 <!-- Unity 3D -->
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="75" height="75"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/unity.png" alt="unity" width="75" height="75"/> 
 </a>
 
 <!-- Webpack -->
