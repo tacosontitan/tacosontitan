@@ -50,7 +50,7 @@ I'm a senior developer with more than a decade of experience creating and mainta
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/css.png" alt="css3" width="75" height="75"/> 
 </a> 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="75" height="75"/> 
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/msnet.png" alt="dotnet" width="75" height="75"/> 
 </a> 
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="75" height="75"/> 
