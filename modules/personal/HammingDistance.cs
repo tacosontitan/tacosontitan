@@ -4,7 +4,15 @@ namespace Sandbox.Modules;
 /// Represents the Hamming distance (the number of differences between two values).
 /// </summary>
 internal sealed class HammingDistance : ConsumableModule {
+
+    #region Constructor
+
     public HammingDistance() : base("hamming", "Hamming Distance", "Calculates the number of different bits between two integers.") { }
+
+    #endregion
+
+    #region Public Methods
+
     public override void Invoke() {
         Console.Write("Hamming Distance: Please supply a value for x.\n> ");
         var userInput = Console.ReadLine();
@@ -18,6 +26,8 @@ internal sealed class HammingDistance : ConsumableModule {
         } else
             PostInvalidInput(userInput ?? string.Empty);
     }
+
+    #endregion
 
     #region Private Methods
 
