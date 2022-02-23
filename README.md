@@ -123,8 +123,8 @@ Absolutely, and there's actually a [website](https://www.buymeacoffee.com/tacoso
 My profile picture and header image are creations I ordered from [lucy_was_taken](https://www.fiverr.com/lucy_was_taken) on Fiverr. If you like her work, feel free to let her know I sent you her way!
 
 <!-- Badges -->
-[spotify-badge]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
-[youtube-badge]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+[spotify-badge]: https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/spotify.png
+[youtube-badge]: https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/youtube.png
 [bmac-badge]: https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png
 
 <!-- Music Links -->
