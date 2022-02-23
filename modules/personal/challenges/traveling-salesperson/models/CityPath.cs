@@ -55,6 +55,7 @@ internal sealed class CityPath {
     /// <param name="a">The left operand.</param>
     /// <param name="b">The right operand.</param>
     /// <returns>Returns the distance between the two specified cities.</returns>
+    /// <see href="https://en.wikipedia.org/wiki/Pythagorean_theorem" />
     private double CalculateDistance(City a, City b) {
         double x = a.Coordinates.Longitude - b.Coordinates.Longitude;
         double y = a.Coordinates.Latitude - b.Coordinates.Latitude;
