@@ -162,13 +162,16 @@ My profile pictures and header image are creations I ordered from [lucy_was_take
 <p align="left">
 
 <a href="https://www.fiverr.com/lucy_was_taken" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/profile3.png" alt="lucy_was_taken" width="75" height="75"/>
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-4.png" alt="lucy_was_taken" width="75" height="75"/>
 </a>
 <a href="https://www.fiverr.com/lucy_was_taken" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/profile2.png" alt="lucy_was_taken" width="75" height="75"/>
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-3.png" alt="lucy_was_taken" width="75" height="75"/>
 </a>
 <a href="https://www.fiverr.com/lucy_was_taken" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/profile1.png" alt="lucy_was_taken" width="75" height="75"/>
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-2.png" alt="lucy_was_taken" width="75" height="75"/>
+</a>
+<a href="https://www.fiverr.com/lucy_was_taken" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-1.png" alt="lucy_was_taken" width="75" height="75"/>
 </a>
 
 </p>
