@@ -23,6 +23,7 @@ internal sealed class HeapsPathBuilder : PathBuilder {
     /// </summary>
     /// <param name="cities">The cities this path builder will use to build paths.</param>
     public HeapsPathBuilder(IEnumerable<City> cities) : base(cities) {
+        _totalPermutations = cities.Count();
         for (int i = cities.Count() - 1; i >= 1; i--)
             _totalPermutations *= i;
     }

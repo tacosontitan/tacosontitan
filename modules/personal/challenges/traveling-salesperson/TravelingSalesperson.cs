@@ -90,6 +90,8 @@ internal sealed class TravelingSalesperson : ConsumableModule {
         RunPathBuilder(pathBuilder, "The nearest neighbor algorithm");
     }
     private void RunPathBuilder(PathBuilder pathBuilder, string name) {
+        pathBuilder.ProgressChanged += PathBuilder_ProgressChanged;
+
         DateTime startTime = DateTime.Now;
         IEnumerable<CityPath> paths = pathBuilder.GenerateAll();
         TimeSpan elapsedTime = DateTime.Now - startTime;
@@ -102,6 +104,11 @@ internal sealed class TravelingSalesperson : ConsumableModule {
         string[] cities = path.Cities.Select(city => city.Name).ToArray();
         string message = $"Traveling Salesperson: The shortest path is `{string.Join(" -> ", cities)}` for a total distance of `{path.Distance}` kilometers.";
         Console.WriteLine($"Traveling Salesperson: {message}");
+    }
+    private void PathBuilder_ProgressChanged(PathBuilder sender, double @is, double @of) {
+        double percentage = (@is / @of) * 100;
+        SandboxUtilities.WriteConsoleProgressBar((int)percentage, update: true);
+        Console.Write($" ({@is} / {@of})");
     }
 
     #endregion
