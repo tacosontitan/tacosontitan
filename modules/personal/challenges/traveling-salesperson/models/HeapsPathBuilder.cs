@@ -32,7 +32,10 @@ internal sealed class HeapsPathBuilder : PathBuilder {
             yield return new CityPath(cities);
         else {
             for (int i = 0; i < n; i++) {
-                _ = GeneratePaths(n - 1, cities);
+                IEnumerable<CityPath> paths = GeneratePaths(n - 1, cities);
+                foreach (CityPath path in paths)
+                    yield return path;
+
                 int swapIndex = n % 2 == 0 ? i : 0;
                 (cities[swapIndex], cities[n - 1]) = (cities[n - 1], cities[swapIndex]);
             }
