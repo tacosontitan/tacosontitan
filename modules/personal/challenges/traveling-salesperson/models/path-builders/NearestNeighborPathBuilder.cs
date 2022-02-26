@@ -24,7 +24,11 @@ internal sealed class NearestNeighborPathBuilder : PathBuilder {
     public override IEnumerable<CityPath> GenerateAll() {
         List<CityPath> paths = new List<CityPath>();
         foreach (City city in Cities)
-            paths.Add(GeneratePath(city));
+        {
+            CityPath? path = GeneratePath(city);
+            if (path != null)
+                paths.Add(path);
+        }
 
         return paths;
     }
@@ -33,21 +37,31 @@ internal sealed class NearestNeighborPathBuilder : PathBuilder {
 
     #region Private Methods
 
-    private CityPath GeneratePath(City startingCity) {
+    private CityPath? GeneratePath(City startingCity) {
         IEnumerable<City> remainingCities = Cities.Where(city => city.Id != startingCity.Id);
-        City nextCity = GetNearestCity(startingCity, remainingCities.ToArray());
-        List<City> cities = new List<City> { startingCity, nextCity };
+        City? nextCity = GetNearestCity(startingCity, remainingCities.ToArray());
+        if (nextCity != null)
+        {
+            List<City> cities = new List<City> { startingCity, nextCity };
 
-        while (remainingCities.Count() > 0) {
-            remainingCities = Cities.Where(w => !cities.Any(a => a.Id == w.Id));
-            nextCity = GetNearestCity(nextCity, remainingCities);
-            cities.Add(nextCity);
+            while (remainingCities.Count() > 0)
+            {
+                remainingCities = Cities.Where(w => !cities.Any(a => a.Id == w.Id));
+                if (nextCity != null)
+                {
+                    nextCity = GetNearestCity(nextCity, remainingCities);
+                    if (nextCity != null)
+                        cities.Add(nextCity);
+                }
+            }
+            return new CityPath(cities);
         }
-        return new CityPath(cities);
+
+        return null;
     }
-    private City GetNearestCity(City currentCity, IEnumerable<City> remainingCities) {
+    private static City? GetNearestCity(City currentCity, IEnumerable<City> remainingCities) {
         double shortestDistance = double.MaxValue;
-        City nearestCity = null;
+        City? nearestCity = null;
         foreach (City city in remainingCities) {
             double distance = currentCity.DistanceTo(city);
             if (distance < shortestDistance) {
