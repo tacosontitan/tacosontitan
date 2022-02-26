@@ -22,7 +22,7 @@ internal sealed class City {
     /// <param name="b">The right operand.</param>
     /// <returns>Returns the distance between the two specified cities.</returns>
     /// <see href="https://en.wikipedia.org/wiki/Pythagorean_theorem" />
-    private double DistanceTo(City destination) {
+    public double DistanceTo(City destination) {
         double x = Coordinates.Longitude - destination.Coordinates.Longitude;
         double y = Coordinates.Latitude - destination.Coordinates.Latitude;
         double sumOfSquares = (x * x) + (y * y);

@@ -22,15 +22,41 @@ internal sealed class NearestNeighborPathBuilder : PathBuilder {
     #region Public Methods
 
     public override IEnumerable<CityPath> GenerateAll() {
-        return null;
+        List<CityPath> paths = new List<CityPath>();
+        foreach (City city in Cities)
+            paths.Add(GeneratePath(city));
+
+        return paths;
     }
 
     #endregion
 
     #region Private Methods
 
-    private City GetNearestCity(City currentCity) {
-        return null;
+    private CityPath GeneratePath(City startingCity) {
+        IEnumerable<City> remainingCities = Cities.Where(city => city.Id != startingCity.Id);
+        City nextCity = GetNearestCity(startingCity, remainingCities.ToArray());
+        List<City> cities = new List<City> { startingCity, nextCity };
+
+        while (remainingCities.Count() > 0) {
+            remainingCities = Cities.Where(w => !cities.Any(a => a.Id == w.Id));
+            nextCity = GetNearestCity(nextCity, remainingCities);
+            cities.Add(nextCity);
+        }
+        return new CityPath(cities);
+    }
+    private City GetNearestCity(City currentCity, IEnumerable<City> remainingCities) {
+        double shortestDistance = double.MaxValue;
+        City nearestCity = null;
+        foreach (City city in remainingCities) {
+            double distance = currentCity.DistanceTo(city);
+            if (distance < shortestDistance) {
+                shortestDistance = distance;
+                nearestCity = city;
+            }
+        }
+
+        return nearestCity;
     }
 
     #endregion

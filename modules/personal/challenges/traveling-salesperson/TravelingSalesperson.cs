@@ -49,6 +49,7 @@ internal sealed class TravelingSalesperson : ConsumableModule {
                     Console.WriteLine($"Traveling Salesperson: The distance of traversing these cities in chronological order is `{path.Distance}` kilometers.");
 
                     RunHeapsAlgorithm(cities);
+                    RunNearestNeighborAlgorithm(cities);
                 }
             }
         } else
@@ -84,18 +85,22 @@ internal sealed class TravelingSalesperson : ConsumableModule {
         HeapsPathBuilder pathBuilder = new (cities);
         RunPathBuilder(pathBuilder, "Heap's algorithm");
     }
+    private void RunNearestNeighborAlgorithm(IEnumerable<City> cities) {
+        NearestNeighborPathBuilder pathBuilder = new (cities);
+        RunPathBuilder(pathBuilder, "The nearest neighbor algorithm");
+    }
     private void RunPathBuilder(PathBuilder pathBuilder, string name) {
         DateTime startTime = DateTime.Now;
         IEnumerable<CityPath> paths = pathBuilder.GenerateAll();
         TimeSpan elapsedTime = DateTime.Now - startTime;
-        Console.WriteLine($"Traveling Salesperson: Heap's algorithm generated `{paths.Count()}` paths in `{elapsedTime.TotalSeconds}` second(s).");
+        Console.WriteLine($"Traveling Salesperson: {name} generated `{paths.Count()}` paths in `{elapsedTime.TotalSeconds}` second(s).");
 
         CityPath shortestPath = paths.OrderBy(path => path.Distance).First();
         PrintPath(shortestPath);
     }
     private void PrintPath(CityPath path) {
         string[] cities = path.Cities.Select(city => city.Name).ToArray();
-        string message = $"The shortest path is `{string.Join(" -> ", cities)}` for a total distance of `{path.Distance}` kilometers.";
+        string message = $"Traveling Salesperson: The shortest path is `{string.Join(" -> ", cities)}` for a total distance of `{path.Distance}` kilometers.";
         Console.WriteLine($"Traveling Salesperson: {message}");
     }
 
