@@ -21,7 +21,7 @@ internal sealed class HeapsPathBuilder : PathBuilder {
 
     #region Public Methods
 
-    public override IEnumerable<CityPath> GenerateAll() => GeneratePaths(Cities.Count() - 1, Cities.ToArray());
+    public override IEnumerable<CityPath> GenerateAll() => GeneratePaths(Cities.Count(), Cities.ToArray());
 
     #endregion
 
@@ -31,13 +31,17 @@ internal sealed class HeapsPathBuilder : PathBuilder {
         if (n == 1)
             yield return new CityPath(cities);
         else {
-            for (int i = 0; i < n; i++) {
-                IEnumerable<CityPath> paths = GeneratePaths(n - 1, cities);
-                foreach (CityPath path in paths)
-                    yield return path;
+            IEnumerable<CityPath> paths = GeneratePaths(n - 1, cities);
+            foreach (CityPath path in paths)
+                yield return path;
 
+            for (int i = 0; i < n - 1; i++) {
                 int swapIndex = n % 2 == 0 ? i : 0;
                 (cities[swapIndex], cities[n - 1]) = (cities[n - 1], cities[swapIndex]);
+
+                paths = GeneratePaths(n - 1, cities);
+                foreach (CityPath path in paths)
+                    yield return path;
             }
         }
     }
