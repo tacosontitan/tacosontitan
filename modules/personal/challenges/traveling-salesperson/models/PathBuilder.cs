@@ -36,4 +36,12 @@ internal abstract class PathBuilder {
 
     #endregion
 
+    #region Events and Handlers
+
+    public delegate void ProgressEventHandler(PathBuilder sender, double @is, double @of);
+    public ProgressEventHandler ProgressChanged;
+    protected void OnProgressChanged(double @is, double @of) => ProgressChanged?.Invoke(this, @is, @of);
+
+    #endregion
+
 }

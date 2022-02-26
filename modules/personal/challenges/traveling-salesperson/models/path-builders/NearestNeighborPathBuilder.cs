@@ -9,13 +9,20 @@ namespace Sandbox.Challenges.TravelingSalesperson;
 /// <see href="https://en.wikipedia.org/wiki/Nearest_neighbour_algorithm"/>
 internal sealed class NearestNeighborPathBuilder : PathBuilder {
 
+    #region Fields
+
+    private double _processedPaths;
+    private double _totalPaths;
+
+    #endregion
+
     #region Constructor
 
     /// <summary>
     /// Creates a new instance of <see cref="NearestNeighborPathBuilder"/> with the specified cities.
     /// </summary>
     /// <param name="cities">The cities this path builder will use to build paths.</param>
-    public NearestNeighborPathBuilder(IEnumerable<City> cities) : base(cities) { }
+    public NearestNeighborPathBuilder(IEnumerable<City> cities) : base(cities) => _totalPaths = cities.Count();
 
     #endregion
 
@@ -54,6 +61,8 @@ internal sealed class NearestNeighborPathBuilder : PathBuilder {
                         cities.Add(nextCity);
                 }
             }
+
+            OnProgressChanged(++_processedPaths, _totalPaths);
             return new CityPath(cities);
         }
 
