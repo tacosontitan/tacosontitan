@@ -1,3 +1,5 @@
+namespace Sandbox.Challenges.AntColony;
+
 /// <summary>
 /// Represents an <see cref="Ant"/> in the AI challenge.
 /// </summary>

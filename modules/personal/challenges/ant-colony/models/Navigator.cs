@@ -1,3 +1,4 @@
+namespace Sandbox.Challenges.AntColony;
 internal abstract class Navigator {
 
     #region Fields

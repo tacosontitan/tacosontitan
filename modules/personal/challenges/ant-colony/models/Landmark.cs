@@ -1,3 +1,5 @@
+namespace Sandbox.Challenges.AntColony;
+
 /// <summary>
 /// Represents a <see cref="Landmark"/> in the AI challenge.
 /// </summary>
