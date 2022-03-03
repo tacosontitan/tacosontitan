@@ -13,6 +13,12 @@ namespace Sandbox.Modules;
 /// </summary>
 internal sealed class AntColony : ConsumableModule {
 
+    #region Fields
+
+    private Random _random = new Random();
+
+    #endregion
+
     #region Constructor
 
     public AntColony() : base("ants", "Ant Colony", "Summons an ant colony to find optimal paths between landmarks.") { }
@@ -21,11 +27,13 @@ internal sealed class AntColony : ConsumableModule {
 
     #region Public Methods
 
-    public override void Invoke() {
+    public override async void Invoke() {
         Console.Write("Ant Colony: How many landmarks should the colony evaluate?.\n> ");
         var userInput = Console.ReadLine();
         if (int.TryParse(userInput, out int landmarkCount)) {
-            
+            List<Landmark> landmarks = new ();
+            for (int i = 0; i < landmarkCount; i++)
+                landmarks.Add(new Landmark(i, _random.NextDouble() * 250));
         } else
             PostInvalidInput(userInput ?? string.Empty);
     }
