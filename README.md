@@ -157,7 +157,10 @@ I Like Cute Girls | cute girls doing cute things, miraie | [![Listen on Spotify]
 Absolutely, and there's actually a [website](https://www.buymeacoffee.com/tacosontitan) just for that!
 
 ### 🎨 Where did I get my artwork?
-My profile pictures and header image are creations I ordered from [lucy_was_taken](https://www.fiverr.com/lucy_was_taken) on Fiverr. If you like her work, feel free to let her know I sent you her way!
+My profile pictures and header image are creations I ordered from various artists on Fiverr.
+
+#### [lucy_was_taken](https://www.fiverr.com/lucy_was_taken)
+She is easily my favorite artist on Fiverr. If you like her work, feel free to let her know I sent you her way!
 
 <p align="left">
 
@@ -175,6 +178,20 @@ My profile pictures and header image are creations I ordered from [lucy_was_take
 </a>
 
 </p>
+
+#### [deedee46](https://www.fiverr.com/deedee46)
+They did a fantastic job bringing my vision to life!
+
+<p align="left">
+
+<a href="https://www.fiverr.com/deedee46" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-5.png" alt="deedee46" width="75" height="75"/>
+</a>
+
+</p>
+
+#### [eushaa](https://www.fiverr.com/eushaa)
+This artist created all of the circular logos you see in this readme. I love the final result, but I must caution that working with them was a very painful process.
 
 <!-- Badges -->
 [spotify-badge]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
