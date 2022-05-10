@@ -187,6 +187,15 @@ They did a fantastic job bringing my vision to life!
 <a href="https://www.fiverr.com/deedee46" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-5.png" alt="deedee46" width="75" height="75"/>
 </a>
+<a href="https://www.fiverr.com/deedee46" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-6.png" alt="deedee46" width="75" height="75"/>
+</a>
+<a href="https://www.fiverr.com/deedee46" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-7.png" alt="deedee46" width="75" height="75"/>
+</a>
+<a href="https://www.fiverr.com/deedee46" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-8.png" alt="deedee46" width="75" height="75"/>
+</a>
 
 </p>
 
