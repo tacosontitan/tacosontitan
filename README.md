@@ -202,7 +202,7 @@ They did a fantastic job bringing my vision to life!
 
 </p>
 
-#### [andiwandirana]()
+#### [andiwandirana](https://www.fiverr.com/andiwandirana)
 I've bought many emotes from this artist, but only a handful for myself so far. The quality and speed of their work always astounds me, so they certainly deserve a spot here!
 
 #### [eushaa](https://www.fiverr.com/eushaa)
