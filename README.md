@@ -202,6 +202,9 @@ They did a fantastic job bringing my vision to life!
 
 </p>
 
+#### [andiwandirana]()
+I've bought many emotes from this artist, but only a handful for myself so far. The quality and speed of their work always astounds me, so they certainly deserve a spot here!
+
 #### [eushaa](https://www.fiverr.com/eushaa)
 This artist created all of the circular logos you see in this readme. I love the final result, but I must caution that working with them was a very painful process.
 
