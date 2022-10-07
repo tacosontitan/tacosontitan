@@ -205,6 +205,14 @@ They did a fantastic job bringing my vision to life!
 #### [andiwandirana](https://www.fiverr.com/andiwandirana)
 I've bought many emotes from this artist, but only a handful for myself so far. The quality and speed of their work always astounds me, so they certainly deserve a spot here!
 
+<p align="left">
+
+<a href="https://www.fiverr.com/andiwandirana" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-10.png" alt="andiwandirana" width="75" height="75"/>
+</a>
+
+</p>
+
 #### [eushaa](https://www.fiverr.com/eushaa)
 This artist created all of the circular logos you see in this readme. I love the final result, but I must caution that working with them was a very painful process.
 
