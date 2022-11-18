@@ -38,6 +38,7 @@ do {
                 if (module != null) {
                     module.MessageReady += RecordMessage;
                     moduleService.Invoke(module);
+                    Console.WriteLine($"{module.Name}: Invocation complete.");
                 }
             }
             else
