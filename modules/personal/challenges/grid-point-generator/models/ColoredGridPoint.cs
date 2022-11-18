@@ -1,10 +1,13 @@
 namespace sandbox.modules.personal.challenges.gridpointgenerator
 {
+    /// <summary>
+    /// Represents a <see cref="GridPoint"/> with a <see cref="ConsoleColor"/> for display purposes.
+    /// </summary>
     public class ColoredGridPoint : GridPoint
     {
         /// <summary>
-        /// The numeric value representing the color of this <see cref="GridPoint"/>.
+        /// The <see cref="ConsoleColor"/> of this <see cref="GridPoint"/>.
         /// </summary>
-        public uint Color { get; set; }
+        public ConsoleColor Color { get; set; }
     }
 }
