@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Sandbox;
 
 namespace sandbox.modules.personal.challenges.gridpointgenerator {
@@ -26,7 +22,7 @@ namespace sandbox.modules.personal.challenges.gridpointgenerator {
         public override void Invoke() {
             if (TryGetUserInput("What should the scale of the grid be?", out int gridSize)) {
                 if (gridSize < 0 || gridSize > 5) {
-                    Console.WriteLine("Only grids between a scale of 1 and 5 are currently supported in the sandbox due to display limitations.");
+                    PostMessage("Only grids between a scale of 1 and 5 are currently supported in the sandbox due to display limitations.");
                     return;
                 } else if (TryGetUserInput("What should the color of event points be?", out ConsoleColor evenColor)) {
                     if (TryGetUserInput("What should the color of odd points be?", out ConsoleColor oddColor)) {
@@ -43,7 +39,7 @@ namespace sandbox.modules.personal.challenges.gridpointgenerator {
                                 Console.Write("██");
                             }
                         } catch (Exception e) {
-                            Console.WriteLine($"Grid Point Generator: {e.Message}");
+                            PostMessage(e.Message);
                         } finally {
                             Console.ForegroundColor = previousForegroundColor;
                             Console.Write(Environment.NewLine);
