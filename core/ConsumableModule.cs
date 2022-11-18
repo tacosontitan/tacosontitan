@@ -54,6 +54,30 @@ public abstract class ConsumableModule {
     /// </summary>
     /// <param name="message">The message to post.</param>
     protected void PostMessage(string message) => MessageReady?.Invoke(this, message);
+    /// <summary>
+    /// Attempts to get the user input using a specified prompt.
+    /// </summary>
+    /// <param name="prompt">The prompt to be displayed to the user.</param>
+    /// <param name="result">The result of the user's input cast to the appropriate type.</param>
+    /// <typeparam name="T">Specifies the type which is expected.</typeparam>
+    /// <returns><see langword="true"/> if the user's input was successfully captured as the specified type, otherwise <see langword="false"/>.</returns>
+    protected bool TryGetUserInput<T>(string prompt, out T? result) {
+        try {
+            Console.Write($"Grid Point Generator: {prompt}\n>");
+            var userInput = Console.ReadLine();
+            if (userInput is not null) {
+                result = typeof(T).IsEnum
+                    ? (T?)Enum.Parse(typeof(T), userInput.ToString(), true)
+                    : (T?)Convert.ChangeType(userInput, typeof(T));
+                return true;
+            }
+        } catch (Exception e) {
+            PostMessage($"Unable to parse response. {e.Message}");
+        }
+
+        result = default;
+        return false;
+    }
 
     #endregion
 
