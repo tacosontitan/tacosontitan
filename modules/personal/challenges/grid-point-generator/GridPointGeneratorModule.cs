@@ -24,7 +24,33 @@ namespace sandbox.modules.personal.challenges.gridpointgenerator {
         #region Public Methods
 
         public override void Invoke() {
-            
+            if (TryGetUserInput("What should the scale of the grid be?", out int gridSize)) {
+                if (gridSize < 0 || gridSize > 5) {
+                    Console.WriteLine("Only grids between a scale of 1 and 5 are currently supported in the sandbox due to display limitations.");
+                    return;
+                } else if (TryGetUserInput("What should the color of event points be?", out ConsoleColor evenColor)) {
+                    if (TryGetUserInput("What should the color of odd points be?", out ConsoleColor oddColor)) {
+                        ConsoleColor previousForegroundColor = Console.ForegroundColor;
+                        try {
+                            int scale = 0;
+                            foreach (ColoredGridPoint gridPoint in GenerateGrid(gridSize, evenColor, oddColor)) {
+                                Console.ForegroundColor = gridPoint.Color;
+                                if (++scale > gridSize) {
+                                    scale = 1;
+                                    Console.Write(Environment.NewLine);
+                                }
+
+                                Console.Write("██");
+                            }
+                        } catch (Exception e) {
+                            Console.WriteLine($"Grid Point Generator: {e.Message}");
+                        } finally {
+                            Console.ForegroundColor = previousForegroundColor;
+                            Console.Write(Environment.NewLine);
+                        }
+                    }
+                }
+            }
         }
 
         #endregion
@@ -42,13 +68,18 @@ namespace sandbox.modules.personal.challenges.gridpointgenerator {
             try {
                 Console.Write($"Grid Point Generator: {prompt}\n>");
                 var userInput = Console.ReadLine();
-                result = (T?)Convert.ChangeType(userInput, typeof(T));
-                return true;
+                if (userInput is not null) {
+                    result = typeof(T).IsEnum
+                        ? (T?)Enum.Parse(typeof(T), userInput.ToString(), true)
+                        : (T?)Convert.ChangeType(userInput, typeof(T));
+                    return true;
+                }
             } catch (Exception e) {
                 Console.WriteLine($"Grid Point Generator: {e.Message}");
-                result = default;
-                return false;
             }
+
+            result = default;
+            return false;
         }
         /// <summary>
         /// Generates a grid with the specified scale using the specified colors.
@@ -57,7 +88,7 @@ namespace sandbox.modules.personal.challenges.gridpointgenerator {
         /// <param name="colorA">The color to be used for even points.</param>
         /// <param name="colorB">The color to be used for odd points.</param>
         /// <returns>A collection of <see cref="ColoredGridPoint"/> instances representing the full grid.</returns>
-        private IEnumerable<ColoredGridPoint> GenerateGrid(int scale, uint colorA, uint colorB) {
+        private IEnumerable<ColoredGridPoint> GenerateGrid(int scale, ConsoleColor colorA, ConsoleColor colorB) {
             int total = 0;
             for (int x = 0; x < scale; x++) {
                 for (int y = 0; y < scale; y++) {
