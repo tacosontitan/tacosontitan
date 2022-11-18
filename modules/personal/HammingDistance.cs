@@ -59,7 +59,7 @@ internal sealed class HammingDistance : ConsumableModule {
     /// <returns>Returns the number of set bits in the specified value.</returns>
     private int CountBits(int value) {
         int count = 0;
-        while (value > 0) {
+        while (value != 0) {
             // Here, we take advantage of the binary properties of value - 1.
             // Let's say that value = 23 (00010111).
             // value - 1 will flip the rightmost bit 22 = 00010110.
