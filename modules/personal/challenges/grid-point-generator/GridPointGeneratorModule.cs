@@ -40,8 +40,6 @@ namespace sandbox.modules.personal.challenges.gridpointgenerator {
                                     Console.Write(Environment.NewLine);
                                 }
 
-                                // Test.
-
                                 Console.Write("██");
                             }
                         } catch (Exception e) {
