@@ -144,7 +144,7 @@ Satellite | WYS | [![Listen on Spotify][spotify-badge]][s0] [![Listen on YouTube
 Shockwave | Marshmello | [![Listen on Spotify][spotify-badge]][s1] [![Listen on YouTube][youtube-badge]][y1]
 ODDTAXI | スカートとPUNPEE | [![Listen on Spotify][spotify-badge]][s2] [![Listen on YouTube][youtube-badge]][y2]
 Lost in Paradise | ALI ft. AKLO | [![Listen on Spotify][spotify-badge]][s3] [![Listen on YouTube][youtube-badge]][y3]
-The Speed in My Soul | CG5, Hyper Potions | [![Listen on Spotify][spotify-badge]][s4] [![Listen on YouTube][youtube-badge]][y4]
+One More Time | Daft Punk | [![Listen on Spotify][spotify-badge]][s4] [![Listen on YouTube][youtube-badge]][y4]
 Ticking | TIN | [![Listen on Spotify][spotify-badge]][s5] [![Listen on YouTube][youtube-badge]][y5]
 True Friends | Bring Me The Horizon | [![Listen on Spotify][spotify-badge]][s6] [![Listen on YouTube][youtube-badge]][y6]
 Fall | Palisades | [![Listen on Spotify][spotify-badge]][s7] [![Listen on YouTube][youtube-badge]][y7]
@@ -243,8 +243,8 @@ This artist created all of the circular logos you see in this readme. I love the
 [s3]: https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX?si=b342c244fd5e4f89
 [y3]: https://www.youtube.com/watch?v=E-9LT2jizkA
 
-[s4]: https://open.spotify.com/track/1YKuyBE345bnC4hkZOGAXT?si=1feac0eaab2743c6
-[y4]: https://www.youtube.com/watch?v=Edaj8u_44n4
+[s4]: https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV?si=30985d7f998b478e
+[y4]: https://www.youtube.com/watch?v=FGBhQbmPwH8
 
 [s5]: https://open.spotify.com/track/1t7ZwPiCYLOi1xlP235GRa?si=675b5aaf5ea4404e
 [y5]: https://www.youtube.com/watch?v=8j2Ag41KgdY
