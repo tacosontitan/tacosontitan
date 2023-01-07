@@ -146,7 +146,7 @@ ODDTAXI | スカートとPUNPEE | [![Listen on Spotify][spotify-badge]][s2] [![L
 Lost in Paradise | ALI ft. AKLO | [![Listen on Spotify][spotify-badge]][s3] [![Listen on YouTube][youtube-badge]][y3]
 One More Time | Daft Punk | [![Listen on Spotify][spotify-badge]][s4] [![Listen on YouTube][youtube-badge]][y4]
 Overthinking | INZO | [![Listen on Spotify][spotify-badge]][s5] [![Listen on YouTube][youtube-badge]][y5]
-True Friends | Bring Me The Horizon | [![Listen on Spotify][spotify-badge]][s6] [![Listen on YouTube][youtube-badge]][y6]
+Rocket Girl | Lemaitre ft. Betty Who | [![Listen on Spotify][spotify-badge]][s6] [![Listen on YouTube][youtube-badge]][y6]
 Fall | Palisades | [![Listen on Spotify][spotify-badge]][s7] [![Listen on YouTube][youtube-badge]][y7]
 NJ Legion Iced Tea | A Day To Remember | [![Listen on Spotify][spotify-badge]][s8] [![Listen on YouTube][youtube-badge]][y8]
 I Like Cute Girls | cute girls doing cute things, miraie | [![Listen on Spotify][spotify-badge]][s9] [![Listen on YouTube][youtube-badge]][y9]
@@ -249,8 +249,8 @@ This artist created all of the circular logos you see in this readme. I love the
 [s5]: https://open.spotify.com/track/7qGoMOzR9pJ1bPl4bFmTN7?si=d64b7119d29c44da
 [y5]: https://www.youtube.com/watch?v=2WrOaA7QCM4
 
-[s6]: https://open.spotify.com/track/1KTJmfwrk5pYqsi9mkY3nT?si=8c91f319cb9e4731
-[y6]: https://www.youtube.com/watch?v=jeQMuTf3B0E
+[s6]: https://open.spotify.com/track/4wvj3LqF8EqGxoNc1FIbHr?si=6d40571e0a4b44ef
+[y6]: https://www.youtube.com/watch?v=bfwOdpur01M
 
 [s7]: https://open.spotify.com/track/4o2mXUsityYafHUt0kWjFx?si=932b0c7a847c47c6
 [y7]: https://www.youtube.com/watch?v=0Va03mW9374
