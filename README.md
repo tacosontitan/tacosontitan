@@ -141,7 +141,7 @@ I listen to an immense variety of music, and with my genre interest ranging from
 Title | Artist | Source
 :------------ | :------------- | :-------------:
 Satellite | WYS | [![Listen on Spotify][spotify-badge]][s0] [![Listen on YouTube][youtube-badge]][y0]
-Overthinker | INZO | [![Listen on Spotify][spotify-badge]][s1] [![Listen on YouTube][youtube-badge]][y1]
+Shockwave | Marshmello | [![Listen on Spotify][spotify-badge]][s1] [![Listen on YouTube][youtube-badge]][y1]
 Good Times Bad Times | Camo & Krooked | [![Listen on Spotify][spotify-badge]][s2] [![Listen on YouTube][youtube-badge]][y2]
 Soak Me In Bleach | The Amity Affliction | [![Listen on Spotify][spotify-badge]][s3] [![Listen on YouTube][youtube-badge]][y3]
 The Speed in My Soul | CG5, Hyper Potions | [![Listen on Spotify][spotify-badge]][s4] [![Listen on YouTube][youtube-badge]][y4]
@@ -234,8 +234,8 @@ This artist created all of the circular logos you see in this readme. I love the
 [s0]: https://open.spotify.com/track/5mCFG50hfO2SS5CxSTCeWQ?si=20be0df6cd304694
 [y0]: https://www.youtube.com/watch?v=UP1tPLkyZyI
 
-[s1]: https://open.spotify.com/track/4K9xid96G3YmIvQZXN9SXg?si=8dde0c3238724804
-[y1]: https://www.youtube.com/watch?v=2WrOaA7QCM4
+[s1]: https://open.spotify.com/track/3sOGVdj5VPY6C2XImtlzj7?si=87af9f4e550c42bc
+[y1]: https://www.youtube.com/watch?v=YH18coS7c9E
 
 [s2]: https://open.spotify.com/track/44nRLXNwTmTIV7Zk7lRol5?si=de1fabedfb6c4098
 [y2]: https://www.youtube.com/watch?v=RyzO6jusY1I
