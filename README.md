@@ -143,7 +143,7 @@ Title | Artist | Source
 Satellite | WYS | [![Listen on Spotify][spotify-badge]][s0] [![Listen on YouTube][youtube-badge]][y0]
 Shockwave | Marshmello | [![Listen on Spotify][spotify-badge]][s1] [![Listen on YouTube][youtube-badge]][y1]
 ODDTAXI | スカートとPUNPEE | [![Listen on Spotify][spotify-badge]][s2] [![Listen on YouTube][youtube-badge]][y2]
-Soak Me In Bleach | The Amity Affliction | [![Listen on Spotify][spotify-badge]][s3] [![Listen on YouTube][youtube-badge]][y3]
+Lost in Paradise | ALI ft. AKLO | [![Listen on Spotify][spotify-badge]][s3] [![Listen on YouTube][youtube-badge]][y3]
 The Speed in My Soul | CG5, Hyper Potions | [![Listen on Spotify][spotify-badge]][s4] [![Listen on YouTube][youtube-badge]][y4]
 Ticking | TIN | [![Listen on Spotify][spotify-badge]][s5] [![Listen on YouTube][youtube-badge]][y5]
 True Friends | Bring Me The Horizon | [![Listen on Spotify][spotify-badge]][s6] [![Listen on YouTube][youtube-badge]][y6]
@@ -240,8 +240,8 @@ This artist created all of the circular logos you see in this readme. I love the
 [s2]: https://open.spotify.com/track/4bMo9lJmh3jNTzfmfQ1YcL?si=484a4a92b8d54014
 [y2]: https://www.youtube.com/watch?v=LKMw0hBDBUw
 
-[s3]: https://open.spotify.com/track/1oB9nCQ3Qm1B1ArD1TAg0R?si=25be84dd6aaa47e2
-[y3]: https://www.youtube.com/watch?v=iF6tDQiQJm4
+[s3]: https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX?si=b342c244fd5e4f89
+[y3]: https://www.youtube.com/watch?v=E-9LT2jizkA
 
 [s4]: https://open.spotify.com/track/1YKuyBE345bnC4hkZOGAXT?si=1feac0eaab2743c6
 [y4]: https://www.youtube.com/watch?v=Edaj8u_44n4
