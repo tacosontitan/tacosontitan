@@ -147,7 +147,7 @@ Lost in Paradise | ALI ft. AKLO | [![Listen on Spotify][spotify-badge]][s3] [![L
 One More Time | Daft Punk | [![Listen on Spotify][spotify-badge]][s4] [![Listen on YouTube][youtube-badge]][y4]
 Overthinking | INZO | [![Listen on Spotify][spotify-badge]][s5] [![Listen on YouTube][youtube-badge]][y5]
 Rocket Girl | Lemaitre ft. Betty Who | [![Listen on Spotify][spotify-badge]][s6] [![Listen on YouTube][youtube-badge]][y6]
-Fall | Palisades | [![Listen on Spotify][spotify-badge]][s7] [![Listen on YouTube][youtube-badge]][y7]
+Neverland | Trifect | [![Listen on Spotify][spotify-badge]][s7] [![Listen on YouTube][youtube-badge]][y7]
 NJ Legion Iced Tea | A Day To Remember | [![Listen on Spotify][spotify-badge]][s8] [![Listen on YouTube][youtube-badge]][y8]
 I Like Cute Girls | cute girls doing cute things, miraie | [![Listen on Spotify][spotify-badge]][s9] [![Listen on YouTube][youtube-badge]][y9]
 
@@ -252,8 +252,8 @@ This artist created all of the circular logos you see in this readme. I love the
 [s6]: https://open.spotify.com/track/4wvj3LqF8EqGxoNc1FIbHr?si=6d40571e0a4b44ef
 [y6]: https://www.youtube.com/watch?v=bfwOdpur01M
 
-[s7]: https://open.spotify.com/track/4o2mXUsityYafHUt0kWjFx?si=932b0c7a847c47c6
-[y7]: https://www.youtube.com/watch?v=0Va03mW9374
+[s7]: https://open.spotify.com/track/5m0uWrm9gp38F81BR6sNvd?si=9ca6d8c033f942de
+[y7]: https://www.youtube.com/watch?v=EdVLbU5vU1I
 
 [s8]: https://open.spotify.com/track/6KyOCzf2A2jjROH4ZokTEw?si=aba1de19645c4180
 [y8]: https://www.youtube.com/watch?v=Z9A7B6zUO-0
