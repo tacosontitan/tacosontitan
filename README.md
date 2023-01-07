@@ -148,7 +148,7 @@ One More Time | Daft Punk | [![Listen on Spotify][spotify-badge]][s4] [![Listen 
 Overthinking | INZO | [![Listen on Spotify][spotify-badge]][s5] [![Listen on YouTube][youtube-badge]][y5]
 Rocket Girl | Lemaitre ft. Betty Who | [![Listen on Spotify][spotify-badge]][s6] [![Listen on YouTube][youtube-badge]][y6]
 Neverland | Trifect | [![Listen on Spotify][spotify-badge]][s7] [![Listen on YouTube][youtube-badge]][y7]
-NJ Legion Iced Tea | A Day To Remember | [![Listen on Spotify][spotify-badge]][s8] [![Listen on YouTube][youtube-badge]][y8]
+Everybody (Backstreet's Back) | Backstreet Boys | [![Listen on Spotify][spotify-badge]][s8] [![Listen on YouTube][youtube-badge]][y8]
 I Like Cute Girls | cute girls doing cute things, miraie | [![Listen on Spotify][spotify-badge]][s9] [![Listen on YouTube][youtube-badge]][y9]
 
 <sub>*Let's be honest, it's impossible to fit all of one's favorite songs into a 10 row table.*</sub>
@@ -255,8 +255,8 @@ This artist created all of the circular logos you see in this readme. I love the
 [s7]: https://open.spotify.com/track/5m0uWrm9gp38F81BR6sNvd?si=9ca6d8c033f942de
 [y7]: https://www.youtube.com/watch?v=EdVLbU5vU1I
 
-[s8]: https://open.spotify.com/track/6KyOCzf2A2jjROH4ZokTEw?si=aba1de19645c4180
-[y8]: https://www.youtube.com/watch?v=Z9A7B6zUO-0
+[s8]: https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ?si=fe3c5becd3054ab0
+[y8]: https://www.youtube.com/watch?v=6M6samPEMpM
 
 [s9]: https://open.spotify.com/track/6pbWDtVZYrpCx6YDQvDS3J?si=a55a82ce31074786
 [y9]: https://www.youtube.com/watch?v=YUyedpix0P8
