@@ -145,7 +145,7 @@ Shockwave | Marshmello | [![Listen on Spotify][spotify-badge]][s1] [![Listen on 
 ODDTAXI | スカートとPUNPEE | [![Listen on Spotify][spotify-badge]][s2] [![Listen on YouTube][youtube-badge]][y2]
 Lost in Paradise | ALI ft. AKLO | [![Listen on Spotify][spotify-badge]][s3] [![Listen on YouTube][youtube-badge]][y3]
 One More Time | Daft Punk | [![Listen on Spotify][spotify-badge]][s4] [![Listen on YouTube][youtube-badge]][y4]
-Ticking | TIN | [![Listen on Spotify][spotify-badge]][s5] [![Listen on YouTube][youtube-badge]][y5]
+Overthinking | INZO | [![Listen on Spotify][spotify-badge]][s5] [![Listen on YouTube][youtube-badge]][y5]
 True Friends | Bring Me The Horizon | [![Listen on Spotify][spotify-badge]][s6] [![Listen on YouTube][youtube-badge]][y6]
 Fall | Palisades | [![Listen on Spotify][spotify-badge]][s7] [![Listen on YouTube][youtube-badge]][y7]
 NJ Legion Iced Tea | A Day To Remember | [![Listen on Spotify][spotify-badge]][s8] [![Listen on YouTube][youtube-badge]][y8]
@@ -246,8 +246,8 @@ This artist created all of the circular logos you see in this readme. I love the
 [s4]: https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV?si=30985d7f998b478e
 [y4]: https://www.youtube.com/watch?v=FGBhQbmPwH8
 
-[s5]: https://open.spotify.com/track/1t7ZwPiCYLOi1xlP235GRa?si=675b5aaf5ea4404e
-[y5]: https://www.youtube.com/watch?v=8j2Ag41KgdY
+[s5]: https://open.spotify.com/track/7qGoMOzR9pJ1bPl4bFmTN7?si=d64b7119d29c44da
+[y5]: https://www.youtube.com/watch?v=2WrOaA7QCM4
 
 [s6]: https://open.spotify.com/track/1KTJmfwrk5pYqsi9mkY3nT?si=8c91f319cb9e4731
 [y6]: https://www.youtube.com/watch?v=jeQMuTf3B0E
