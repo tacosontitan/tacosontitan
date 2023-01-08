@@ -137,7 +137,7 @@ I'm a senior developer with more than a decade of experience creating and mainta
 <sub>*I'm a framework developer at heart, and I have a healthy relationship with unit tests.*</sub>
 
 ### 🎧 What am I listening to?
-I listen to an immense variety of music, and with my genre interest ranging from classical to heavy metal, there's not much I *won't* listen to. If you're curious, the table below contains *some* of my favorite tracks. You can click on the Spotify or YouTube badges in the source column to listen with the respective service.
+I listen to an immense variety of music, and with my genre interest ranging from classical to heavy metal, there's not much I *won't* listen to. If you're curious, the table below contains my top ten most played tracks of 2022 acording to Spotify. You can click on the Spotify or YouTube badges in the source column to listen with the respective service.
 
 Title | Artist | Source
 :------------ | :------------- | :-------------:
