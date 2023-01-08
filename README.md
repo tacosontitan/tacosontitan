@@ -1,5 +1,7 @@
 # Oh, umm, hello there! 👋
-My name is Jamie, but you can call me Taco! I'm just another average millennial, with a 🔥 passion for all things code. I was born in 1991 and I have many hobbies, including creating software, games, and mobile apps, playing video games, and guitar, day trading, and distance running. With that, my goal in life is, and always has been, to learn and experience as much as possible, within reason.
+I'm just another average millennial, with a 🔥 passion for all things code. I was born in 1991 and I have many hobbies, including creating software, games, and mobile apps, playing video games, and guitar, day trading, and distance running. With that, my goal in life is, and always has been, to learn and experience as much as possible, within reason.
+
+<sub>***Preferred Pronouns**: They/Them 💁‍♀️*</sub>
 
 [![Header](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/images/relaxing-header.jpg)]()
 
