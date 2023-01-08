@@ -4,7 +4,7 @@ I'm just another average millennial, with a 🔥 passion for all things code. I 
 [![Header](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/images/relaxing-header.jpg)]()
 <sub>*My preferred pronouns are they/them or she/her. 💁‍♀️*</sub>
 
-### 🗺️ Where am I?
+## 🗺️ Where am I?
 I have a rather limited network presence, but I'm most active here on GitHub, over on Discord, and Stack Overflow. If you'd like to communicate with me, then I have a [discussions area](https://github.com/tacosontitan/tacosontitan/discussions) for that here on GitHub. Additionally, my monthly sponsors have access to my Discord server and can message me directly, if you're [interested in that sort of thing](https://github.com/sponsors/tacosontitan).
 
 <p align="left">
@@ -22,7 +22,7 @@ I have a rather limited network presence, but I'm most active here on GitHub, ov
 
 <sub>***Note**: I don't respond to direct messages from non-sponsors outside of the discussions area.*</sub>
 
-### ⚒️ What do I do?
+## ⚒️ What do I do?
 I'm a senior developer with more than a decade of experience creating and maintaining software applications. In my career, I've particpated in teams ranging in size from 2 to 50 developers, and lead teams of 3 to 5. With my years of working knowledge, I now create infinitely scalable solutions to a vast expanse of issues in the transportation and logistics industry, utilizing a colorful array of technologies.
 
 <p align="left">
@@ -136,7 +136,7 @@ I'm a senior developer with more than a decade of experience creating and mainta
 
 <sub>*I'm a framework developer at heart, and I have a healthy relationship with unit tests.*</sub>
 
-### 🎧 What am I listening to?
+## 🎧 What am I listening to?
 I listen to an immense variety of music, and with my genre interest ranging from classical to heavy metal, there's not much I *won't* listen to. If you're curious, the table below contains my top ten most played tracks of 2022 acording to Spotify. You can click on the Spotify or YouTube badges in the source column to listen with the respective service.
 
 Title | Artist | Source
@@ -154,13 +154,13 @@ Kiss Me More | Doja Cat ft. SZA | [![Listen on Spotify][spotify-badge]][s9] [![L
 
 <sub>*Let's be honest, it's impossible to fit all of one's favorite songs into a 10 row table.*</sub>
 
-### ☕ Do I like coffee?
+## ☕ Do I like coffee?
 Absolutely, and there's actually a [website](https://www.buymeacoffee.com/tacosontitan) just for that!
 
-### 🎨 Where did I get my artwork?
+## 🎨 Where did I get my artwork?
 All of the artwork you find in my GitHub repositories are creations I ordered from various artists on Fiverr.
 
-#### [lucy_was_taken](https://www.fiverr.com/lucy_was_taken)
+### [lucy_was_taken](https://www.fiverr.com/lucy_was_taken)
 She is easily my favorite artist on Fiverr. If you like her work, feel free to let her know I sent you her way!
 
 <p align="left">
@@ -177,7 +177,7 @@ She is easily my favorite artist on Fiverr. If you like her work, feel free to l
 
 </p>
 
-#### [deedee46](https://www.fiverr.com/deedee46)
+### [deedee46](https://www.fiverr.com/deedee46)
 They did a fantastic job bringing my vision to life!
 
 <p align="left">
@@ -194,7 +194,7 @@ They did a fantastic job bringing my vision to life!
 
 </p>
 
-#### [andiwandirana](https://www.fiverr.com/andiwandirana)
+### [andiwandirana](https://www.fiverr.com/andiwandirana)
 I've bought many emotes from this artist, but only a handful for myself so far. The quality and speed of their work always astounds me, so they certainly deserve a spot here!
 
 <p align="left">
@@ -214,7 +214,7 @@ I've bought many emotes from this artist, but only a handful for myself so far. 
 
 </p>
 
-#### [eushaa](https://www.fiverr.com/eushaa)
+### [eushaa](https://www.fiverr.com/eushaa)
 This artist created all of the circular logos you see in this readme.
 
 <!-- Badges -->
