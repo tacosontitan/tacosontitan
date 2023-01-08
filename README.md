@@ -174,9 +174,6 @@ She is easily my favorite artist on Fiverr. If you like her work, feel free to l
 <a href="https://www.fiverr.com/lucy_was_taken" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-2.png" alt="lucy_was_taken" width="75" height="75"/>
 </a>
-<a href="https://www.fiverr.com/lucy_was_taken" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-1.png" alt="lucy_was_taken" width="75" height="75"/>
-</a>
 
 </p>
 
@@ -192,13 +189,7 @@ They did a fantastic job bringing my vision to life!
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-6.png" alt="deedee46" width="75" height="75"/>
 </a>
 <a href="https://www.fiverr.com/deedee46" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-7.png" alt="deedee46" width="75" height="75"/>
-</a>
-<a href="https://www.fiverr.com/deedee46" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-8.png" alt="deedee46" width="75" height="75"/>
-</a>
-<a href="https://www.fiverr.com/deedee46" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-9.png" alt="deedee46" width="75" height="75"/>
 </a>
 
 </p>
@@ -224,7 +215,7 @@ I've bought many emotes from this artist, but only a handful for myself so far. 
 </p>
 
 #### [eushaa](https://www.fiverr.com/eushaa)
-This artist created all of the circular logos you see in this readme. I love the final result, but I must caution that working with them was a very painful process.
+This artist created all of the circular logos you see in this readme.
 
 <!-- Badges -->
 [spotify-badge]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
