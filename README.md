@@ -154,9 +154,6 @@ Kiss Me More | Doja Cat ft. SZA | [![Listen on Spotify][spotify-badge]][s9] [![L
 
 <sub>*Let's be honest, it's impossible to fit all of one's favorite songs into a 10 row table.*</sub>
 
-## ☕ Do I like coffee?
-Absolutely, and there's actually a [website](https://www.buymeacoffee.com/tacosontitan) just for that!
-
 ## 🎨 Where did I get my artwork?
 All of the artwork you find in my GitHub repositories are creations I ordered from various artists on Fiverr.
 
@@ -216,6 +213,9 @@ I've bought many emotes from this artist, but only a handful for myself so far. 
 
 ### [eushaa](https://www.fiverr.com/eushaa)
 This artist created all of the circular logos you see in this readme.
+
+## ☕ Do I like coffee?
+Absolutely, and there's actually a [website](https://www.buymeacoffee.com/tacosontitan) just for that!
 
 <!-- Badges -->
 [spotify-badge]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
