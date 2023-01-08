@@ -1,9 +1,8 @@
 # Oh, umm, hello there! 👋
 I'm just another average millennial, with a 🔥 passion for all things code. I was born in 1991 and I have many hobbies, including creating software, games, and mobile apps, playing video games, and guitar, day trading, and distance running. With that, my goal in life is, and always has been, to learn and experience as much as possible, within reason.
 
-<sub>***Preferred Pronouns**: They/Them 💁‍♀️*</sub>
-
 [![Header](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/images/relaxing-header.jpg)]()
+<sub>*My preferred pronouns are they/them or she/her. 💁‍♀️*</sub>
 
 ### 🗺️ Where am I?
 I have a rather limited network presence, but I'm most active here on GitHub, over on Discord, and Stack Overflow. If you'd like to communicate with me, then I have a [discussions area](https://github.com/tacosontitan/tacosontitan/discussions) for that here on GitHub. Additionally, my monthly sponsors have access to my Discord server and can message me directly, if you're [interested in that sort of thing](https://github.com/sponsors/tacosontitan).
