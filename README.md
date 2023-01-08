@@ -158,7 +158,7 @@ Kiss Me More | Doja Cat ft. SZA | [![Listen on Spotify][spotify-badge]][s9] [![L
 Absolutely, and there's actually a [website](https://www.buymeacoffee.com/tacosontitan) just for that!
 
 ### 🎨 Where did I get my artwork?
-My profile pictures and header image are creations I ordered from various artists on Fiverr.
+All of the artwork you find in my GitHub repositories are creations I ordered from various artists on Fiverr.
 
 #### [lucy_was_taken](https://www.fiverr.com/lucy_was_taken)
 She is easily my favorite artist on Fiverr. If you like her work, feel free to let her know I sent you her way!
