@@ -1,3 +1,4 @@
+using Mauve;
 using Mauve.Extensibility;
 
 namespace Sandbox.Modules.TravelingSalesman;
@@ -5,6 +6,8 @@ namespace Sandbox.Modules.TravelingSalesman;
 /// <summary>
 /// Represents the traveling salesperson problem.
 /// </summary>
+[Alias("traveler")]
+[Discoverable("Traveling Salesperson", "Calculates the shortest path between a specified number of random cities.")]
 internal sealed class TravelingSalespersonModule : Module
 {
     private readonly Random _random;
