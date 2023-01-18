@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="C:\Users\JamieDavis\.nuget\packages\mauve\2023.0.0.3\contentFiles\any\net6.0\mauve.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Mauve" Version="2023.0.0.3" />
     <PackageReference Include="MediatR" Version="11.1.0" />
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="7.0.0" />
