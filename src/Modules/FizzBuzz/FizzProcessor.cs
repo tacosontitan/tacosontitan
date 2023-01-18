@@ -5,18 +5,10 @@ namespace Sandbox.Modules.FizzBuzz;
 /// </summary>
 internal sealed class FizzProcessor : ChainedProcess<int>
 {
-
-    #region Constructor
-
     /// <summary>
     /// Creates a new instance of <see cref="FizzProcessor" />.
     /// </summary>
     public FizzProcessor(ChainedProcess<int> processor) : base(processor) { }
-
-    #endregion
-
-    #region Public Methods
-
     /// <summary>
     /// If the input is a multiple of 3 then output `fizz`, otherwise pass to the chain.
     /// </summary>
@@ -27,7 +19,4 @@ internal sealed class FizzProcessor : ChainedProcess<int>
         else
             base.Process(value);
     }
-
-    #endregion
-
 }
