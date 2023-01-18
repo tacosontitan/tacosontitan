@@ -7,6 +7,7 @@ using Sandbox;
 using IHost host = Host.CreateDefaultBuilder(args)
     .ConfigureServices((context, services) =>
         services.AddHostedService<InteractionService>()
+                .AddSingleton<Random>()
 ).Build();
 
 // Run the host.
