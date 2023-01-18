@@ -1,3 +1,6 @@
+# **WARNING**
+This project is getting a major facelift and as such should not be considered as stable while this message is present.
+
 # 🌮 Taco's Sandbox 📦
 Do you ever get tired of creating console app after console app just to test out ideas or concepts? Well, so do I! This sandbox utilizes reflection to enable a modularized approach to testing new ideas and concepts.
 
