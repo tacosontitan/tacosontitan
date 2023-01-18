@@ -3,12 +3,12 @@ namespace Sandbox.Modules.FizzBuzz;
 /// <summary>
 /// Represents the `fizz` case of fizz buzz as a <see cref="ChainedHandler{T}" />.
 /// </summary>
-internal sealed class FizzProcessor : ChainedHandler<int>
+internal sealed class FizzHandler : ChainedHandler<int>
 {
     /// <summary>
-    /// Creates a new instance of <see cref="FizzProcessor" />.
+    /// Creates a new instance of <see cref="FizzHandler" />.
     /// </summary>
-    public FizzProcessor(ChainedHandler<int> processor) : base(processor) { }
+    public FizzHandler(ChainedHandler<int> processor) : base(processor) { }
     /// <summary>
     /// If the input is a multiple of 3 then output `fizz`, otherwise pass to the chain.
     /// </summary>

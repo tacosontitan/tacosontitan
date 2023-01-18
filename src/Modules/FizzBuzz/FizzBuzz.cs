@@ -12,7 +12,7 @@ internal sealed class FizzBuzz : ConsumableModule
         //      Invocation begins with the `fizz-buzz` condition,
         //      if that fails, it falls back to the `buzz` condition, and so on.
         var outputProcessor = new OutputProcessor();
-        var fizzProcessor = new FizzProcessor(outputProcessor);
+        var fizzProcessor = new FizzHandler(outputProcessor);
         var buzzProcessor = new BuzzHandler(fizzProcessor);
         var fizzBuzzProcessor = new FizzBuzzProcessor(buzzProcessor);
 
