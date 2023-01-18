@@ -34,19 +34,10 @@ internal sealed class HelloWorld : Module
 
 Then simply use `dotnet run` to start the sandbox and enter the key for your module when prompted:
 
-> Successfully discovered 1 module(s).<br/>
 > If you need help at any point, use the `help` command.<br/>
 > To exit the application, use the `exit` command.<br/>
 > \> hello<br/>
 > Hello World: Hello world!
-
-## 🎨 Design Patterns
-I've implemented plenty of design patterns in my carreer, but the one thing that always bothered me was a lack of demonstrations that related to junior or intermediate knowledge levels. As a result, I've intentionally implemented several design patterns with entry level use-cases.
-
-- [Chain of Responsibility](../../tree/main/modules/personal/design-patterns/chain-of-responsibility) - Fizz Buzz
-- [Mediator](../../tree/main/modules/personal/design-patterns/mediator) - Guessing Game
-
-<sub>*If you have any questions regarding a design pattern implementation, feel free to ask a question in the [discussions area](https://github.com/tacosontitan/sandbox/discussions/categories/q-a).*</sub>
 
 ## 🔥 Interesting Implementations
 Every now and then I stumble across a topic or problem that piques my interest to an extreme degree. When that happens, I like to break it down and try to understand it so that I can share it with others in an intelligent manner.
