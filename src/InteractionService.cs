@@ -19,7 +19,7 @@ internal sealed class InteractionService : BackgroundService
         // Start the interaction process.
         while (!cancellationToken.IsCancellationRequested)
         {
-            Console.WriteLine("");
+            
         }
 
         return Task.CompletedTask;

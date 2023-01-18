@@ -8,6 +8,7 @@ using IHost host = Host.CreateDefaultBuilder(args)
     .ConfigureServices((context, services) =>
         services.AddHostedService<InteractionService>()
                 .AddSingleton<Random>()
+                .AddSingleton<ModuleFactory>()
 ).Build();
 
 // Run the host.

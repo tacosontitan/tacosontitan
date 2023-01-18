@@ -1,12 +1,11 @@
 using MediatR;
-using Sandbox;
 
 namespace Sandbox;
 
 /// <summary>
 /// Represents a request for a <see cref="Module"/>.
 /// </summary>
-public class ModuleRequest : IRequest<Module>
+internal class ModuleRequest : IRequest<Module?>
 {
     /// <summary>
     /// Represents the key of the module for invocation.
