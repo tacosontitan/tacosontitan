@@ -1,4 +1,4 @@
-namespace Sandbox.Modules.Ants;
+namespace Sandbox.Modules.AntColony;
 
 /// <summary>
 /// Represents an <see cref="Ant"/> in the AI challenge.

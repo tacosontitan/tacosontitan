@@ -1,4 +1,4 @@
-namespace Sandbox.Modules.Ants;
+namespace Sandbox.Modules.AntColony;
 
 /// <summary>
 /// Represents a <see cref="Landmark"/> in the AI challenge.
@@ -8,7 +8,7 @@ internal sealed class Landmark
 
     #region Fields
 
-    private readonly Random _random = new Random();
+    private readonly Random _random = new();
 
     #endregion
 

@@ -1,8 +1,8 @@
-using sandbox;
 /// <summary>
 /// Represents a basic module that says hello to the world.
 /// </summary>
-internal sealed class HelloWorld : ConsumableModule {
+internal sealed class HelloWorld : ConsumableModule
+{
     /// <summary>
     /// Creates a new instance of the <see cref="HelloWorld" /> module.
     /// </summary>

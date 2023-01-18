@@ -1,10 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using sandbox;
-using Sandbox.Challenges;
-
-namespace Sandbox.Modules.Ants;
+namespace Sandbox.Modules.AntColony;
 
 /// <summary>
 /// Represents the traveling salesperson problem.
@@ -14,7 +8,7 @@ internal sealed class AntColony : ConsumableModule
 
     #region Fields
 
-    private Random _random = new Random();
+    private readonly Random _random = new();
 
     #endregion
 
@@ -26,17 +20,16 @@ internal sealed class AntColony : ConsumableModule
 
     #region Public Methods
 
-    public override async void Invoke()
+    public override void Invoke()
     {
         Console.Write("Ant Colony: How many landmarks should the colony evaluate?.\n> ");
-        var userInput = Console.ReadLine();
+        string? userInput = Console.ReadLine();
         if (int.TryParse(userInput, out int landmarkCount))
         {
             List<Landmark> landmarks = new();
             for (int i = 0; i < landmarkCount; i++)
                 landmarks.Add(new Landmark(i, _random.NextDouble() * 250));
-        }
-        else
+        } else
             PostInvalidInput(userInput ?? string.Empty);
     }
 

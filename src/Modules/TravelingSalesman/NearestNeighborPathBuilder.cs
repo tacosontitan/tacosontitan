@@ -1,6 +1,3 @@
-using System.Collections.Generic;
-using System.Linq;
-
 namespace Sandbox.Modules.TravelingSalesman;
 
 /// <summary>
@@ -13,7 +10,7 @@ internal sealed class NearestNeighborPathBuilder : PathBuilder
     #region Fields
 
     private double _processedPaths;
-    private double _totalPaths;
+    private readonly double _totalPaths;
 
     #endregion
 
@@ -31,7 +28,7 @@ internal sealed class NearestNeighborPathBuilder : PathBuilder
 
     public override IEnumerable<CityPath> GenerateAll()
     {
-        List<CityPath> paths = new List<CityPath>();
+        var paths = new List<CityPath>();
         foreach (City city in Cities)
         {
             CityPath? path = GeneratePath(city);
@@ -52,7 +49,7 @@ internal sealed class NearestNeighborPathBuilder : PathBuilder
         City? nextCity = GetNearestCity(startingCity, remainingCities.ToArray());
         if (nextCity != null)
         {
-            List<City> cities = new List<City> { startingCity, nextCity };
+            var cities = new List<City> { startingCity, nextCity };
 
             while (remainingCities.Count() > 0)
             {

@@ -12,7 +12,7 @@
 //     protected override List<Landmark> GeneratePath(List<Landmark> landmarks) {
 //         List<Landmark> result = new ();
 //         foreach (var landmark in landmarks) {
-            
+
 //         }
 //         return null;
 //     }

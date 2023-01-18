@@ -23,12 +23,11 @@ namespace Sandbox.Modules.GridPointGenerator
         {
             if (TryGetUserInput("What should the scale of the grid be?", out int gridSize))
             {
-                if (gridSize < 0 || gridSize > 5)
+                if (gridSize is < 0 or > 5)
                 {
                     PostMessage("Only grids between a scale of 1 and 5 are currently supported in the sandbox due to display limitations.");
                     return;
-                }
-                else if (TryGetUserInput("What should the color of event points be?", out ConsoleColor evenColor))
+                } else if (TryGetUserInput("What should the color of event points be?", out ConsoleColor evenColor))
                 {
                     if (TryGetUserInput("What should the color of odd points be?", out ConsoleColor oddColor))
                     {
@@ -47,12 +46,10 @@ namespace Sandbox.Modules.GridPointGenerator
 
                                 Console.Write("██");
                             }
-                        }
-                        catch (Exception e)
+                        } catch (Exception e)
                         {
                             PostMessage(e.Message);
-                        }
-                        finally
+                        } finally
                         {
                             Console.ForegroundColor = previousForegroundColor;
                             Console.Write(Environment.NewLine);

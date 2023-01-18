@@ -1,6 +1,3 @@
-using System.Collections.Generic;
-using System.Linq;
-
 namespace Sandbox.Modules.TravelingSalesman;
 
 /// <summary>
@@ -50,8 +47,7 @@ internal sealed class HeapsPathBuilder : PathBuilder
         {
             OnProgressChanged(++_processedPermutations, _totalPermutations);
             yield return new CityPath(cities);
-        }
-        else
+        } else
         {
             IEnumerable<CityPath> paths = GeneratePaths(n - 1, cities);
             foreach (CityPath path in paths)

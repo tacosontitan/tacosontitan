@@ -1,6 +1,4 @@
-using sandbox;
-
-namespace Sandbox.Modules.General;
+namespace Sandbox.Modules;
 
 /// <summary>
 /// Represents the Hamming distance (the number of differences between two values).
@@ -19,7 +17,7 @@ internal sealed class HammingDistance : ConsumableModule
     public override void Invoke()
     {
         Console.Write("Hamming Distance: Please supply a value for x.\n> ");
-        var userInput = Console.ReadLine();
+        string? userInput = Console.ReadLine();
         if (int.TryParse(userInput, out int x))
         {
             Console.Write("Hamming Distance: Please supply a value for y.\n> ");
@@ -28,8 +26,7 @@ internal sealed class HammingDistance : ConsumableModule
                 CalculateHammingDistance(x, y);
             else
                 PostInvalidInput(userInput ?? string.Empty);
-        }
-        else
+        } else
             PostInvalidInput(userInput ?? string.Empty);
     }
 

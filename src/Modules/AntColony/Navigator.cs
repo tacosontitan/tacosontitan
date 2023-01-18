@@ -1,4 +1,4 @@
-namespace Sandbox.Modules.Ants;
+namespace Sandbox.Modules.AntColony;
 internal abstract class Navigator
 {
 
@@ -16,7 +16,6 @@ internal abstract class Navigator
         _landmarks = landmarks;
         _numberOfPasses = numberOfPasses;
     }
-
 
     #endregion
 

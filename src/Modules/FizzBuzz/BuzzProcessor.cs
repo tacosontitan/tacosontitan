@@ -1,4 +1,4 @@
-namespace Sandbox.Modules.FizzBuzz.FizzBuzz;
+namespace Sandbox.Modules.FizzBuzz;
 
 /// <summary>
 /// Represents the `buzz` case of fizz buzz as a <see cref="ChainedProcess{T}" />.

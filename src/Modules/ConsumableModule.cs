@@ -68,7 +68,7 @@ public abstract class ConsumableModule
         try
         {
             Console.Write($"Grid Point Generator: {prompt}\n>");
-            var userInput = Console.ReadLine();
+            string? userInput = Console.ReadLine();
             if (userInput is not null)
             {
                 result = typeof(T).IsEnum

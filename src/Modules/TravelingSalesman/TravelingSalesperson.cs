@@ -1,9 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using sandbox;
-using Sandbox.Challenges.TravelingSalesperson;
-
 namespace Sandbox.Modules.TravelingSalesman;
 
 /// <summary>
@@ -32,7 +26,7 @@ internal sealed class TravelingSalesperson : ConsumableModule
     public override void Invoke()
     {
         Console.Write("Traveling Salesperson: How many cities should the salesperson traverse through?\n> ");
-        var userInput = Console.ReadLine();
+        string? userInput = Console.ReadLine();
         if (int.TryParse(userInput, out int numberOfCities))
         {
             int cityCount = ChallengeData.CityNames.Length;
@@ -55,8 +49,7 @@ internal sealed class TravelingSalesperson : ConsumableModule
                     RunNearestNeighborAlgorithm(cities);
                 }
             }
-        }
-        else
+        } else
             PostInvalidInput(userInput ?? string.Empty);
     }
 
