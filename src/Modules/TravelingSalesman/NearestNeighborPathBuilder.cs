@@ -6,26 +6,13 @@ namespace Sandbox.Modules.TravelingSalesman;
 /// <see href="https://en.wikipedia.org/wiki/Nearest_neighbour_algorithm"/>
 internal sealed class NearestNeighborPathBuilder : PathBuilder
 {
-
-    #region Fields
-
     private double _processedPaths;
     private readonly double _totalPaths;
-
-    #endregion
-
-    #region Constructor
-
     /// <summary>
     /// Creates a new instance of <see cref="NearestNeighborPathBuilder"/> with the specified cities.
     /// </summary>
     /// <param name="cities">The cities this path builder will use to build paths.</param>
     public NearestNeighborPathBuilder(IEnumerable<City> cities) : base(cities) => _totalPaths = cities.Count();
-
-    #endregion
-
-    #region Public Methods
-
     public override IEnumerable<CityPath> GenerateAll()
     {
         var paths = new List<CityPath>();
@@ -38,11 +25,6 @@ internal sealed class NearestNeighborPathBuilder : PathBuilder
 
         return paths;
     }
-
-    #endregion
-
-    #region Private Methods
-
     private CityPath? GeneratePath(City startingCity)
     {
         IEnumerable<City> remainingCities = Cities.Where(city => city.Id != startingCity.Id);
@@ -84,7 +66,4 @@ internal sealed class NearestNeighborPathBuilder : PathBuilder
 
         return nearestCity;
     }
-
-    #endregion
-
 }

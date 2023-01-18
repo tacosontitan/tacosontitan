@@ -6,16 +6,8 @@ namespace Sandbox.Modules.TravelingSalesman;
 /// <see href="https://en.wikipedia.org/wiki/Heap%27s_algorithm"/>
 internal sealed class HeapsPathBuilder : PathBuilder
 {
-
-    #region Fields
-
     private double _processedPermutations;
     private readonly double _totalPermutations;
-
-    #endregion
-
-    #region Constructor
-
     /// <summary>
     /// Creates a new instance of <see cref="HeapsPathBuilder"/> with the specified cities.
     /// </summary>
@@ -26,21 +18,11 @@ internal sealed class HeapsPathBuilder : PathBuilder
         for (int i = cities.Count() - 1; i >= 1; i--)
             _totalPermutations *= i;
     }
-
-    #endregion
-
-    #region Public Methods
-
     public override IEnumerable<CityPath> GenerateAll()
     {
         _processedPermutations = 0;
         return GeneratePaths(Cities.Count(), Cities.ToArray());
     }
-
-    #endregion
-
-    #region Private Methods
-
     private IEnumerable<CityPath> GeneratePaths(int n, City[] cities)
     {
         if (n == 1)
@@ -64,7 +46,4 @@ internal sealed class HeapsPathBuilder : PathBuilder
             }
         }
     }
-
-    #endregion
-
 }
