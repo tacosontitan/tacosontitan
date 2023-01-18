@@ -5,15 +5,7 @@ namespace Sandbox.Modules.TravelingSalesman;
 /// </summary>
 internal sealed class CityPath
 {
-
-    #region Fields
-
     private double? _distance = null;
-
-    #endregion
-
-    #region Properties
-
     /// <summary>
     /// The distance between all cities in the path, if traversed chronologically.
     /// </summary>
@@ -36,17 +28,9 @@ internal sealed class CityPath
     /// The collection of cities this path is for.
     /// </summary>
     public IReadOnlyCollection<City> Cities { get; set; }
-
-    #endregion
-
-    #region Constructor
-
     /// <summary>
     /// Creates a new instance of <see cref="CityPath"/> with the specified cities.
     /// </summary>
     /// <param name="cities">The collection of cities this path is for.</param>
     public CityPath(IEnumerable<City> cities) => Cities = cities.ToList().AsReadOnly();
-
-    #endregion
-
 }
