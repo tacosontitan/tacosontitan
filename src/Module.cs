@@ -1,4 +1,6 @@
-﻿namespace Sandbox;
+﻿using Mauve.Extensibility;
+
+namespace Sandbox;
 
 /// <summary>
 /// Represents a module that can be executed.
@@ -58,11 +60,11 @@ internal abstract class Module
 
         try
         {
-            Console.Write($"    {prompt} ");
+            Console.Write(prompt);
             string? response = Console.ReadLine();
             if (string.IsNullOrWhiteSpace(response))
             {
-                _ = WriteError($"    Invalid response.");
+                _ = WriteError("Invalid response.");
                 return false;
             }
 
@@ -71,27 +73,24 @@ internal abstract class Module
             return true;
         } catch (Exception e)
         {
-            _ = WriteError($"    Unable to handle user input. {e.FlattenMessages()}");
+            _ = WriteError($"Unable to handle user input. {e.FlattenMessages()}");
         }
 
         return false;
     }
-    protected async Task Write(string message)
-    {
-        Console.WriteLine(message);
-        await Task.CompletedTask;
-    }
-    protected Task WriteSuccess(string message) =>
-        WriteWithColor(ConsoleColor.Green, message);
-    protected Task WriteWarning(string message) =>
-        WriteWithColor(ConsoleColor.Yellow, message);
-    protected Task WriteError(string message) =>
-        WriteWithColor(ConsoleColor.Red, message);
+    protected async Task Write(string message) =>
+        await WriteWithColor(ConsoleColor.White, message);
+    protected async Task WriteSuccess(string message) =>
+        await WriteWithColor(ConsoleColor.Green, message);
+    protected async Task WriteWarning(string message) =>
+        await WriteWithColor(ConsoleColor.Yellow, message);
+    protected async Task WriteError(string message) =>
+        await WriteWithColor(ConsoleColor.Red, message);
     protected async Task WriteWithColor(ConsoleColor color, string message)
     {
         ConsoleColor incomingColor = Console.ForegroundColor;
         Console.ForegroundColor = color;
-        Console.WriteLine(message);
+        Console.WriteLine($"    {message}");
         Console.ForegroundColor = incomingColor;
         await Task.CompletedTask;
     }
