@@ -1,19 +1,19 @@
 namespace Sandbox.Modules.FizzBuzz;
 
 /// <summary>
-/// Represents a <see cref="ChainedProcess{T}" />.
+/// Represents a <see cref="ChainedHandler{T}" />.
 /// </summary>
-public abstract class ChainedProcess<T>
+public abstract class ChainedHandler<T>
 {
     /// <summary>
     /// The next processor in the chain, if applicable.
     /// </summary>
-    protected ChainedProcess<T>? Processor { get; set; }
+    protected ChainedHandler<T>? Processor { get; set; }
     /// <summary>
-    /// Creates a new instance of <see cref="ChainedProcess{T}" />.
+    /// Creates a new instance of <see cref="ChainedHandler{T}" />.
     /// </summary>
     /// <param name="processor">The next processor in the chain, if applicable.</param>
-    public ChainedProcess(ChainedProcess<T>? processor) => Processor = processor;
+    public ChainedHandler(ChainedHandler<T>? processor) => Processor = processor;
     /// <summary>
     /// If there's another processor in the chain, then pass processing to it.
     /// </summary>

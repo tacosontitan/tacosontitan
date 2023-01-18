@@ -1,14 +1,14 @@
 namespace Sandbox.Modules.FizzBuzz;
 
 /// <summary>
-/// Represents the `buzz` case of fizz buzz as a <see cref="ChainedProcess{T}" />.
+/// Represents the `buzz` case of fizz buzz as a <see cref="ChainedHandler{T}" />.
 /// </summary>
-internal sealed class BuzzProcessor : ChainedProcess<int>
+internal sealed class BuzzProcessor : ChainedHandler<int>
 {
     /// <summary>
     /// Creates a new instance of <see cref="BuzzProcessor" />.
     /// </summary>
-    public BuzzProcessor(ChainedProcess<int> processor) : base(processor) { }
+    public BuzzProcessor(ChainedHandler<int> processor) : base(processor) { }
     /// <summary>
     /// If the input is a multiple of 5 then output `buzz`, otherwise pass to the chain.
     /// </summary>

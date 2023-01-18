@@ -1,9 +1,9 @@
 namespace Sandbox.Modules.FizzBuzz;
 
 /// <summary>
-/// Represents the fallback case of fizz buzz as a <see cref="ChainedProcess{T}" />.
+/// Represents the fallback case of fizz buzz as a <see cref="ChainedHandler{T}" />.
 /// </summary>
-internal sealed class OutputProcessor : ChainedProcess<int>
+internal sealed class OutputProcessor : ChainedHandler<int>
 {
     /// <summary>
     /// Creates a new instance of <see cref="OutputProcessor" />.
