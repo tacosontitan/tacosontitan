@@ -1,4 +1,4 @@
-﻿namespace Sandbox.Runtime;
+﻿namespace Sandbox;
 
 /// <summary>
 /// Represents a <see cref="BackgroundService"/> that handles interactions with consumers.

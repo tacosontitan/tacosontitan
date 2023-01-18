@@ -1,6 +1,4 @@
-﻿using Mauve.Extensibility;
-
-namespace Sandbox.Modules;
+﻿namespace Sandbox;
 
 /// <summary>
 /// Represents a module that can be executed.
