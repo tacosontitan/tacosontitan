@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-using Sandbox;
+using Sandbox.Runtime;
 
 // Create a host and configure it.
 using IHost host = Host.CreateDefaultBuilder(args)

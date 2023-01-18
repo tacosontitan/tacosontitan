@@ -1,7 +1,4 @@
-﻿using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
-
-namespace Sandbox;
+﻿namespace Sandbox.Runtime;
 
 /// <summary>
 /// Represents a <see cref="BackgroundService"/> that handles interactions with consumers.
