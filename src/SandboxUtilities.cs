@@ -1,6 +1,7 @@
-namespace Sandbox;
+namespace sandbox;
 
-public static class SandboxUtilities {
+public static class SandboxUtilities
+{
 
     #region Public Methods
 
@@ -11,10 +12,10 @@ public static class SandboxUtilities {
         for (int i = 0; i < 10; i++)
             progressBarCharacters += i < numberOfBars ? "█" : " ";
 
-        
+
         Console.Write($"\r[{progressBarCharacters}] {percentage}%");
     }
-    
+
 
     #endregion
 

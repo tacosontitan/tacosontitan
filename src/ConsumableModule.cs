@@ -1,9 +1,10 @@
-namespace Sandbox;
+namespace sandbox;
 
 /// <summary>
 /// Represents a consumable module within the sandbox.
 /// </summary>
-public abstract class ConsumableModule {
+public abstract class ConsumableModule
+{
 
     #region Properties
 
@@ -30,7 +31,8 @@ public abstract class ConsumableModule {
     /// <param name="key">The key that invokes the module.</param>
     /// <param name="name">The display name for the module.</param>
     /// <param name="description">Describes what the module does.</param>
-    public ConsumableModule(string key, string name, string description) {
+    public ConsumableModule(string key, string name, string description)
+    {
         Key = key;
         Name = name;
         Description = description;
@@ -61,17 +63,22 @@ public abstract class ConsumableModule {
     /// <param name="result">The result of the user's input cast to the appropriate type.</param>
     /// <typeparam name="T">Specifies the type which is expected.</typeparam>
     /// <returns><see langword="true"/> if the user's input was successfully captured as the specified type, otherwise <see langword="false"/>.</returns>
-    protected bool TryGetUserInput<T>(string prompt, out T? result) {
-        try {
+    protected bool TryGetUserInput<T>(string prompt, out T? result)
+    {
+        try
+        {
             Console.Write($"Grid Point Generator: {prompt}\n>");
             var userInput = Console.ReadLine();
-            if (userInput is not null) {
+            if (userInput is not null)
+            {
                 result = typeof(T).IsEnum
                     ? (T?)Enum.Parse(typeof(T), userInput.ToString(), true)
                     : (T?)Convert.ChangeType(userInput, typeof(T));
                 return true;
             }
-        } catch (Exception e) {
+        }
+        catch (Exception e)
+        {
             PostMessage($"Unable to parse response. {e.Message}");
         }
 

@@ -1,6 +1,5 @@
-using Sandbox;
-
-namespace sandbox.modules.personal.challenges.gridpointgenerator {
+namespace sandbox.modules.personal.challenges.gridpointgenerator
+{
     /// <summary>
     /// Represents a <see cref="ConsumableModule"/> which generates a grid of a specified scale using specified colors.
     /// </summary>

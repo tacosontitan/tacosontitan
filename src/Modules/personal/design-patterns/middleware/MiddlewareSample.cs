@@ -1,3 +1,5 @@
+using sandbox;
+
 namespace Sandbox;
 public class MiddlewareSample : ConsumableModule {
 
