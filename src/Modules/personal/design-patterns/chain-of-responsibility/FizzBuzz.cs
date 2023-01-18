@@ -1,5 +1,6 @@
 using sandbox;
 using Sandbox.ChainOfResponsibility.FizzBuzz;
+
 namespace Sandbox.Modules;
 
 /// <summary>

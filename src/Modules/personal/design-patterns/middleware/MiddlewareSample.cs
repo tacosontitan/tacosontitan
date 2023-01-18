@@ -1,4 +1,5 @@
 using sandbox;
+using Sandbox.Modules;
 
 namespace Sandbox;
 public class MiddlewareSample : ConsumableModule {

@@ -1,4 +1,4 @@
-namespace sandbox;
+namespace Sandbox.Modules;
 
 /// <summary>
 /// Represents a consumable module within the sandbox.
@@ -76,8 +76,7 @@ public abstract class ConsumableModule
                     : (T?)Convert.ChangeType(userInput, typeof(T));
                 return true;
             }
-        }
-        catch (Exception e)
+        } catch (Exception e)
         {
             PostMessage($"Unable to parse response. {e.Message}");
         }
