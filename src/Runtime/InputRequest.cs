@@ -5,7 +5,7 @@ namespace Sandbox.Runtime;
 /// <summary>
 /// Represents a request to get input from the user.
 /// </summary>
-internal sealed class InputRequest : IRequest<string>
+internal sealed class InputRequest : IRequest<string?>
 {
     /// <summary>
     /// The prompt to display to the user.
