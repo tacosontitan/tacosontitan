@@ -5,24 +5,11 @@ namespace Sandbox.Modules.TravelingSalesman;
 /// </summary>
 internal sealed class TravelingSalesperson : ConsumableModule
 {
-
-    #region Fields
-
     private readonly Random _random;
-
-    #endregion
-
-    #region Constructor
-
     public TravelingSalesperson() : base("traveler",
                                          "Traveling Salesperson",
                                          "Calculates the shortest path between a specified number of random cities.") =>
         _random = new Random();
-
-    #endregion
-
-    #region Public Methods
-
     public override void Invoke()
     {
         Console.Write("Traveling Salesperson: How many cities should the salesperson traverse through?\n> ");
@@ -52,11 +39,6 @@ internal sealed class TravelingSalesperson : ConsumableModule
         } else
             PostInvalidInput(userInput ?? string.Empty);
     }
-
-    #endregion
-
-    #region Private Methods
-
     private void PostInvalidInput(string input) => PostMessage($"The value `{input}` is not a valid integer.");
     private IEnumerable<City> GenerateCities(int threshold, int spread)
     {
@@ -109,7 +91,4 @@ internal sealed class TravelingSalesperson : ConsumableModule
         string message = $"Traveling Salesperson: The shortest path is `{string.Join(" -> ", cities)}` for a total distance of `{path.Distance}` kilometers.";
         Console.WriteLine($"Traveling Salesperson: {message}");
     }
-
-    #endregion
-
 }
