@@ -3,44 +3,26 @@ namespace Sandbox.Modules;
 /// <summary>
 /// Represents the Hamming distance (the number of differences between two values).
 /// </summary>
-internal sealed class HammingDistance : ConsumableModule
+internal sealed class HammingDistance : Module
 {
-
-    #region Constructor
-
-    public HammingDistance() : base("hamming", "Hamming Distance", "Calculates the number of different bits between two integers.") { }
-
-    #endregion
-
-    #region Public Methods
-
-    public override void Invoke()
+    public HammingDistance() :
+        base("hamming", "Hamming Distance", "Calculates the number of different bits between two integers.")
+    { }
+    protected override async Task Work()
     {
-        Console.Write("Hamming Distance: Please supply a value for x.\n> ");
-        string? userInput = Console.ReadLine();
-        if (int.TryParse(userInput, out int x))
-        {
-            Console.Write("Hamming Distance: Please supply a value for y.\n> ");
-            userInput = Console.ReadLine();
-            if (int.TryParse(userInput, out int y))
-                CalculateHammingDistance(x, y);
-            else
-                PostInvalidInput(userInput ?? string.Empty);
-        } else
-            PostInvalidInput(userInput ?? string.Empty);
+        if (!TryRequestInput("Please supply a 32-bit integer value for x: ", out int x))
+            return;
+        if (!TryRequestInput("Please supply a 32-bit integer value for y: ", out int y))
+            return;
+
+        await CalculateHammingDistance(x, y);
     }
-
-    #endregion
-
-    #region Private Methods
-
-    private void PostInvalidInput(string input) => PostMessage($"The value `{input}` is not a valid integer.");
     /// <summary>
     /// Calculate Hamming distance between two specified integers by applying an exclusive logical OR and counting the bits that were different.
     /// </summary>
     /// <param name="x">The left operand.</param>
     /// <param name="y">The right operand.</param>
-    private void CalculateHammingDistance(int x, int y)
+    private async Task CalculateHammingDistance(int x, int y)
     {
         // The exclusive logical OR will return true only if one operand is true while the other is not.
         //      true  ^ false = true
@@ -54,7 +36,7 @@ internal sealed class HammingDistance : ConsumableModule
         //        0101
         int xor = x ^ y;
         int bitCount = CountBits(xor);
-        PostMessage($"The Hamming distance for {x} and {y} is {bitCount}.");
+        await WriteSuccess($"The Hamming distance for {x} and {y} is {bitCount}.");
     }
     /// <summary>
     /// Count the number of bits in a specified integer value by repeatedly removing the rightmost bits until none remain.
@@ -85,7 +67,4 @@ internal sealed class HammingDistance : ConsumableModule
 
         return count;
     }
-
-    #endregion
-
 }
