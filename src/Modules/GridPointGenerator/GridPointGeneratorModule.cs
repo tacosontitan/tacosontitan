@@ -5,20 +5,12 @@ namespace Sandbox.Modules.GridPointGenerator
     /// </summary>
     public class GridPointGeneratorModule : ConsumableModule
     {
-
-        #region Constructor
-
         /// <summary>
         /// Creates a new <see cref="GridPointGeneratorModule"/> instance.
         /// </summary>
         public GridPointGeneratorModule() :
             base("grid", "Grid Point Generator", "Generates the points on a grid of N size.")
         { }
-
-        #endregion
-
-        #region Public Methods
-
         public override void Invoke()
         {
             if (TryGetUserInput("What should the scale of the grid be?", out int gridSize))
@@ -58,11 +50,6 @@ namespace Sandbox.Modules.GridPointGenerator
                 }
             }
         }
-
-        #endregion
-
-        #region Private Methods
-
         /// <summary>
         /// Generates a grid with the specified scale using the specified colors.
         /// </summary>
@@ -92,8 +79,5 @@ namespace Sandbox.Modules.GridPointGenerator
 
             yield break;
         }
-
-        #endregion
-
     }
 }
