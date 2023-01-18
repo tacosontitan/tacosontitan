@@ -1,4 +1,6 @@
-﻿using Microsoft.Extensions.Hosting;
+﻿using MediatR;
+
+using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
 namespace Sandbox;
@@ -9,8 +11,13 @@ namespace Sandbox;
 internal sealed class InteractionService : BackgroundService
 {
     private readonly ILogger _logger;
-    public InteractionService(ILogger<InteractionService> logger) => _logger = logger;
-    protected override Task ExecuteAsync(CancellationToken cancellationToken)
+    private readonly IMediator _mediator;
+    public InteractionService(IMediator mediator, ILogger<InteractionService> logger)
+    {
+        _logger = logger;
+        _mediator = mediator;
+    }
+    protected override async Task ExecuteAsync(CancellationToken cancellationToken)
     {
         // Explain how to get help and exit.
         Console.WriteLine($"If you need help at any point, use the `help` command.");
@@ -19,9 +26,18 @@ internal sealed class InteractionService : BackgroundService
         // Start the interaction process.
         while (!cancellationToken.IsCancellationRequested)
         {
-            
+            Console.Write($"Enter a module key: ");
+            string? input = Console.ReadLine();
+            if (string.IsNullOrWhiteSpace(input))
+                continue;
+
+            // Request the module and execute it if it exists.
+            var request = new ModuleRequest(input);
+            Module? response = await _mediator.Send(request, cancellationToken);
+            if (response is not null)
+                await response.Execute();
         }
 
-        return Task.CompletedTask;
+        await Task.CompletedTask;
     }
 }
