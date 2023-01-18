@@ -5,15 +5,7 @@ namespace Sandbox.Modules.FizzBuzz;
 /// </summary>
 internal sealed class FizzBuzz : ConsumableModule
 {
-
-    #region Constructor
-
     public FizzBuzz() : base("fizz", "Fizz Buzz", "Demonstrates the chain of responsibility pattern using fizz-buzz.") { }
-
-    #endregion
-
-    #region Public Methods
-
     public override void Invoke()
     {
         // Create the chain; though it seems backwards, think about it from an execution standpoint.
@@ -25,7 +17,7 @@ internal sealed class FizzBuzz : ConsumableModule
         var fizzBuzzProcessor = new FizzBuzzProcessor(buzzProcessor);
 
         // Subscribe to the worker events.
-        void ChainProcessingComplete(object? sender, object data) => PostMessage(data?.ToString() ?? string.Empty);
+        static void ChainProcessingComplete(object? sender, object data) => PostMessage(data?.ToString() ?? string.Empty);
         outputProcessor.ProcessingComplete += ChainProcessingComplete;
         fizzProcessor.ProcessingComplete += ChainProcessingComplete;
         buzzProcessor.ProcessingComplete += ChainProcessingComplete;
@@ -35,7 +27,4 @@ internal sealed class FizzBuzz : ConsumableModule
         for (int i = 0; i <= 15; i++)
             fizzBuzzProcessor.Process(i);
     }
-
-    #endregion
-
 }
