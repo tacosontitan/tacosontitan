@@ -3,12 +3,12 @@ namespace Sandbox.Modules.FizzBuzz;
 /// <summary>
 /// Represents the fallback case of fizz buzz as a <see cref="ChainedHandler{T}" />.
 /// </summary>
-internal sealed class OutputProcessor : ChainedHandler<int>
+internal sealed class BasicHandler : ChainedHandler<int>
 {
     /// <summary>
-    /// Creates a new instance of <see cref="OutputProcessor" />.
+    /// Creates a new instance of <see cref="BasicHandler" />.
     /// </summary>
-    public OutputProcessor() : base(null) { }
+    public BasicHandler() : base(null) { }
     /// <summary>
     /// Process the input as output per the rules of fizz buzz.
     /// </summary>

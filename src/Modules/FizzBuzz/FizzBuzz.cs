@@ -11,7 +11,7 @@ internal sealed class FizzBuzz : ConsumableModule
         // Create the chain; though it seems backwards, think about it from an execution standpoint.
         //      Invocation begins with the `fizz-buzz` condition,
         //      if that fails, it falls back to the `buzz` condition, and so on.
-        var outputProcessor = new OutputProcessor();
+        var outputProcessor = new BasicHandler();
         var fizzProcessor = new FizzHandler(outputProcessor);
         var buzzProcessor = new BuzzHandler(fizzProcessor);
         var fizzBuzzProcessor = new FizzBuzzProcessor(buzzProcessor);
