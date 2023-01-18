@@ -1,6 +1,8 @@
 ﻿using System.Reflection;
+using System.Linq;
 
 using Mauve;
+using Mauve.Extensibility;
 
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
@@ -14,7 +16,7 @@ namespace Sandbox
     {
         private readonly ILogger _logger;
         private readonly IServiceProvider _serviceProvider;
-        private readonly Dictionary<string, Type> _moduleTypes;
+        private readonly List<ModuleDescription> _moduleDescriptions;
         /// <summary>
         /// Creates a new <see cref="ModuleFactory"/> instance.
         /// </summary>
@@ -24,7 +26,7 @@ namespace Sandbox
         {
             _logger = logger;
             _serviceProvider = serviceProvider;
-            _moduleTypes = new Dictionary<string, Type>();
+            _moduleDescriptions = new List<ModuleDescription>();
 
             // Get the types we care we can use.
             IEnumerable<Type> types = from type
@@ -35,12 +37,13 @@ namespace Sandbox
             // Add the types to the dictionary.
             foreach (Type type in types)
             {
+                DiscoverableAttribute discoverable = type.GetCustomAttribute<DiscoverableAttribute>();
                 AliasAttribute? alias = type.GetCustomAttribute<AliasAttribute>();
-                if (alias is null)
+                if (discoverable is null || alias is null)
                     continue;
 
                 foreach (string aliasName in alias.Values)
-                    _ = _moduleTypes.TryAdd(aliasName, type);
+                    _moduleDescriptions.Add(new ModuleDescription(aliasName, discoverable.Name, discoverable.Description, type));
             }
         }
         /// <summary>
@@ -53,7 +56,11 @@ namespace Sandbox
         {
             try
             {
-                Type type = _moduleTypes[key];
+                ModuleDescription? description = _moduleDescriptions.SingleOrDefault(description => description.Key.Equals(key, ignoreCase: true));
+                if (description is null)
+                    throw new ArgumentException("Unable to locate module with the specified key.");
+
+                Type type = description.Type;
                 module = (Module)ActivatorUtilities.CreateInstance(_serviceProvider, type);
                 return true;
             } catch (Exception e)
