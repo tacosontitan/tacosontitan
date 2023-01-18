@@ -5,17 +5,18 @@ namespace Sandbox.Modules.TravelingSalesman;
 /// </summary>
 internal sealed class City
 {
-
-    #region Properties
-
+    /// <summary>
+    /// The ID of the city.
+    /// </summary>
     public int Id { get; set; }
+    /// <summary>
+    /// The name of the city.
+    /// </summary>
     public string? Name { get; set; }
+    /// <summary>
+    /// The world coordinates of the city.
+    /// </summary>
     public WorldCoordinate Coordinates { get; set; }
-
-    #endregion
-
-    #region Public Methods
-
     /// <summary>
     /// Calculate the distance between two cities using the Pythagorean theorem.
     /// </summary>
@@ -30,7 +31,4 @@ internal sealed class City
         double sumOfSquares = x * x + y * y;
         return Math.Sqrt(sumOfSquares);
     }
-
-    #endregion
-
 }
