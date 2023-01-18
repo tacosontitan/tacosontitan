@@ -1,7 +1,10 @@
+using Mauve;
 using Sandbox;
 /// <summary>
 /// Represents a basic module that says hello to the world.
 /// </summary>
+[Alias("hello")]
+[Discoverable("Hello World", "Says hello to the world.")]
 internal sealed class HelloWorld : Module
 {
     /// <summary>
