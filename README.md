@@ -10,12 +10,25 @@ Welcome to my sandbox, wanna play?
 
 ## 👋 Hello World
 
-Implementation is as simple as deriving a new `class` from `ConsumableModule`:
-
 ```cs
-internal sealed class HelloWorld : ConsumableModule {
-    public HelloWorld() : base("hello", "Hello World", "Says hello to the world.") { }
-    public override void Invoke() => PostMessage("Hello world!");
+using Mauve;
+
+namespace Sandbox.Modules;
+/// <summary>
+/// Represents a basic module that says hello to the world.
+/// </summary>
+[Alias("hello")]
+[Discoverable("Hello World", "Says hello to the world.")]
+internal sealed class HelloWorld : Module
+{
+    /// <summary>
+    /// Creates a new instance of the <see cref="HelloWorld" /> module.
+    /// </summary>
+    public HelloWorld() :
+        base("Hello World")
+    { }
+    protected override async Task Work() =>
+        await Write("Hello world!");
 }
 ```
 
