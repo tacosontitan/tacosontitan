@@ -16,7 +16,7 @@ internal sealed class HelpModule : Module
         _moduleFactory = factory;
     protected override async Task Work()
     {
-        foreach (ModuleDescription description in _moduleFactory.ModuleDescriptions)
+        foreach (ModuleDescription description in _moduleFactory.ModuleDescriptions.OrderBy(o => o.Name))
             await Write($"{description.Name}: {description.Description}");
     }
 }
