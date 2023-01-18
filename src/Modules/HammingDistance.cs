@@ -1,8 +1,12 @@
+using Mauve;
+
 namespace Sandbox.Modules;
 
 /// <summary>
 /// Represents the Hamming distance (the number of differences between two values).
 /// </summary>
+[Alias("hamming")]
+[Discoverable("Hamming Distance", "Calculates the number of different bits between two integers.")]
 internal sealed class HammingDistance : Module
 {
     public HammingDistance() :
