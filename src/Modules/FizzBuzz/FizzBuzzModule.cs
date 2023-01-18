@@ -9,7 +9,7 @@ namespace Sandbox.Modules.FizzBuzz;
 [Discoverable("Fizz Buzz", "Demonstrates the chain of responsibility pattern using fizz-buzz.")]
 internal sealed class FizzBuzzModule : Module
 {
-    public FizzBuzzModule() : base("fizz", "Fizz Buzz", "Demonstrates the chain of responsibility pattern using fizz-buzz.") { }
+    public FizzBuzzModule() : base("Fizz Buzz") { }
     protected override async Task Work()
     {
         // Create the chain; though it seems backwards, think about it from an execution standpoint.

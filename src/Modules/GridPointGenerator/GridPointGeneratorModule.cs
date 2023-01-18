@@ -12,7 +12,7 @@ internal sealed class GridPointGeneratorModule : Module
     /// Creates a new <see cref="GridPointGeneratorModule"/> instance.
     /// </summary>
     public GridPointGeneratorModule() :
-        base("grid", "Grid Point Generator", "Generates the points on a grid of N size.")
+        base("Grid Point Generator")
     { }
     protected override async Task Work()
     {

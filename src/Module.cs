@@ -8,30 +8,15 @@ namespace Sandbox;
 internal abstract class Module
 {
     /// <summary>
-    /// The key for invoking the module.
-    /// </summary>
-    public string Key { get; private set; }
-    /// <summary>
     /// The display name of the module.
     /// </summary>
     public string Name { get; private set; }
     /// <summary>
-    /// The description of the module.
-    /// </summary>
-    public string Description { get; private set; }
-    /// <summary>
     /// Creates a new <see cref="Module"/> instance.
     /// </summary>
-    /// <param name="key">The key for invoking the module.</param>
     /// <param name="name">The display name of the module.</param>
-    /// <param name="description">The description of the module.</param>
-    /// <param name="logger">The logger instance for the module.</param>
-    public Module(string key, string name, string description)
-    {
-        Key = key;
+    public Module(string name) =>
         Name = name;
-        Description = description;
-    }
     /// <summary>
     /// Executes the module's workload.
     /// </summary>

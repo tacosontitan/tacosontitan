@@ -10,7 +10,7 @@ namespace Sandbox.Modules;
 internal sealed class HammingDistance : Module
 {
     public HammingDistance() :
-        base("hamming", "Hamming Distance", "Calculates the number of different bits between two integers.")
+        base("Hamming Distance")
     { }
     protected override async Task Work()
     {

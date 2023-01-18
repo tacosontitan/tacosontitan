@@ -12,7 +12,7 @@ internal sealed class HelloWorld : Module
     /// Creates a new instance of the <see cref="HelloWorld" /> module.
     /// </summary>
     public HelloWorld() :
-        base("hello", "Hello World", "Says hello to the world.")
+        base("Hello World")
     { }
     protected override async Task Work() =>
         await Write("Hello world!");

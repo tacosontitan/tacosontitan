@@ -12,9 +12,7 @@ internal sealed class TravelingSalespersonModule : Module
 {
     private readonly Random _random;
     public TravelingSalespersonModule(Random random) :
-        base("traveler",
-             "Traveling Salesperson",
-             "Calculates the shortest path between a specified number of random cities.") =>
+        base("Traveling Salesperson") =>
         _random = random;
     protected override async Task Work()
     {
