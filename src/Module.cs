@@ -23,9 +23,9 @@ internal abstract class Module
     /// <returns>A <see cref="Task"/> describing the state of the operation.</returns>
     public async Task Execute()
     {
-        await Write($"{Name}: Starting execution.");
+        await WriteWithColor(ConsoleColor.Cyan, $"Starting `{Name}` module.");
         await Work();
-        await WriteWithColor(ConsoleColor.Cyan, "    Done.");
+        await WriteWithColor(ConsoleColor.Cyan, "Done.");
     }
     /// <summary>
     /// Executes the module's workload.
