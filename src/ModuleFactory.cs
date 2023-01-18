@@ -16,7 +16,7 @@ namespace Sandbox
     {
         private readonly ILogger _logger;
         private readonly IServiceProvider _serviceProvider;
-        private readonly List<ModuleDescription> _moduleDescriptions;
+        public IReadOnlyCollection<ModuleDescription> ModuleDescriptions { get; private set; }
         /// <summary>
         /// Creates a new <see cref="ModuleFactory"/> instance.
         /// </summary>
@@ -26,7 +26,7 @@ namespace Sandbox
         {
             _logger = logger;
             _serviceProvider = serviceProvider;
-            _moduleDescriptions = new List<ModuleDescription>();
+            var moduleDescriptions = new List<ModuleDescription>();
 
             // Get the types we care we can use.
             IEnumerable<Type> types = from type
@@ -37,14 +37,17 @@ namespace Sandbox
             // Add the types to the dictionary.
             foreach (Type type in types)
             {
-                DiscoverableAttribute discoverable = type.GetCustomAttribute<DiscoverableAttribute>();
+                DiscoverableAttribute? discoverable = type.GetCustomAttribute<DiscoverableAttribute>();
                 AliasAttribute? alias = type.GetCustomAttribute<AliasAttribute>();
                 if (discoverable is null || alias is null)
                     continue;
 
                 foreach (string aliasName in alias.Values)
-                    _moduleDescriptions.Add(new ModuleDescription(aliasName, discoverable.Name, discoverable.Description, type));
+                    moduleDescriptions.Add(new ModuleDescription(aliasName, discoverable.Name, discoverable.Description, type));
             }
+
+            // Set the descriptions collection.
+            ModuleDescriptions = moduleDescriptions;
         }
         /// <summary>
         /// Attempts to create a new <see cref="Module"/> instance using the specified key.
@@ -56,7 +59,7 @@ namespace Sandbox
         {
             try
             {
-                ModuleDescription? description = _moduleDescriptions.SingleOrDefault(description => description.Key.Equals(key, ignoreCase: true));
+                ModuleDescription? description = ModuleDescriptions.SingleOrDefault(description => description.Key.Equals(key, ignoreCase: true));
                 if (description is null)
                     throw new ArgumentException("Unable to locate module with the specified key.");
 
