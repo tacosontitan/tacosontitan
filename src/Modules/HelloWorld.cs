@@ -1,5 +1,6 @@
 using Mauve;
-using Sandbox;
+
+namespace Sandbox.Modules;
 /// <summary>
 /// Represents a basic module that says hello to the world.
 /// </summary>
