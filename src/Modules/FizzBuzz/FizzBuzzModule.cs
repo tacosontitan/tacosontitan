@@ -1,8 +1,12 @@
+using Mauve;
+
 namespace Sandbox.Modules.FizzBuzz;
 
 /// <summary>
 /// Represents the popular programming test `fizz-buzz` in a way that implements the chain of responsibility design pattern; as a <see cref="ConsumableModule" />.
 /// </summary>
+[Alias("fizz")]
+[Discoverable("Fizz Buzz", "Demonstrates the chain of responsibility pattern using fizz-buzz.")]
 internal sealed class FizzBuzzModule : Module
 {
     public FizzBuzzModule() : base("fizz", "Fizz Buzz", "Demonstrates the chain of responsibility pattern using fizz-buzz.") { }
