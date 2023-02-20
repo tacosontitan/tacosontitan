@@ -2,7 +2,7 @@
 
 I'm just another average millennial, with a 🔥 passion for all things code. I was born in 1991 and I have many hobbies, including creating software, games, and mobile apps, playing video games, and guitar, day trading, and distance running. With that, my goal in life is, and always has been, to learn and experience as much as possible, within reason.
 
-[![Header](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/images/relaxing-header.jpg)](https://github.com/tacosontitan)
+[![Header](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/header.jpg)](https://github.com/tacosontitan)
 
 *My preferred pronouns are `they/them` or `she/her`. 💁‍♀️*
 
@@ -10,7 +10,7 @@ I'm just another average millennial, with a 🔥 passion for all things code. I 
 
 I have a rather limited network presence, but I'm most active here on GitHub, over on Discord, and Stack Overflow. If you'd like to communicate with me, then I have a [discussions area](https://github.com/tacosontitan/tacosontitan/discussions) for that here on GitHub. Additionally, my monthly sponsors have access to my Discord server and can message me directly, if you're [interested in that sort of thing](https://github.com/sponsors/tacosontitan).
 
-[![tacosontitan](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/stackoverflow.png)](https://stackoverflow.com/users/tacosontitan)
+[![tacosontitan](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/stackoverflow.png)](https://stackoverflow.com/users/tacosontitan)
 
 ***Note**: I don't respond to direct messages from non-sponsors outside of the discussions area.*
 
@@ -18,27 +18,27 @@ I have a rather limited network presence, but I'm most active here on GitHub, ov
 
 I'm a senior developer with more than a decade of experience creating and maintaining software applications. In my career, I've particpated in teams ranging in size from 2 to 50 developers, and lead teams of 3 to 5. With my years of working knowledge, I now create infinitely scalable solutions to a vast expanse of issues in the transportation and logistics industry, utilizing a colorful array of technologies.
 
- [![azure](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/azure.png?size=50)](https://azure.microsoft.com/en-in/)
- [![bash](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/bash.png)](https://www.gnu.org/software/bash/)
- [![bootstrap](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/bootstrap.png)](https://getbootstrap.com)
- [![csharp](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/csharp.png)](https://www.w3schools.com/cs/)
- [![css3](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/css.png)](https://www.w3schools.com/css/)
- [![dotnet](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/msnet.png)](https://dotnet.microsoft.com/)
- [![electron](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/electron.png)](https://www.electronjs.org)
- [![firebase](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/firebase.png) (<https://firebase.google.com/>)
- [![git](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/git.png)](https://git-scm.com/)
- [![html5](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/html.png)](https://www.w3.org/html/)
- [![javascript](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
- [![mongodb](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/mongo.png)](https://www.mongodb.com/)
- [![mssql](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/mssql.png)](https://www.microsoft.com/en-us/sql-server)
- [![nodejs](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/node.png)](https://nodejs.org)
- [![postman](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/postman.png)](https://postman.com)
- [![rabbitMQ](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/rabbit.png)](https://www.rabbitmq.com)
- [![react](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/react.png)](https://reactjs.org/)
- [![sass](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/sass.png)](https://sass-lang.com)
- [![typescript](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/typescript.png)](https://www.typescriptlang.org/)
- [![unity](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/unity.png)](https://unity.com/)
- [![webpack](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/webpack.png)](https://webpack.js.org)
+ [![azure](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/azure.png?size=50)](https://azure.microsoft.com/en-in/)
+ [![bash](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/bash.png)](https://www.gnu.org/software/bash/)
+ [![bootstrap](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/bootstrap.png)](https://getbootstrap.com)
+ [![csharp](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/csharp.png)](https://www.w3schools.com/cs/)
+ [![css3](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/css.png)](https://www.w3schools.com/css/)
+ [![dotnet](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/msnet.png)](https://dotnet.microsoft.com/)
+ [![electron](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/electron.png)](https://www.electronjs.org)
+ [![firebase](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/firebase.png)](https://firebase.google.com/)
+ [![git](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/git.png)](https://git-scm.com/)
+ [![html5](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/html.png)](https://www.w3.org/html/)
+ [![javascript](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+ [![mongodb](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/mongo.png)](https://www.mongodb.com/)
+ [![mssql](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/mssql.png)](https://www.microsoft.com/en-us/sql-server)
+ [![nodejs](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/node.png)](https://nodejs.org)
+ [![postman](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/postman.png)](https://postman.com)
+ [![rabbitMQ](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/rabbit.png)](https://www.rabbitmq.com)
+ [![react](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/react.png)](https://reactjs.org/)
+ [![sass](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/sass.png)](https://sass-lang.com)
+ [![typescript](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/typescript.png)](https://www.typescriptlang.org/)
+ [![unity](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/unity.png)](https://unity.com/)
+ [![webpack](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/webpack.png)](https://webpack.js.org)
 
 *I'm a framework developer at heart, and I have a healthy relationship with unit tests.*
 
@@ -69,26 +69,32 @@ All of the artwork you find in my GitHub repositories are creations I ordered fr
 
 She is easily my favorite artist on Fiverr. If you like her work, feel free to let her know I sent you her way!
 
- [![lucy_was_taken](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-4.png)](https://www.fiverr.com/lucy_was_taken)
- [![lucy_was_taken](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-3.png)](https://www.fiverr.com/lucy_was_taken)
- [![lucy_was_taken](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-2.png)](https://www.fiverr.com/lucy_was_taken)
+ [![lucy_was_taken](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/lucy_was_taken/header.png)](https://www.fiverr.com/lucy_was_taken)
+ [![lucy_was_taken](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/lucy_was_taken/sippin.png)](https://www.fiverr.com/lucy_was_taken)
+ [![lucy_was_taken](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/lucy_was_taken/chilly.png)](https://www.fiverr.com/lucy_was_taken)
 
 ### [deedee46](https://www.fiverr.com/deedee46)
 
 They did a fantastic job bringing my vision to life!
 
- [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-5.png)](https://www.fiverr.com/deedee46)
- [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-6.png)](https://www.fiverr.com/deedee46)
- [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-8.png)](https://www.fiverr.com/deedee46)
+ [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/deedee46/octopus.png)](https://www.fiverr.com/deedee46)
+ [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/deedee46/chillin.png)](https://www.fiverr.com/deedee46)
+ [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/deedee46/peace.png)](https://www.fiverr.com/deedee46)
+ [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/deedee46/hiya.png)](https://www.fiverr.com/deedee46)
+ [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/deedee46/awkward.png)](https://www.fiverr.com/deedee46)
 
 ### [andiwandirana](https://www.fiverr.com/andiwandirana)
 
 I've bought many emotes from this artist, but only a handful for myself so far. The quality and speed of their work always astounds me, so they certainly deserve a spot here!
 
- [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-14.png)](https://www.fiverr.com/andiwandirana)
- [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-15.png)](https://www.fiverr.com/andiwandirana)
- [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-16.png)](https://www.fiverr.com/andiwandirana)
- [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-17.png)](https://www.fiverr.com/andiwandirana)
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/dead/56.png)](https://www.fiverr.com/andiwandirana)
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/giga stacy/56.png)](https://www.fiverr.com/andiwandirana)
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/its fine/56.png)](https://www.fiverr.com/andiwandirana)
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/lost/56.png)](https://www.fiverr.com/andiwandirana)
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/money/56.png)](https://www.fiverr.com/andiwandirana)
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/not sure/56.png)](https://www.fiverr.com/andiwandirana)
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/smirk/56.png)](https://www.fiverr.com/andiwandirana)
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/smug/56.png)](https://www.fiverr.com/andiwandirana)
 
 ### [eushaa](https://www.fiverr.com/eushaa)
 
