@@ -115,8 +115,8 @@ Absolutely, and there's actually a [website](https://www.buymeacoffee.com/tacoso
 ![Metrics](https://metrics.lecoq.io/tacosontitan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stackoverflow=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stackoverflow=false&stackoverflow.user=9893154&stackoverflow.limit=1&stackoverflow.lines=2&stackoverflow.lines.snippet=2&config.timezone=America%2FChicago)
 
 <!-- Badges -->
-[spotify-badge]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
-[youtube-badge]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+[spotify-badge]: https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/badges/spotify.png
+[youtube-badge]: https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/badges/youtube.png
 
 <!-- Music Links -->
 [s0]: https://open.spotify.com/track/5mCFG50hfO2SS5CxSTCeWQ?si=20be0df6cd304694
