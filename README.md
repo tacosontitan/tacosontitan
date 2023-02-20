@@ -2,140 +2,45 @@
 
 I'm just another average millennial, with a 🔥 passion for all things code. I was born in 1991 and I have many hobbies, including creating software, games, and mobile apps, playing video games, and guitar, day trading, and distance running. With that, my goal in life is, and always has been, to learn and experience as much as possible, within reason.
 
-[![Header](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/images/relaxing-header.jpg)](#)
+[![Header](https://raw.githubusercontent.com/tacosontitan/tacosontitan/master/images/relaxing-header.jpg)](https://github.com/tacosontitan)
 
-<sub>*My preferred pronouns are they/them or she/her. 💁‍♀️*</sub>
+*My preferred pronouns are `they/them` or `she/her`. 💁‍♀️*
 
 ## 🗺️ Where am I?
 
 I have a rather limited network presence, but I'm most active here on GitHub, over on Discord, and Stack Overflow. If you'd like to communicate with me, then I have a [discussions area](https://github.com/tacosontitan/tacosontitan/discussions) for that here on GitHub. Additionally, my monthly sponsors have access to my Discord server and can message me directly, if you're [interested in that sort of thing](https://github.com/sponsors/tacosontitan).
 
-<p align="left">
+[![tacosontitan](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/stackoverflow.png)](https://stackoverflow.com/users/tacosontitan)
 
-<!-- Stack Overflow -->
-<a href="https://stackoverflow.com/users/tacosontitan" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/stackoverflow.png" alt="tacosontitan" height="50" width="50" />
-</a>
-</p>
-
-![Metrics](https://metrics.lecoq.io/tacosontitan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stackoverflow=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stackoverflow=false&stackoverflow.user=9893154&stackoverflow.limit=1&stackoverflow.lines=2&stackoverflow.lines.snippet=2&config.timezone=America%2FChicago)
-
-<sub>***Note**: I don't respond to direct messages from non-sponsors outside of the discussions area.*</sub>
+***Note**: I don't respond to direct messages from non-sponsors outside of the discussions area.*
 
 ## ⚒️ What do I do?
 
 I'm a senior developer with more than a decade of experience creating and maintaining software applications. In my career, I've particpated in teams ranging in size from 2 to 50 developers, and lead teams of 3 to 5. With my years of working knowledge, I now create infinitely scalable solutions to a vast expanse of issues in the transportation and logistics industry, utilizing a colorful array of technologies.
 
-<p align="left">
+ [![azure](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/azure.png)](https://azure.microsoft.com/en-in/)
+ [![bash](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/bash.png)](https://www.gnu.org/software/bash/)
+ [![bootstrap](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/bootstrap.png)](https://getbootstrap.com)
+ [![csharp](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/csharp.png)](https://www.w3schools.com/cs/)
+ [![css3](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/css.png)](https://www.w3schools.com/css/)
+ [![dotnet](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/msnet.png)](https://dotnet.microsoft.com/)
+ [![electron](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/electron.png)](https://www.electronjs.org)
+ [![firebase](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/firebase.png) (<https://firebase.google.com/>)
+ [![git](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/git.png)](https://git-scm.com/)
+ [![html5](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/html.png)](https://www.w3.org/html/)
+ [![javascript](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+ [![mongodb](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/mongo.png)](https://www.mongodb.com/)
+ [![mssql](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/mssql.png)](https://www.microsoft.com/en-us/sql-server)
+ [![nodejs](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/node.png)](https://nodejs.org)
+ [![postman](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/postman.png)](https://postman.com)
+ [![rabbitMQ](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/rabbit.png)](https://www.rabbitmq.com)
+ [![react](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/react.png)](https://reactjs.org/)
+ [![sass](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/sass.png)](https://sass-lang.com)
+ [![typescript](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/typescript.png)](https://www.typescriptlang.org/)
+ [![unity](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/unity.png)](https://unity.com/)
+ [![webpack](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/webpack.png)](https://webpack.js.org)
 
-<!-- Azure -->
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/azure.png" alt="azure" width="50" height="50"/>
-</a>
-
-<!-- Bash -->
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/bash.png" alt="bash" width="50" height="50"/>
-</a>
-
-<!-- Bootstrap -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/bootstrap.png" alt="bootstrap" width="50" height="50"/>
-</a>
-
-<!-- C# -->
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/csharp.png" alt="csharp" width="50" height="50"/>
-</a>
-
-<!-- CSS -->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/css.png" alt="css3" width="50" height="50"/>
-</a>
-
-<!-- .NET -->
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/msnet.png" alt="dotnet" width="50" height="50"/>
-</a>
-
-<!-- Electron JS -->
-<a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/electron.png" alt="electron" width="50" height="50"/>
-</a>
-
-<!-- Firebase -->
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/firebase.png" alt="firebase" width="50" height="50"/>
-</a>
-
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/git.png" alt="git" width="50" height="50"/>
-</a>
-
-<!-- HTML -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/html.png" alt="html5" width="50" height="50"/>
-</a>
-
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/javascript.png" alt="javascript" width="50" height="50"/>
-</a>
-
-<!-- Mongo DB -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/mongo.png" alt="mongodb" width="50" height="50"/>
-</a>
-
-<!-- Microsoft SQL -->
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/mssql.png" alt="mssql" width="50" height="50"/>
-</a>
-
-<!-- Node JS -->
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/node.png" alt="nodejs" width="50" height="50"/>
-</a>
-
-<!-- Postman -->
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/postman.png" alt="postman" width="50" height="50"/>
-</a>
-
-<!-- Rabbit MQ -->
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/rabbit.png" alt="rabbitMQ" width="50" height="50"/>
-</a>
-
-<!-- React JS -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/react.png" alt="react" width="50" height="50"/>
-</a>
-
-<!-- SASS -->
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/sass.png" alt="sass" width="50" height="50"/>
-</a>
-
-<!-- TypeScript -->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/typescript.png" alt="typescript" width="50" height="50"/>
-</a>
-
-<!-- Unity 3D -->
-<a href="https://unity.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/unity.png" alt="unity" width="50" height="50"/>
-</a>
-
-<!-- Webpack -->
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/webpack.png" alt="webpack" width="50" height="50"/>
-</a>
-
-</p>
-
-<sub>*I'm a framework developer at heart, and I have a healthy relationship with unit tests.*</sub>
+*I'm a framework developer at heart, and I have a healthy relationship with unit tests.*
 
 ## 🎧 What am I listening to?
 
@@ -154,7 +59,7 @@ Neverland | Trifect | [![Listen on Spotify][spotify-badge]][s7] [![Listen on You
 Everybody (Backstreet's Back) | Backstreet Boys | [![Listen on Spotify][spotify-badge]][s8] [![Listen on YouTube][youtube-badge]][y8]
 Kiss Me More | Doja Cat ft. SZA | [![Listen on Spotify][spotify-badge]][s9] [![Listen on YouTube][youtube-badge]][y9]
 
-<sub>*Let's be honest, it's impossible to fit all of one's favorite songs into a 10 row table.*</sub>
+*Let's be honest, it's impossible to fit all of one's favorite songs into a 10 row table.*
 
 ## 🎨 Where did I get my artwork?
 
@@ -164,58 +69,26 @@ All of the artwork you find in my GitHub repositories are creations I ordered fr
 
 She is easily my favorite artist on Fiverr. If you like her work, feel free to let her know I sent you her way!
 
-<p align="left">
-
-<a href="https://www.fiverr.com/lucy_was_taken" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-4.png" alt="lucy_was_taken" width="75" height="75"/>
-</a>
-<a href="https://www.fiverr.com/lucy_was_taken" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-3.png" alt="lucy_was_taken" width="75" height="75"/>
-</a>
-<a href="https://www.fiverr.com/lucy_was_taken" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-2.png" alt="lucy_was_taken" width="75" height="75"/>
-</a>
-
-</p>
+ [![lucy_was_taken](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-4.png)](https://www.fiverr.com/lucy_was_taken)
+ [![lucy_was_taken](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-3.png)](https://www.fiverr.com/lucy_was_taken)
+ [![lucy_was_taken](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-2.png)](https://www.fiverr.com/lucy_was_taken)
 
 ### [deedee46](https://www.fiverr.com/deedee46)
 
 They did a fantastic job bringing my vision to life!
 
-<p align="left">
-
-<a href="https://www.fiverr.com/deedee46" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-5.png" alt="deedee46" width="75" height="75"/>
-</a>
-<a href="https://www.fiverr.com/deedee46" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-6.png" alt="deedee46" width="75" height="75"/>
-</a>
-<a href="https://www.fiverr.com/deedee46" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-8.png" alt="deedee46" width="75" height="75"/>
-</a>
-
-</p>
+ [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-5.png)](https://www.fiverr.com/deedee46)
+ [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-6.png)](https://www.fiverr.com/deedee46)
+ [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-8.png)](https://www.fiverr.com/deedee46)
 
 ### [andiwandirana](https://www.fiverr.com/andiwandirana)
 
 I've bought many emotes from this artist, but only a handful for myself so far. The quality and speed of their work always astounds me, so they certainly deserve a spot here!
 
-<p align="left">
-
-<a href="https://www.fiverr.com/andiwandirana" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-14.png" alt="andiwandirana" width="75" height="75"/>
-</a>
-<a href="https://www.fiverr.com/andiwandirana" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-15.png" alt="andiwandirana" width="75" height="75"/>
-</a>
-<a href="https://www.fiverr.com/andiwandirana" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-16.png" alt="andiwandirana" width="75" height="75"/>
-</a>
-<a href="https://www.fiverr.com/andiwandirana" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-17.png" alt="andiwandirana" width="75" height="75"/>
-</a>
-
-</p>
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-14.png)](https://www.fiverr.com/andiwandirana)
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-15.png)](https://www.fiverr.com/andiwandirana)
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-16.png)](https://www.fiverr.com/andiwandirana)
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-17.png)](https://www.fiverr.com/andiwandirana)
 
 ### [eushaa](https://www.fiverr.com/eushaa)
 
@@ -227,7 +100,8 @@ Absolutely, and there's actually a [website](https://www.buymeacoffee.com/tacoso
 
 ## 📈 A Few Statistics
 
-![:My Profile Views](https://count.getloli.com/get/@tacosontitan)
+![:My Profile Views](https://count.getloli.com/get/@tacosontitan)  
+![Metrics](https://metrics.lecoq.io/tacosontitan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stackoverflow=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stackoverflow=false&stackoverflow.user=9893154&stackoverflow.limit=1&stackoverflow.lines=2&stackoverflow.lines.snippet=2&config.timezone=America%2FChicago)
 
 <!-- Badges -->
 [spotify-badge]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
