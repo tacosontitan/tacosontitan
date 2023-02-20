@@ -25,7 +25,7 @@ I'm a senior developer with more than a decade of experience creating and mainta
  [![css3](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/css.png)](https://www.w3schools.com/css/)
  [![dotnet](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/msnet.png)](https://dotnet.microsoft.com/)
  [![electron](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/electron.png)](https://www.electronjs.org)
- [![firebase](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/firebase.png) (<https://firebase.google.com/>)
+ [![firebase](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/firebase.png)](https://firebase.google.com/)
  [![git](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/git.png)](https://git-scm.com/)
  [![html5](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/html.png)](https://www.w3.org/html/)
  [![javascript](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
