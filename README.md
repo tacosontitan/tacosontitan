@@ -87,14 +87,14 @@ They did a fantastic job bringing my vision to life!
 
 I've bought many emotes from this artist, but only a handful for myself so far. The quality and speed of their work always astounds me, so they certainly deserve a spot here!
 
- [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/dead/56.png)](https://www.fiverr.com/andiwandirana)
- [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/giga stacy/56.png)](https://www.fiverr.com/andiwandirana)
- [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/its fine/56.png)](https://www.fiverr.com/andiwandirana)
- [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/lost/56.png)](https://www.fiverr.com/andiwandirana)
- [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/money/56.png)](https://www.fiverr.com/andiwandirana)
- [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/not sure/56.png)](https://www.fiverr.com/andiwandirana)
- [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/smirk/56.png)](https://www.fiverr.com/andiwandirana)
- [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/smug/56.png)](https://www.fiverr.com/andiwandirana)
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/Dead/56.png)](https://www.fiverr.com/andiwandirana)
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/Giga Stacy/56.png)](https://www.fiverr.com/andiwandirana)
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/Its Fine/56.png)](https://www.fiverr.com/andiwandirana)
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/Lost/56.png)](https://www.fiverr.com/andiwandirana)
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/Money/56.png)](https://www.fiverr.com/andiwandirana)
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/Not Sure/56.png)](https://www.fiverr.com/andiwandirana)
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/Smirk/56.png)](https://www.fiverr.com/andiwandirana)
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/Smug/56.png)](https://www.fiverr.com/andiwandirana)
 
 ### [eushaa](https://www.fiverr.com/eushaa)
 
