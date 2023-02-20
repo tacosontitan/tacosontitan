@@ -228,10 +228,9 @@ This artist created all of the circular logos you see in this readme.
 
 Absolutely, and there's actually a [website](https://www.buymeacoffee.com/tacosontitan) just for that!
 
-## 📈 My GitHub Stats
+## 📈 A Few Statistics
 
 ![:My Profile Views](https://count.getloli.com/get/@tacosontitan)
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tacosontitan&show_icons=true&theme=dark)]
 
 <!-- Badges -->
 [spotify-badge]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
