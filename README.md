@@ -12,11 +12,6 @@ I have a rather limited network presence, but I'm most active here on GitHub, ov
 
 <p align="left">
 
-<!-- Twitter -->
-<a href="https://twitter.com/tacosontitan" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/twitter.png" alt="tacosontitan" height="50" width="50" />
-</a>
-
 <!-- Stack Overflow -->
 <a href="https://stackoverflow.com/users/tacosontitan" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/stackoverflow.png" alt="tacosontitan" height="50" width="50" />
