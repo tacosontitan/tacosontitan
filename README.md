@@ -18,7 +18,7 @@ I have a rather limited network presence, but I'm most active here on GitHub, ov
 </a>
 </p>
 
-![Metrics](https://metrics.lecoq.io/tacosontitan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stackoverflow=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stackoverflow=false&stackoverflow.user=9893154&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=2&stackoverflow.lines.snippet=2&config.timezone=America%2FChicago)
+![Metrics](https://metrics.lecoq.io/tacosontitan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stackoverflow=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stackoverflow=false&stackoverflow.user=9893154&stackoverflow.limit=1&stackoverflow.lines=2&stackoverflow.lines.snippet=2&config.timezone=America%2FChicago)
 
 <sub>***Note**: I don't respond to direct messages from non-sponsors outside of the discussions area.*</sub>
 
