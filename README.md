@@ -69,9 +69,9 @@ All of the artwork you find in my GitHub repositories are creations I ordered fr
 
 She is easily my favorite artist on Fiverr. If you like her work, feel free to let her know I sent you her way!
 
- [![lucy_was_taken](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-4.png)](https://www.fiverr.com/lucy_was_taken)
- [![lucy_was_taken](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-3.png)](https://www.fiverr.com/lucy_was_taken)
- [![lucy_was_taken](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/profile-images/image-2.png)](https://www.fiverr.com/lucy_was_taken)
+ [![lucy_was_taken](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/lucy_was_taken/header.png)](https://www.fiverr.com/lucy_was_taken)
+ [![lucy_was_taken](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/lucy_was_taken/sippin.png)](https://www.fiverr.com/lucy_was_taken)
+ [![lucy_was_taken](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/lucy_was_taken/chilly.png)](https://www.fiverr.com/lucy_was_taken)
 
 ### [deedee46](https://www.fiverr.com/deedee46)
 
