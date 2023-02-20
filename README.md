@@ -18,7 +18,7 @@ I have a rather limited network presence, but I'm most active here on GitHub, ov
 
 I'm a senior developer with more than a decade of experience creating and maintaining software applications. In my career, I've particpated in teams ranging in size from 2 to 50 developers, and lead teams of 3 to 5. With my years of working knowledge, I now create infinitely scalable solutions to a vast expanse of issues in the transportation and logistics industry, utilizing a colorful array of technologies.
 
- [![azure](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/azure.png)](https://azure.microsoft.com/en-in/)
+ [![azure](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/azure.png?size=50)](https://azure.microsoft.com/en-in/)
  [![bash](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/bash.png)](https://www.gnu.org/software/bash/)
  [![bootstrap](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/bootstrap.png)](https://getbootstrap.com)
  [![csharp](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/images/icons/csharp.png)](https://www.w3schools.com/cs/)
