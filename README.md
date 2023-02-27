@@ -90,7 +90,7 @@ I've bought many emotes from this artist, but only a handful for myself so far. 
  [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/Its%20Fine/112.png)](https://www.fiverr.com/andiwandirana)
  [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/Lost/112.png)](https://www.fiverr.com/andiwandirana)
  [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/Love/112.png)](https://www.fiverr.com/andiwandirana)
- [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/Smirk/112.png)](https://www.fiverr.com/andiwandirana)
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/Cute/112.png)](https://www.fiverr.com/andiwandirana)
  [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/Spider%20Sense/112.png)](https://www.fiverr.com/andiwandirana)
 
 ### [eushaa](https://www.fiverr.com/eushaa)
