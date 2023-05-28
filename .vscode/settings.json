@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "dist": false
+    },
+    "search.exclude": {
+        "dist": true
+    },
+    "cSpell.words": [
+        "copypasta",
+        "envsample",
+        "guids",
+        "intelli",
+        "intellicode",
+        "tacosontitan",
+        "xunit"
+    ]
+}
