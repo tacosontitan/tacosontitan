@@ -14,3 +14,16 @@
     ! = 33
 ]
 
++++++++[>++++++++++<-]>++.      Print 'H'
+<+++++[>++++++<-]>-.            Print 'e'
++++++++.                        Print 'l'
+.                               Print 'l'
++++.                            Print 'o'
+>++++[>+++++++++++<-]>.         Print the comma
+------------.                   Print the space
+<<++++++++.                     Print 'w'
+--------.                       Print 'o'
++++.                            Print 'r'
+------.`                        Print 'l'
+--------.                       Print 'd'
+>>+.                            Print '!'
