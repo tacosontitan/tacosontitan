@@ -16,7 +16,7 @@ I have a rather limited network presence, but I'm most active here on GitHub, ov
 
 ## ⚒️ What do I do?
 
-I'm a senior developer with more than a decade of experience creating and maintaining software applications. In my career, I've particpated in teams ranging in size from 2 to 50 developers, and lead teams of 3 to 5. With my years of working knowledge, I now create infinitely scalable solutions to a vast expanse of issues in the transportation and logistics industry, utilizing a colorful array of technologies.
+I'm a senior developer with more than a decade of experience creating and maintaining software applications. In my career, I've participated in teams ranging in size from 2 to 50 developers, and lead teams of 3 to 5. With my years of working knowledge, I now create infinitely scalable solutions to a vast expanse of issues in the transportation and logistics industry, utilizing a colorful array of technologies.
 
  [![azure](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/azure.png?size=50)](https://azure.microsoft.com/en-in/)
  [![bash](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/bash.png)](https://www.gnu.org/software/bash/)
@@ -44,7 +44,7 @@ I'm a senior developer with more than a decade of experience creating and mainta
 
 ## 🎧 What am I listening to?
 
-I listen to an immense variety of music, and with my genre interest ranging from classical to heavy metal, there's not much I *won't* listen to. If you're curious, the table below contains my top ten most played tracks of 2022 acording to Spotify. You can click on the Spotify or YouTube badges in the source column to listen with the respective service.
+I listen to an immense variety of music, and with my genre interest ranging from classical to heavy metal, there's not much I *won't* listen to. If you're curious, the table below contains my top ten most played tracks of 2022 according to Spotify. You can click on the Spotify or YouTube badges in the source column to listen with the respective service.
 
 Title | Artist | Source
 :------------ | :------------- | :-------------:
