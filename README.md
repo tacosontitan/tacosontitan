@@ -78,7 +78,6 @@ She is easily my favorite artist on Fiverr. If you like her work, feel free to l
 They did a fantastic job bringing my vision to life!
 
  [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/deedee46/octopus.png)](https://www.fiverr.com/deedee46)
- [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/deedee46/chillin.png)](https://www.fiverr.com/deedee46)
  [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/deedee46/peace.png)](https://www.fiverr.com/deedee46)
  [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/deedee46/hiya.png)](https://www.fiverr.com/deedee46)
  [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/deedee46/awkward.png)](https://www.fiverr.com/deedee46)
