@@ -80,7 +80,6 @@ They did a fantastic job bringing my vision to life!
  [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/deedee46/octopus.png)](https://www.fiverr.com/deedee46)
  [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/deedee46/peace.png)](https://www.fiverr.com/deedee46)
  [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/deedee46/hiya.png)](https://www.fiverr.com/deedee46)
- [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/deedee46/awkward.png)](https://www.fiverr.com/deedee46)
 
 ### [andiwandirana](https://www.fiverr.com/andiwandirana)
 
