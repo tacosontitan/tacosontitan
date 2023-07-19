@@ -14,5 +14,6 @@
         "intellicode",
         "tacosontitan",
         "xunit"
-    ]
+    ],
+    "dotnet.defaultSolution": "Sandbox.sln"
 }
