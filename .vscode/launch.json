@@ -2,11 +2,33 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Sandbox (CSharp)",
+            "name": "C# Sandbox (4.8)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "Build C# Sandbox",
-            "program": "${workspaceFolder}/src/Sandbox.CSharp/bin/Debug/net7.0/Sandbox.CSharp.dll",
+            "program": "${workspaceFolder}/src/Sandbox.CSharp/bin/Debug/net48/Sandbox.CSharp.exe",
+            "args": [],
+            "cwd": "${workspaceFolder}/src/Sandbox.CSharp",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": "C# Sandbox (6.0)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "Build C# Sandbox",
+            "program": "${workspaceFolder}/src/Sandbox.CSharp/bin/Debug/net6.0/Sandbox.CSharp.exe",
+            "args": [],
+            "cwd": "${workspaceFolder}/src/Sandbox.CSharp",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": "C# Sandbox (7.0)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "Build C# Sandbox",
+            "program": "${workspaceFolder}/src/Sandbox.CSharp/bin/Debug/net7.0/Sandbox.CSharp.exe",
             "args": [],
             "cwd": "${workspaceFolder}/src/Sandbox.CSharp",
             "console": "internalConsole",
