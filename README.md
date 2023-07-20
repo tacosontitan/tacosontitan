@@ -1,5 +1,5 @@
-# 🏖️ Hazel's Sandbox 📦
+# 🏖️ Just a Sandbox 📦
 
-Do you ever get tired of creating console app after console app just to test out ideas or concepts? Well, so do I! This sandbox is now my permanent home for testing new ideas, concepts, or theories.
+Do you ever get tired of creating new projects to test out new ideas, concepts, or theories? Well, so do I! Now, I simply create a new module, register it with the dependency injection container, and boot it up.
 
-Welcome to my sandbox, wanna play?
+> Welcome to my sandbox, wanna play?
