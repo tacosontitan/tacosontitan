@@ -47,5 +47,5 @@ public abstract class SandboxModule
     /// <param name="iterationId">A unique identifier for the iteration.</param>
     /// <param name="message">The message to write.</param>
     protected void WriteLine(Guid iterationId, string message) =>
-        Console.WriteLine($"    {Name} [{iterationId.GetHashCode():X}]: {message}");
+        Console.WriteLine($"    {Name} [{iterationId.GetHashCode():X8}]: {message}");
 }
