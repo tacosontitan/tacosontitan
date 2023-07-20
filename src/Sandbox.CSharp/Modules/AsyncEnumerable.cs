@@ -28,19 +28,32 @@ public class AsyncEnumerable
     /// <inheritdoc/>
     public override async Task Invoke(Guid invocationId, CancellationToken cancellationToken = default)
     {
+        List<Task> processingTasks = new();
         await foreach (string sample in GetSamples().WithCancellation(cancellationToken))
-            WriteLine(invocationId, sample);
+        {
+            Task processingTask = ProcessSample(invocationId, sample, cancellationToken);
+            processingTasks.Add(processingTask);
+        }
+
+        await Task.WhenAll(processingTasks);
     }
 
     private async IAsyncEnumerable<string> GetSamples()
     {
-        for (int i = 0; i < 10; i++)
+        for (int i = 0; i < 25; i++)
         {
             _logger.LogInformation("Getting sample {Index}...", i);
-            await Task.Delay(TimeSpan.FromSeconds(_random.Next(1, 10)));
+            await Task.Delay(TimeSpan.FromMilliseconds(_random.Next(1, 3) * 150));
 
             int sample = Guid.NewGuid().GetHashCode();
             yield return $"{i}:{sample:X}";
         }
+    }
+
+    private async Task ProcessSample(Guid invocationId, string sample, CancellationToken cancellationToken = default)
+    {
+        _logger.LogInformation("Processing sample {Sample}...", sample);
+        await Task.Delay(TimeSpan.FromMilliseconds(_random.Next(5, 15) * 150), cancellationToken);
+        WriteLine(invocationId, sample);
     }
 }
