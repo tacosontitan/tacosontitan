@@ -2,6 +2,7 @@
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
+using Sandbox.CSharp.Core;
 
 Console.WriteLine("📦 Starting sandbox.");
 IHost host = Host.CreateDefaultBuilder(args)
@@ -29,11 +30,13 @@ void ConfigureLogging(HostBuilderContext context, ILoggingBuilder logging)
     IConfigurationSection loggingConfiguration = context.Configuration.GetSection("Logging");
     if (loggingConfiguration is null)
         return;
-        
+
     logging.AddConfiguration(context.Configuration.GetSection("Logging"));
 }
 
 void Configure(IServiceCollection services)
 {
-
+    services
+        .AddHostedService<TriggerService>()
+        .AddCoreModules();
 }
