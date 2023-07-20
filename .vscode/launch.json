@@ -9,7 +9,7 @@
             "program": "${workspaceFolder}/src/Sandbox.CSharp/bin/Debug/${input:csharpTargetFramework}/Sandbox.CSharp.exe",
             "args": [],
             "cwd": "${workspaceFolder}/src/Sandbox.CSharp",
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopAtEntry": false
         }
     ],
