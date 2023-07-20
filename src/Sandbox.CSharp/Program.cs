@@ -25,6 +25,11 @@ void ConfigureLogging(HostBuilderContext context, ILoggingBuilder logging)
 {
     logging.ClearProviders();
     logging.AddConsole();
+
+    IConfigurationSection loggingConfiguration = context.Configuration.GetSection("Logging");
+    if (loggingConfiguration is null)
+        return;
+        
     logging.AddConfiguration(context.Configuration.GetSection("Logging"));
 }
 
