@@ -8,7 +8,7 @@
             "type": "process",
             "args": [
                 "build",
-                "src/legacy/Sandbox.CSharp.csproj"
+                "src/Sandbox.CSharp/Sandbox.CSharp.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
