@@ -22,7 +22,7 @@ public abstract class SandboxModule
     /// Gets the invocation key for the module.
     /// </summary>
     public string Key { get; }
-    
+
     /// <summary>
     /// Gets the name of the module.
     /// </summary>
@@ -40,4 +40,12 @@ public abstract class SandboxModule
     /// <param name="cancellationToken">A <see cref="CancellationToken"/> for handling cancellation requests.</param>
     /// <returns>A <see cref="Task"/> representing the asynchronous operation.</returns>
     public abstract Task Invoke(Guid invocationId, CancellationToken cancellationToken = default);
+
+    /// <summary>
+    /// Writes a line to the console.
+    /// </summary>
+    /// <param name="iterationId">A unique identifier for the iteration.</param>
+    /// <param name="message">The message to write.</param>
+    protected void WriteLine(Guid iterationId, string message) =>
+        Console.WriteLine($"    {Name} [{iterationId.GetHashCode():X}]: {message}");
 }
