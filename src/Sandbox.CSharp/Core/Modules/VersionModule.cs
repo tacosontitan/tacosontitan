@@ -36,7 +36,7 @@ public class VersionModule
             return Task.CompletedTask;
         }
 
-        Console.WriteLine($"    {assembly.GetName().Name} (v{assembly.GetName().Version})");
+        WriteLine(invocationId, $"    {assembly.GetName().Name} (v{assembly.GetName().Version})");
         foreach (AssemblyName reference in assembly.GetReferencedAssemblies())
         {
             if (cancellationToken.IsCancellationRequested)
@@ -61,6 +61,6 @@ public class VersionModule
         }
 
         AssemblyName assemblyName = assembly.GetName();
-        Console.WriteLine($"    {assemblyName.Name} (v{assemblyName.Version}");
+        WriteLine(invocationId, $"    {assemblyName.Name} (v{assemblyName.Version}");
     }
 }

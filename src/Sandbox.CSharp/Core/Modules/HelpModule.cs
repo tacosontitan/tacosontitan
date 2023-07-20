@@ -26,7 +26,7 @@ public class HelpModule
             if (cancellationToken.IsCancellationRequested)
                 break;
 
-            Console.WriteLine($"{module.Key} - {module.Name}: {module.Description}");
+            WriteLine(invocationId, $"{module.Key} - {module.Name}: {module.Description}");
         }
 
         return Task.CompletedTask;
