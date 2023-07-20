@@ -39,7 +39,5 @@ void Configure(IServiceCollection services)
 {
     services
         .AddHostedService<TriggerService>()
-        .AddCoreModules()
-        .AddModule<HelloWorld>()
-        .AddModule<AsyncEnumerable>();
+        .AddModules();
 }
