@@ -44,10 +44,14 @@ public class AsyncEnumerable
         {
             _logger.LogInformation("Getting sample {Index}...", i);
             await Task.Delay(TimeSpan.FromMilliseconds(_random.Next(1, 3) * 150));
-
-            int sample = Guid.NewGuid().GetHashCode();
-            yield return $"{i}:{sample:X}";
+            yield return GenerateSample(i);
         }
+    }
+
+    private string GenerateSample(int index)
+    {
+        int sample = Guid.NewGuid().GetHashCode();
+        return $"{index}:{sample:X}";
     }
 
     private async Task ProcessSample(Guid invocationId, string sample, CancellationToken cancellationToken = default)
