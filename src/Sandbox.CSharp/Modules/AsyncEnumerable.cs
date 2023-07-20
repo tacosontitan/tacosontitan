@@ -48,7 +48,7 @@ public class AsyncEnumerable
         }
     }
 
-    private string GenerateSample(int index)
+    private static string GenerateSample(int index)
     {
         int sample = Guid.NewGuid().GetHashCode();
         return $"{index}:{sample:X}";
