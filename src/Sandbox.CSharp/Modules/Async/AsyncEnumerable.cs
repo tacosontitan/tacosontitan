@@ -1,7 +1,7 @@
 using Microsoft.Extensions.Logging;
 using Sandbox.CSharp.Core;
 
-namespace Sandbox.CSharp.Modules;
+namespace Sandbox.CSharp.Modules.Async;
 
 /// <summary>
 /// Represents a module for tinkering with <see cref="IAsyncEnumerable"/>.
