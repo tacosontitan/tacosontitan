@@ -14,5 +14,6 @@ public static class AsyncModuleExtensions
     /// <param name="services">The services collection.</param>
     /// <returns>The services collection.</returns>
     public static IServiceCollection AddAsyncModules(this IServiceCollection services) => services
-        .AddModule<AsyncEnumerable>();
+        .AddModule<AsyncEnumerable>()
+        .AddModule<AsyncFirstOrDefault>();
 }
