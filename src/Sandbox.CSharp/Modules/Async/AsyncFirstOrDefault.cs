@@ -28,14 +28,8 @@ public class AsyncFirstOrDefault
     public override async Task Invoke(Guid invocationId, CancellationToken cancellationToken = default)
     {
         IAsyncEnumerable<int> samples = GetSamples(invocationId);
-        await using var sampleEnumerator = samples.GetAsyncEnumerator(cancellationToken);
-        if (await sampleEnumerator.MoveNextAsync().ConfigureAwait(false))
-        {
-            int sample = sampleEnumerator.Current;
-            WriteLine(invocationId, $"The first sample is `{sample}`.");
-        }
-
-        WriteLine(invocationId, "Done.");
+        int? firstSample = await samples.FirstOrDefaultAsync(cancellationToken);
+        WriteLine(invocationId, $"The first sample is `{firstSample?.ToString() ?? "null"}`.");
     }
 
     private async IAsyncEnumerable<int> GetSamples(Guid invocationId)
