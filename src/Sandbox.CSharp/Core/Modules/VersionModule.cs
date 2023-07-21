@@ -32,7 +32,7 @@ public class VersionModule
         var assembly = Assembly.GetExecutingAssembly();
         if (assembly is null)
         {
-            _logger.LogError("{InvocationId}: Failed to load the executing assembly.");
+            _logger.LogError("{InvocationId}: Failed to load the executing assembly.", invocationId);
             return Task.CompletedTask;
         }
 
