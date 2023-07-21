@@ -43,14 +43,14 @@ public class TriggerService
     private async Task<bool> TryProcessIteration(CancellationToken cancellationToken)
     {
         Console.Write("Enter a command: ");
-        string input = Console.ReadLine();
+        string? input = Console.ReadLine();
         if (string.IsNullOrWhiteSpace(input))
         {
             _logger.LogWarning("No input received.");
             return true;
         }
 
-        SandboxModule module = _modules.FirstOrDefault(m => m.Key.Equals(input, StringComparison.OrdinalIgnoreCase));
+        SandboxModule? module = _modules.FirstOrDefault(m => m.Key.Equals(input, StringComparison.OrdinalIgnoreCase));
         if (module is null)
         {
             _logger.LogWarning("No module found for input '{input}'.", input);
