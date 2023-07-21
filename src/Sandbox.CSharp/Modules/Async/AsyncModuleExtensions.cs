@@ -9,15 +9,6 @@ namespace Sandbox.CSharp.Modules.Async;
 public static class AsyncModuleExtensions
 {
     /// <summary>
-    /// Adds the <see cref="AsyncEnumerable"/> module to the specified <paramref name="services"/>.
-    /// </summary>
-    /// <param name="services">The services collection.</param>
-    /// <returns>The services collection.</returns>
-    public static IServiceCollection AddAsyncModules(this IServiceCollection services) => services
-        .AddModule<AsyncEnumerable>()
-        .AddModule<AsyncFirstOrDefault>();
-
-    /// <summary>
     /// Gets the first record from the specified <paramref name="source"/> or a default value if the source is empty.
     /// </summary>
     /// <typeparam name="T">The type of the elements in the source.</typeparam>

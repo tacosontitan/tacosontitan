@@ -1,7 +1,8 @@
+using System.Reflection;
 using Microsoft.Extensions.DependencyInjection;
+
 using Sandbox.CSharp.Core;
-using Sandbox.CSharp.Modules.Async;
-using Sandbox.CSharp.Modules.Paginator;
+using Sandbox.CSharp.Core.Modules;
 
 namespace Sandbox.CSharp.Modules;
 
@@ -15,9 +16,24 @@ public static class ModuleExtensions
     /// </summary>
     /// <param name="services">The <see cref="IServiceCollection"/> to add the modules to.</param>
     /// <returns>The <see cref="IServiceCollection"/> so that additional calls can be chained.</returns>
-    public static IServiceCollection AddModules(this IServiceCollection services) => services
-        .AddCoreModules()
-        .AddAsyncModules()
-        .AddPaginatorModule()
-        .AddModule<HelloWorld>();
+    public static IServiceCollection AddModules(this IServiceCollection services)
+    {
+        IEnumerable<Type> moduleTypes =
+        from type in Assembly.GetExecutingAssembly().GetTypes()
+        where !type.IsAbstract && typeof(SandboxModule).IsAssignableFrom(type)
+        select type;
+
+        foreach (var moduleType in moduleTypes)
+            RegisterModule(services, moduleType);
+
+        return services;
+    }
+
+    private static void RegisterModule(IServiceCollection services, Type moduleType)
+    {
+        if (typeof(CoreModule).IsAssignableFrom(moduleType))
+            _ = services.AddTransient(typeof(CoreModule), moduleType);
+        else
+            _ = services.AddTransient(typeof(SandboxModule), moduleType);
+    }
 }
