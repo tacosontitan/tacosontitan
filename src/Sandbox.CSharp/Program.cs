@@ -7,7 +7,7 @@ using Sandbox.CSharp.Modules;
 using Sandbox.CSharp.Core.Console;
 using Sandbox.CSharp;
 
-Console.WriteLine("📦 Starting sandbox.");
+Console.WriteLine("Starting sandbox.");
 IHost host = Host.CreateDefaultBuilder(args)
     .ConfigureAppConfiguration(ConfigureAppConfiguration)
     .ConfigureLogging(ConfigureLogging)
