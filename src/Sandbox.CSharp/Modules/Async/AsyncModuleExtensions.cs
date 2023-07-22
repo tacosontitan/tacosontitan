@@ -1,6 +1,3 @@
-using Microsoft.Extensions.DependencyInjection;
-using Sandbox.CSharp.Core;
-
 namespace Sandbox.CSharp.Modules.Async;
 
 /// <summary>

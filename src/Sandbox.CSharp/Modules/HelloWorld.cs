@@ -1,4 +1,5 @@
 using Sandbox.CSharp.Core;
+using Sandbox.CSharp.Core.Console;
 
 namespace Sandbox.CSharp.Modules;
 
@@ -8,20 +9,22 @@ namespace Sandbox.CSharp.Modules;
 public class HelloWorld
     : SandboxModule
 {
+    private readonly IConsole _console;
+
     /// <summary>
     /// Initializes a new instance of the <see cref="HelloWorld"/> class.
     /// </summary>
-    public HelloWorld() : base(
+    /// <param name="console">The console to write messages to.</param>
+    public HelloWorld(IConsole<HelloWorld> console) : base(
         key: "hello",
         name: "Hello World",
-        description: "Says hello to the world.")
-    {
-    }
+        description: "Says hello to the world.") =>
+        _console = console;
 
     /// <inheritdoc/>
-    public override Task Invoke(Guid invocationId, CancellationToken cancellationToken = default)
+    public override Task Invoke(CancellationToken cancellationToken = default)
     {
-        WriteLine(invocationId, "👋 Hello, world!");
+        _console.WriteLine("👋 Hello, world!");
         return Task.CompletedTask;
     }
 }

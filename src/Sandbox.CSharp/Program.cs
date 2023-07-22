@@ -4,6 +4,8 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
 using Sandbox.CSharp.Core;
 using Sandbox.CSharp.Modules;
+using Sandbox.CSharp.Core.Console;
+using Sandbox.CSharp;
 
 Console.WriteLine("📦 Starting sandbox.");
 IHost host = Host.CreateDefaultBuilder(args)
@@ -39,5 +41,7 @@ void Configure(IServiceCollection services)
 {
     services
         .AddHostedService<TriggerService>()
-        .AddModules();
+        .AddDependencies()
+        .AddModules()
+        .AddConsole();
 }

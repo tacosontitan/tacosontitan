@@ -1,5 +1,6 @@
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Sandbox.CSharp.Core.Console;
 using Sandbox.CSharp.Core.Modules;
 
 namespace Sandbox.CSharp.Core;
@@ -10,21 +11,21 @@ namespace Sandbox.CSharp.Core;
 public class TriggerService
     : BackgroundService
 {
-    private readonly ILogger _logger;
+    private readonly IConsole _console;
     private readonly IEnumerable<SandboxModule> _modules;
 
     /// <summary>
     /// Initializes a new instance of the <see cref="TriggerService"/> class.
     /// </summary>
+    /// <param name="console">The console to write messages to.</param>
     /// <param name="coreModules">All of the core modules available to the sandbox.</param>
     /// <param name="modules">All of the modules available to the sandbox.</param>
-    /// <param name="logger">A logger for writing log messages.</param>
     public TriggerService(
+        IConsole console,
         IEnumerable<CoreModule> coreModules,
-        IEnumerable<SandboxModule> modules,
-        ILogger<TriggerService> logger)
+        IEnumerable<SandboxModule> modules)
     {
-        _logger = logger;
+        _console = console;
         _modules = coreModules.Concat(modules);
     }
 
@@ -42,23 +43,23 @@ public class TriggerService
 
     private async Task<bool> TryProcessIteration(CancellationToken cancellationToken)
     {
-        Console.Write("Enter a command: ");
-        string? input = Console.ReadLine();
+        _console.Write("Enter a command: ");
+        string? input = _console.ReadLine<string?>();
         if (string.IsNullOrWhiteSpace(input))
         {
-            _logger.LogWarning("No input received.");
+            _console.WriteLine("No input received.");
             return true;
         }
 
         SandboxModule? module = _modules.FirstOrDefault(m => m.Key.Equals(input, StringComparison.OrdinalIgnoreCase));
         if (module is null)
         {
-            _logger.LogWarning("No module found for input '{input}'.", input);
+            _console.WriteLine($"No module found for input '{input}'.");
             return true;
         }
 
-        _logger.LogInformation("Invoking module '{module}'.", module.Key);
-        await module.Invoke(Guid.NewGuid(), cancellationToken);
+        _console.WriteLine($"Invoking module '{module.Key}'.");
+        await module.Invoke(cancellationToken);
         return true;
     }
 }

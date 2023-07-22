@@ -1,10 +1,17 @@
-namespace Sandbox.CSharp.Console;
+namespace Sandbox.CSharp.Core.Console;
 
 /// <summary>
 /// Defines methods for interacting with the console.
 /// </summary>
 public interface IConsole
 {
+    /// <summary>
+    /// Reads a line from the console.
+    /// </summary>
+    /// <returns>The line read from the console.</returns>
+    /// <typeparam name="TOut">The type to convert the line to.</typeparam>
+    TOut? ReadLine<TOut>();
+
     /// <summary>
     /// Writes a message to the console.
     /// </summary>
@@ -24,13 +31,15 @@ public interface IConsole
     /// </summary>
     /// <returns>The current instance of the <see cref="IConsole"/> interface.</returns>
     IConsole NewLine();
+}
 
-    /// <summary>
-    /// Writes a table to the console.
-    /// </summary>
-    /// <typeparam name="T">The type of the items in the table.</typeparam>
-    /// <param name="items">The items to write.</param>
-    /// <param name="headers">The headers for the table.</param>
-    /// <returns>The current instance of the <see cref="IConsole"/> interface.</returns>
-    IConsole WriteTable<T>(IEnumerable<T> items, params string[] headers);
+/// <summary>
+/// Defines methods for interacting with the console.
+/// </summary>
+/// <typeparam name="TModule">The type of the module.</typeparam>
+public interface IConsole<TModule>
+    : IConsole
+    where TModule : SandboxModule
+{
+
 }
