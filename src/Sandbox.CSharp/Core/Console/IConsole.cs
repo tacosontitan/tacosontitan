@@ -6,6 +6,11 @@ namespace Sandbox.CSharp.Core.Console;
 public interface IConsole
 {
     /// <summary>
+    /// Gets the <see cref="IServiceProvider"/> for the current instance of the <see cref="IConsole"/> interface.
+    /// </summary>
+    IServiceProvider ServiceProvider { get; }
+
+    /// <summary>
     /// Reads a line from the console.
     /// </summary>
     /// <returns>The line read from the console.</returns>

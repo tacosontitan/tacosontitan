@@ -15,7 +15,8 @@ public class ModuleConsole<TModule>
     /// <summary>
     /// Creates a new instance of the <see cref="ModuleConsole{T}"/> class.
     /// </summary>
-    public ModuleConsole()
+    public ModuleConsole(IServiceProvider serviceProvider)
+        : base(serviceProvider)
     {
         _instanceId = Guid.NewGuid();
         _moduleName = typeof(TModule).Name;

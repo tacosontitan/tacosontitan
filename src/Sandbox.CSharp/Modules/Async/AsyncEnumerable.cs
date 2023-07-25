@@ -1,6 +1,8 @@
 using System.Runtime.CompilerServices;
 using Sandbox.CSharp.Core;
 using Sandbox.CSharp.Core.Console;
+using Sandbox.CSharp.Core.Diagnostics;
+using Sandbox.CSharp.Core.Diagnostics.Errors;
 
 namespace Sandbox.CSharp.Modules.Async;
 
@@ -30,9 +32,21 @@ public class AsyncEnumerable
     /// <inheritdoc/>
     public override async Task Invoke(CancellationToken cancellationToken = default)
     {
+        if (cancellationToken.IsCancellationRequested)
+        {
+            _console.RecordEvent<CancellationRequested>();
+            return;
+        }
+
         List<Task> processingTasks = new();
         await foreach (string sample in GetSamples(cancellationToken).ConfigureAwait(false))
         {
+            if (cancellationToken.IsCancellationRequested)
+            {
+                _console.RecordEvent<CancellationRequested>();
+                return;
+            }
+
             Task processingTask = ProcessSample(sample, cancellationToken);
             processingTasks.Add(processingTask);
         }
@@ -47,7 +61,7 @@ public class AsyncEnumerable
         {
             if (cancellationToken.IsCancellationRequested)
             {
-                _console.WriteLine("Cancellation requested.");
+                _console.RecordEvent<CancellationRequested>();
                 yield break;
             }
 
@@ -65,6 +79,12 @@ public class AsyncEnumerable
 
     private async Task ProcessSample(string sample, CancellationToken cancellationToken = default)
     {
+        if (cancellationToken.IsCancellationRequested)
+        {
+            _console.RecordEvent<CancellationRequested>();
+            return;
+        }
+
         _console.WriteLine($"Processing sample {sample}...");
         await Task.Delay(TimeSpan.FromMilliseconds(_random.Next(5, 15) * 150), cancellationToken).ConfigureAwait(false);
         _console.WriteLine(sample);

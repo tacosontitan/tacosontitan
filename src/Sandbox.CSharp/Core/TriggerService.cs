@@ -1,6 +1,8 @@
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Sandbox.CSharp.Core.Console;
+using Sandbox.CSharp.Core.Diagnostics;
+using Sandbox.CSharp.Core.Diagnostics.Errors;
 using Sandbox.CSharp.Core.Modules;
 
 namespace Sandbox.CSharp.Core;
@@ -47,14 +49,14 @@ public class TriggerService
         string? input = _console.ReadLine<string?>();
         if (string.IsNullOrWhiteSpace(input))
         {
-            _console.WriteLine("No input received.");
+            _console.RecordEvent<InvalidInput>(input!, "Please enter a valid command.");
             return true;
         }
 
         SandboxModule? module = _modules.FirstOrDefault(m => m.Key.Equals(input, StringComparison.OrdinalIgnoreCase));
         if (module is null)
         {
-            _console.WriteLine($"No module found for input '{input}'.");
+            _console.RecordEvent<NoModuleFound>(input!);
             return true;
         }
 

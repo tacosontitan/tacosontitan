@@ -4,6 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Sandbox.CSharp.Core;
 using Sandbox.CSharp.Core.Console;
+using Sandbox.CSharp.Core.Diagnostics;
+using Sandbox.CSharp.Core.Diagnostics.Errors;
 
 namespace Sandbox.CSharp.Modules.Paginator;
 
@@ -28,6 +30,12 @@ public class PaginatorModule
     /// <inheritdoc/>
     public override Task Invoke(CancellationToken cancellationToken = default)
     {
+        if (cancellationToken.IsCancellationRequested)
+        {
+            _console.RecordEvent<CancellationRequested>();
+            return Task.CompletedTask;
+        }
+        
         _console.WriteLine("📄 Starting paginator.");
         return Task.CompletedTask;
     }
