@@ -8,6 +8,16 @@ namespace Sandbox.CSharp.Core.Console;
 public class SandboxConsole
     : IConsole
 {
+    /// <summary>
+    /// Initializes a new instance of the <see cref="SandboxConsole"/> class.
+    /// </summary>
+    /// <param name="serviceProvider">The service provider.</param>
+    public SandboxConsole(IServiceProvider serviceProvider) =>
+        ServiceProvider = serviceProvider;
+
+    /// <inheritdoc/>
+    public IServiceProvider ServiceProvider { get; }
+
     /// <inheritdoc/>
     public virtual IConsole NewLine()
     {

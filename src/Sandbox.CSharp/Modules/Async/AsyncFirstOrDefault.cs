@@ -1,6 +1,8 @@
 using System.Runtime.CompilerServices;
 using Sandbox.CSharp.Core;
 using Sandbox.CSharp.Core.Console;
+using Sandbox.CSharp.Core.Diagnostics;
+using Sandbox.CSharp.Core.Diagnostics.Errors;
 
 namespace Sandbox.CSharp.Modules.Async;
 
@@ -26,6 +28,12 @@ public class AsyncFirstOrDefault
     /// <inheritdoc/>
     public override async Task Invoke(CancellationToken cancellationToken = default)
     {
+        if (cancellationToken.IsCancellationRequested)
+        {
+            _console.RecordEvent<CancellationRequested>();
+            return;
+        }
+
         IAsyncEnumerable<int> samples = GetSamples(cancellationToken);
         int? firstSample = await samples.FirstOrDefaultAsync(cancellationToken);
         _console.WriteLine($"The first sample is `{firstSample?.ToString() ?? "null"}`.");
@@ -36,6 +44,12 @@ public class AsyncFirstOrDefault
     {
         for (int i = 0; i < 25; i++)
         {
+            if (cancellationToken.IsCancellationRequested)
+            {
+                _console.RecordEvent<CancellationRequested>();
+                yield break;
+            }
+
             _console.WriteLine($"Getting sample {i}...");
             await Task.Delay(_sampleDelay, cancellationToken);
             yield return i;
