@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { BrowserRouter } from 'react-router-dom';
-import './index.scss';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import App from './Sandbox.Ui/App';
+import './Sandbox.Ui/index.scss';
+import reportWebVitals from './Sandbox.Ui/reportWebVitals';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement

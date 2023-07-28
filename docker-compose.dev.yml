@@ -2,12 +2,12 @@ version: "3.8"
 
 services:
   app:
-    container_name: project-odin
-    image: project-odin
+    container_name: sandbox
+    image: sandbox
     build:
       context: .
       target: development
     volumes:
-      - ./src:/app/src
+      - ./src/Sandbox.Ui:/app/src
     ports:
       - 3000:3000
