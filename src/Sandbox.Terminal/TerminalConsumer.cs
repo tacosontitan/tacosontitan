@@ -25,6 +25,7 @@ public class TerminalConsumer
         CommunicationLevel communicationLevel,
         CancellationToken cancellationToken = default)
     {
+        Console.Write(prompt);
         string? input = Console.ReadLine();
         if (string.IsNullOrWhiteSpace(input))
             return Task.FromResult<T>(default!);
