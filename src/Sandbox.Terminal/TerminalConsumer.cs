@@ -47,7 +47,7 @@ public class TerminalConsumer
     /// <inheritdoc />
     public Task Invoke<TEvent>(object? data, CancellationToken cancellationToken = default)
         where TEvent : IEvent =>
-        Invoke<TEvent>(cancellationToken, data);
+        Invoke<TEvent>(cancellationToken, data!);
 
     private async Task Invoke<TEvent>(CancellationToken cancellationToken, params object[] parameters) where TEvent : IEvent
     {
