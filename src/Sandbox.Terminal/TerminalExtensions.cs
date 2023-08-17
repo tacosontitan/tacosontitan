@@ -6,7 +6,7 @@ namespace Sandbox.Terminal;
 /// <summary>
 /// Defines extension methods for simplifying console injection.
 /// </summary>
-public static class ConsoleExtensions
+public static class TerminalExtensions
 {
     /// <summary>
     /// Adds terminal services to the specified <see cref="IServiceCollection"/>.
@@ -15,5 +15,5 @@ public static class ConsoleExtensions
     /// <returns>The <see cref="IServiceCollection"/> with console services added.</returns>
     public static IServiceCollection AddTerminal(this IServiceCollection services) => services
         .AddTransient<IConsumerService, TerminalConsumer>()
-        .AddHostedService<TriggerService>();
+        .AddHostedService<TerminalService>();
 }

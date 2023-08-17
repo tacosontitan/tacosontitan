@@ -9,19 +9,19 @@ namespace Sandbox.Terminal;
 /// <summary>
 /// Defines a service for triggering sandbox modules.
 /// </summary>
-public class TriggerService
+public class TerminalService
     : BackgroundService
 {
     private readonly IConsumerService _consumerService;
     private readonly IEnumerable<Module> _modules;
 
     /// <summary>
-    /// Initializes a new instance of the <see cref="TriggerService"/> class.
+    /// Initializes a new instance of the <see cref="TerminalService"/> class.
     /// </summary>
     /// <param name="consumerService">The consumerService to use for interacting with the consumer.</param>
     /// <param name="coreModules">All of the core modules available to the sandbox.</param>
     /// <param name="modules">All of the modules available to the sandbox.</param>
-    public TriggerService(
+    public TerminalService(
         IConsumerService consumerService,
         IEnumerable<CoreModule> coreModules,
         IEnumerable<Module> modules)
