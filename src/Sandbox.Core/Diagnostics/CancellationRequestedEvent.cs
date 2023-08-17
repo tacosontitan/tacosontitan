@@ -18,6 +18,6 @@ public class CancellationRequestedEvent
     
     /// <inheritdoc/>
     public async Task Invoke(CancellationToken cancellationToken = default) => await _consumer
-        .SendMessage(Message, CommunicationLevel.Whisper, cancellationToken)
+        .Whisper(Message, cancellationToken)
         .ConfigureAwait(false);
 }
