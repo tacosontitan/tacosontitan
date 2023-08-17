@@ -2,6 +2,7 @@
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
+using Sandbox.Core;
 using Sandbox.Modules;
 using Sandbox.Terminal;
 
@@ -38,6 +39,9 @@ void ConfigureLogging(HostBuilderContext context, ILoggingBuilder logging)
 void Configure(IServiceCollection services)
 {
     services
-        .AddTerminal()
-        .AddModules();
+        .AddModuleDependencies()
+        .AddModulesFromAssemblyContaining<Module>()
+        .AddModulesFromAssemblyContaining<HelloWorld>()
+        .AddModulesFromAssemblyContaining<Program>()
+        .AddTerminal();
 }
