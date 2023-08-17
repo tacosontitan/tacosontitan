@@ -1,11 +1,10 @@
-import React from 'react';
-import { LineChartOutlined, ThunderboltOutlined, MessageOutlined, SettingOutlined } from '@ant-design/icons';
+import { LineChartOutlined, SettingOutlined, ThunderboltOutlined } from '@ant-design/icons';
 import type { MenuProps } from 'antd';
 import { Menu } from 'antd';
-import './LinkList.scss';
+import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
-import { useContext } from 'react';
 import AppContext from '../../../AppContext';
+import './LinkList.scss';
 import { LinkListProps } from './LinkListProps';
 
 type MenuItem = Required<MenuProps>['items'][number];
@@ -21,8 +20,6 @@ const LinkList: React.FunctionComponent<LinkListProps> = (props: LinkListProps) 
                 'dashboard', <LineChartOutlined />),
         getItem(<Link onClick={() => setSelectedMenuItem('workflows')} to="/workflows">Workflows</Link>,
                 'workflows', <ThunderboltOutlined />),
-        getItem(<Link onClick={() => setSelectedMenuItem('chat')} to="/chat">Chat</Link>,
-                'chat', <MessageOutlined />),
         getItem(<Link onClick={() => setSelectedMenuItem('settings')} to="/settings">Settings</Link>,
                 'settings', <SettingOutlined />)
         ];
