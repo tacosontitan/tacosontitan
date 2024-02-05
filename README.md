@@ -59,29 +59,21 @@ All the artwork you find in my GitHub repositories are creations I ordered from 
 
 ### [lucy_was_taken](https://www.fiverr.com/lucy_was_taken)
 
-She is easily my favorite artist on Fiverr. If you like her work, feel free to let her know I sent you her way!
+She is easily my favorite artist on Fiverr, and she's responsible for the header image here. If you like her work, feel free to let her know I sent you her way!
 
  [![lucy_was_taken](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/lucy_was_taken/header.png)](https://www.fiverr.com/lucy_was_taken)
  [![lucy_was_taken](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/lucy_was_taken/sippin.png)](https://www.fiverr.com/lucy_was_taken)
  [![lucy_was_taken](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/lucy_was_taken/chilly.png)](https://www.fiverr.com/lucy_was_taken)
 
-### [deedee46](https://www.fiverr.com/deedee46)
-
-They did a fantastic job bringing my vision to life!
-
- [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/deedee46/octopus.png)](https://www.fiverr.com/deedee46)
- [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/deedee46/peace.png)](https://www.fiverr.com/deedee46)
- [![deedee46](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/profile-images/deedee46/hiya.png)](https://www.fiverr.com/deedee46)
-
 ### [andiwandirana](https://www.fiverr.com/andiwandirana)
 
 I've bought many emotes from this artist, but only a handful for myself so far. The quality and speed of their work always astounds me, so they certainly deserve a spot here!
 
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/Sipping/112.png)](https://www.fiverr.com/andiwandirana)
  [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/Its%20Fine/112.png)](https://www.fiverr.com/andiwandirana)
  [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/Lost/112.png)](https://www.fiverr.com/andiwandirana)
  [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/Love/112.png)](https://www.fiverr.com/andiwandirana)
- [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/Cute/112.png)](https://www.fiverr.com/andiwandirana)
- [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/Spider%20Sense/112.png)](https://www.fiverr.com/andiwandirana)
+ [![andiwandirana](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/emotes/Cursed/112.png)](https://www.fiverr.com/andiwandirana)
 
 ### [eushaa](https://www.fiverr.com/eushaa)
 
