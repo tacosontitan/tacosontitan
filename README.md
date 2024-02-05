@@ -8,7 +8,7 @@ I'm just another average millennial, with a 🔥 passion for all things code. I 
 
 ## 🗺️ Where am I?
 
-I have a rather limited network presence, but I'm most active here on GitHub, over [on Discord](https://discord.gg/SewdzTpr), and Stack Overflow. If you'd like to communicate with me, then I have a [discussions area](https://github.com/tacosontitan/tacosontitan/discussions) for that here on GitHub. Additionally, my monthly sponsors have access to my Discord server and can message me directly, if you're [interested in that sort of thing](https://github.com/sponsors/tacosontitan).
+I have a rather limited network presence, but I'm most active here on GitHub, over on Discord ([C#](https://discord.gg/csharp) and [Pineapple Cove](https://discord.gg/SewdzTpr)), and Stack Overflow. If you'd like to communicate with me, then I have a [discussions area](https://github.com/tacosontitan/tacosontitan/discussions) for that here on GitHub. If you prefer one-on-one communication, then you could always sponsor me, if you're [interested in that sort of thing](https://github.com/sponsors/tacosontitan).
 
 [![tacosontitan](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/stackoverflow.png)](https://stackoverflow.com/users/9893154/hazel-%e3%81%b8%e3%81%84%e3%81%9c%e3%82%8b)
 
