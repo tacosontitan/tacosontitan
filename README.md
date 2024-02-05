@@ -19,26 +19,18 @@ I have a rather limited network presence, but I'm most active here on GitHub, ov
 I'm a senior developer with more than a decade of experience creating and maintaining software applications. In my career, I've participated in teams ranging in size from 2 to 50 developers, and lead teams of 3 to 5. With my years of working knowledge, I now create infinitely scalable solutions to a vast expanse of issues in the transportation and logistics industry, utilizing a colorful array of technologies.
 
  [![azure](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/azure.png?size=50)](https://azure.microsoft.com/en-in/)
- [![bash](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/bash.png)](https://www.gnu.org/software/bash/)
- [![bootstrap](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/bootstrap.png)](https://getbootstrap.com)
  [![csharp](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/csharp.png)](https://www.w3schools.com/cs/)
  [![css3](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/css.png)](https://www.w3schools.com/css/)
  [![dotnet](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/msnet.png)](https://dotnet.microsoft.com/)
- [![electron](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/electron.png)](https://www.electronjs.org)
- [![firebase](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/firebase.png)](https://firebase.google.com/)
  [![git](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/git.png)](https://git-scm.com/)
  [![html5](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/html.png)](https://www.w3.org/html/)
  [![javascript](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
- [![mongodb](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/mongo.png)](https://www.mongodb.com/)
  [![mssql](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/mssql.png)](https://www.microsoft.com/en-us/sql-server)
  [![nodejs](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/node.png)](https://nodejs.org)
  [![postman](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/postman.png)](https://postman.com)
  [![rabbitMQ](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/rabbit.png)](https://www.rabbitmq.com)
- [![react](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/react.png)](https://reactjs.org/)
- [![sass](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/sass.png)](https://sass-lang.com)
  [![typescript](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/typescript.png)](https://www.typescriptlang.org/)
  [![unity](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/unity.png)](https://unity.com/)
- [![webpack](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/webpack.png)](https://webpack.js.org)
 
 *I'm a framework developer at heart, and I have a healthy relationship with unit tests.*
 
