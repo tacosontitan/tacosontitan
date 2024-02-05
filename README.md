@@ -1,6 +1,6 @@
 # Oh, umm, hello there! 👋
 
-I'm just another average millennial, with a 🔥 passion for all things code. I was born in 1991 and I have many hobbies, including creating software, games, and mobile apps, playing video games, and guitar, day trading, and distance running. With that, my goal in life is, and always has been, to learn and experience as much as possible, within reason.
+I'm just another average millennial, with a 🔥 passion for all things code. I was born in 1991, and I have many hobbies including creating software, games, and mobile apps, playing video games, and guitar, day trading, and distance running. With that, my goal in life is, and always has been, to learn and experience as much as possible, within reason.
 
 [![Header](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/header.jpg)](https://github.com/tacosontitan)
 
@@ -12,7 +12,7 @@ I have a rather limited network presence, but I'm most active here on GitHub, ov
 
 [![tacosontitan](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/stackoverflow.png)](https://stackoverflow.com/users/9893154/hazel-%e3%81%b8%e3%81%84%e3%81%9c%e3%82%8b)
 
-***Note**: I don't respond to direct messages from non-sponsors outside of the discussions area.*
+***Note**: I don't respond to direct messages from non-sponsors outside the discussions area.*
 
 ## ⚒️ What do I do?
 
@@ -46,24 +46,24 @@ I'm a senior developer with more than a decade of experience creating and mainta
 
 I listen to an immense variety of music, and with my genre interest ranging from classical to heavy metal, there's not much I *won't* listen to. If you're curious, the table below contains my top ten most played tracks of 2022 according to Spotify. You can click on the Spotify or YouTube badges in the source column to listen with the respective service.
 
-Title | Artist | Source
-:------------ | :------------- | :-------------:
-Satellite | WYS | [![Listen on Spotify][spotify-badge]][s0] [![Listen on YouTube][youtube-badge]][y0]
-Shockwave | Marshmello | [![Listen on Spotify][spotify-badge]][s1] [![Listen on YouTube][youtube-badge]][y1]
-ODDTAXI | スカートとPUNPEE | [![Listen on Spotify][spotify-badge]][s2] [![Listen on YouTube][youtube-badge]][y2]
-Lost in Paradise | ALI ft. AKLO | [![Listen on Spotify][spotify-badge]][s3] [![Listen on YouTube][youtube-badge]][y3]
-One More Time | Daft Punk | [![Listen on Spotify][spotify-badge]][s4] [![Listen on YouTube][youtube-badge]][y4]
-Overthinking | INZO | [![Listen on Spotify][spotify-badge]][s5] [![Listen on YouTube][youtube-badge]][y5]
-Rocket Girl | Lemaitre ft. Betty Who | [![Listen on Spotify][spotify-badge]][s6] [![Listen on YouTube][youtube-badge]][y6]
-Neverland | Trifect | [![Listen on Spotify][spotify-badge]][s7] [![Listen on YouTube][youtube-badge]][y7]
-Everybody (Backstreet's Back) | Backstreet Boys | [![Listen on Spotify][spotify-badge]][s8] [![Listen on YouTube][youtube-badge]][y8]
-Kiss Me More | Doja Cat ft. SZA | [![Listen on Spotify][spotify-badge]][s9] [![Listen on YouTube][youtube-badge]][y9]
+| Title                         | Artist                 |                                       Source                                        |
+|:------------------------------|:-----------------------|:-----------------------------------------------------------------------------------:|
+| Satellite                     | WYS                    | [![Listen on Spotify][spotify-badge]][s0] [![Listen on YouTube][youtube-badge]][y0] |
+| Shockwave                     | Marshmello             | [![Listen on Spotify][spotify-badge]][s1] [![Listen on YouTube][youtube-badge]][y1] |
+| ODDTAXI                       | スカートとPUNPEE            | [![Listen on Spotify][spotify-badge]][s2] [![Listen on YouTube][youtube-badge]][y2] |
+| Lost in Paradise              | ALI ft. AKLO           | [![Listen on Spotify][spotify-badge]][s3] [![Listen on YouTube][youtube-badge]][y3] |
+| One More Time                 | Daft Punk              | [![Listen on Spotify][spotify-badge]][s4] [![Listen on YouTube][youtube-badge]][y4] |
+| Overthinking                  | INZO                   | [![Listen on Spotify][spotify-badge]][s5] [![Listen on YouTube][youtube-badge]][y5] |
+| Rocket Girl                   | Lemaitre ft. Betty Who | [![Listen on Spotify][spotify-badge]][s6] [![Listen on YouTube][youtube-badge]][y6] |
+| Neverland                     | Trifect                | [![Listen on Spotify][spotify-badge]][s7] [![Listen on YouTube][youtube-badge]][y7] |
+| Everybody (Backstreet's Back) | Backstreet Boys        | [![Listen on Spotify][spotify-badge]][s8] [![Listen on YouTube][youtube-badge]][y8] |
+| Kiss Me More                  | Doja Cat ft. SZA       | [![Listen on Spotify][spotify-badge]][s9] [![Listen on YouTube][youtube-badge]][y9] |
 
 *Let's be honest, it's impossible to fit all of one's favorite songs into a 10 row table.*
 
 ## 🎨 Where did I get my artwork?
 
-All of the artwork you find in my GitHub repositories are creations I ordered from various artists on Fiverr.
+All the artwork you find in my GitHub repositories are creations I ordered from various artists on Fiverr.
 
 ### [lucy_was_taken](https://www.fiverr.com/lucy_was_taken)
 
@@ -93,7 +93,7 @@ I've bought many emotes from this artist, but only a handful for myself so far. 
 
 ### [eushaa](https://www.fiverr.com/eushaa)
 
-This artist created all of the circular logos you see in this readme.
+This artist created all the circular logos you see in this readme.
 
 ## ☕ Do I like coffee?
 
