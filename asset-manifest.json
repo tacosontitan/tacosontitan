@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tacosontitan/static/css/main.f855e6bc.css",
+    "main.js": "/tacosontitan/static/js/main.111821f6.js",
+    "static/js/592.f195dc85.chunk.js": "/tacosontitan/static/js/592.f195dc85.chunk.js",
+    "static/media/logo.svg": "/tacosontitan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tacosontitan/index.html",
+    "main.f855e6bc.css.map": "/tacosontitan/static/css/main.f855e6bc.css.map",
+    "main.111821f6.js.map": "/tacosontitan/static/js/main.111821f6.js.map",
+    "592.f195dc85.chunk.js.map": "/tacosontitan/static/js/592.f195dc85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.111821f6.js"
+  ]
+}
