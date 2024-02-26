@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox.Presentation", "src
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox.Presentation.React", "src\Sandbox.Presentation.React\Sandbox.Presentation.React.csproj", "{7DBF33DC-D923-4970-9DBE-B3F44ACDD644}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox.Benchmarks", "src\Sandbox.Benchmarks\Sandbox.Benchmarks.csproj", "{C3B32D08-065E-42FA-A689-DB673964EE31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{7DBF33DC-D923-4970-9DBE-B3F44ACDD644}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DBF33DC-D923-4970-9DBE-B3F44ACDD644}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DBF33DC-D923-4970-9DBE-B3F44ACDD644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3B32D08-065E-42FA-A689-DB673964EE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B32D08-065E-42FA-A689-DB673964EE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B32D08-065E-42FA-A689-DB673964EE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B32D08-065E-42FA-A689-DB673964EE31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -70,5 +76,6 @@ Global
 		{46047BF7-5542-40C3-9E9A-FAD0264D968B} = {0DA40EBE-D36E-4C0B-AEB4-2C237CFF0F6E}
 		{58373723-F26F-426E-94DF-8FBA3491F322} = {B7E06702-E0EB-41D9-9999-06D6E0C88B13}
 		{7DBF33DC-D923-4970-9DBE-B3F44ACDD644} = {B7E06702-E0EB-41D9-9999-06D6E0C88B13}
+		{C3B32D08-065E-42FA-A689-DB673964EE31} = {B7E06702-E0EB-41D9-9999-06D6E0C88B13}
 	EndGlobalSection
 EndGlobal
