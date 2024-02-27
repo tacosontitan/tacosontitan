@@ -1,4 +1,4 @@
 ﻿using BenchmarkDotNet.Running;
-using Sandbox.Benchmarks.Features;
+using Sandbox.Benchmarks;
 
-_ = BenchmarkRunner.Run<CollectionExpressions>();
+_ = BenchmarkRunner.Run<StringComparisons>();
