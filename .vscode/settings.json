@@ -1,5 +1,21 @@
 {
+    "files.exclude": {
+        "dist": false
+    },
+    "search.exclude": {
+        "dist": true
+    },
     "cSpell.words": [
+        "antd",
+        "appsettings",
+        "brainfuck",
+        "copypasta",
+        "envsample",
+        "guids",
+        "intelli",
+        "intellicode",
+        "tacosontitan",
+        "xunit",
         "AKLO",
         "andiwandirana",
         "Doja",
@@ -11,5 +27,6 @@
         "ODDTAXI",
         "PUNPEE",
         "Trifect"
-    ]
+    ],
+    "dotnet.defaultSolution": "Sandbox.sln"
 }
