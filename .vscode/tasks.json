@@ -1,0 +1,16 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build C# Sandbox",
+            "detail": "Builds the C# sandbox project.",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "src/Sandbox.CSharp/Sandbox.CSharp.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
