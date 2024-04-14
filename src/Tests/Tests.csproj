@@ -5,6 +5,7 @@
         <IsTestProject>true</IsTestProject>
         <OutputType>Library</OutputType>
         <IsPackable>false</IsPackable>
+        <RootNamespace>Sandbox.QuickTests</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
