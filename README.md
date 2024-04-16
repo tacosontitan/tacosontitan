@@ -79,10 +79,6 @@ I've bought many emotes from this artist, but only a handful for myself so far. 
 
 This artist created all the circular logos you see in this readme.
 
-## ☕ Do I like coffee?
-
-Absolutely, and there's actually a [website](https://www.buymeacoffee.com/tacosontitan) just for that!
-
 <!-- Badges -->
 [spotify-badge]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 [youtube-badge]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
