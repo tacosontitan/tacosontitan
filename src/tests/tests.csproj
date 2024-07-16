@@ -21,5 +21,29 @@
         </PackageReference>
     </ItemGroup>
 
+    <ItemGroup>
+      <EmbeddedResource Update="AdventOfCode\2023\ResourcesFor2023.resx">
+        <Generator>ResXFileCodeGenerator</Generator>
+        <LastGenOutput>Data.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="AdventOfCode\Y2023\DayOne\Data.resx">
+        <Generator>ResXFileCodeGenerator</Generator>
+        <LastGenOutput>Dataset.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="AdventOfCode\2023\ResourcesFor2023.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>Data.resx</DependentUpon>
+      </Compile>
+      <Compile Update="AdventOfCode\Y2023\DayOne\Data.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>Dataset.resx</DependentUpon>
+      </Compile>
+    </ItemGroup>
+
 
 </Project>

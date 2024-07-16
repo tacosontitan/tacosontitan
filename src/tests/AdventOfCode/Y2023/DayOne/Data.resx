@@ -1,12 +1,25 @@
-﻿namespace Sandbox.QuickTests.AdventOfCode;
+﻿<?xml version="1.0" encoding="utf-8"?>
 
-public class DryRuns2023
-{
-    [Fact]
-    public void DayOne_PartOne()
-    {
-        // Arrange
-        const string input = @"sixrrmlkptmc18zhvninek
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="PartOne" xml:space="preserve">
+        <value>sixrrmlkptmc18zhvninek
 jcb82eightwond
 twofourthree778nineeight
 sqpxs1cgcrmctlgqvzxbcjzgr
@@ -1005,57 +1018,15 @@ sixfconesix6three1sixsix
 eightone9nbdrkonenine8
 3two5lbrb43nine7
 foursix5eightfivezvnbsevenjcrzhxdzfb2
-jmgnfive7ffglffpjlvbtvl935zz";
-        
-        // Act
-        List<int> calibrationValues = new();
-        string[] splitters = [Environment.NewLine];
-        string[] lines = input.Split(splitters, StringSplitOptions.RemoveEmptyEntries);
-        foreach (string line in lines)
-        {
-            char firstDigit = line.FirstOrDefault(c => Char.IsDigit(c));
-            char lastDigit = line.LastOrDefault(c => Char.IsDigit(c));
-            string rawValue = $"{firstDigit}{lastDigit}";
-            int calibrationValue = int.Parse(rawValue);
-            calibrationValues.Add(calibrationValue);
-        }
-
-        int sum = calibrationValues.Sum();
-        Assert.Equal(expected: 55607, actual: sum);
-    }
-
-    [Fact]
-    public void DayOne_PartTwo()
-    {
-        // Arrange
-        const string input = @"two1nine
+jmgnfive7ffglffpjlvbtvl935zz</value>
+    </data>
+    <data name="PartTwo" xml:space="preserve">
+        <value>two1nine
 eightwothree
 abcone2threexyz
 xtwone3four
 4nineeightseven2
 zoneight234
-7pqrstsixteen";
-        
-        // Act
-        List<int> calibrationValues = new();
-        string[] splitters = [Environment.NewLine];
-        string[] lines = input.Split(splitters, StringSplitOptions.RemoveEmptyEntries);
-        foreach (string line in lines)
-        {
-            char firstDigit = line.FirstOrDefault(c => Char.IsDigit(c));
-            char lastDigit = line.LastOrDefault(c => Char.IsDigit(c));
-            string rawValue = $"{firstDigit}{lastDigit}";
-            int calibrationValue = int.Parse(rawValue);
-            calibrationValues.Add(calibrationValue);
-        }
-
-        string[] alphaNumbers =
-        [
-            "one", "two", "three", "four", "five",
-            "six", "seven", "eight", "nine", "ten"
-        ];
-        
-        int sum = calibrationValues.Sum();
-        Assert.Equal(expected: 55607, actual: sum);
-    }
-}
+7pqrstsixteen</value>
+    </data>
+</root>
