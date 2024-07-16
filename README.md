@@ -10,13 +10,13 @@ I'm just another average millennial, with a 🔥 passion for all things code. I 
 
 I have a rather limited network presence, but I'm most active here on GitHub, over on Discord ([C#](https://discord.gg/csharp) and [Pineapple Cove](https://discord.gg/SewdzTpr)), and Stack Overflow. If you'd like to communicate with me, then I have a [discussions area](https://github.com/tacosontitan/tacosontitan/discussions) for that here on GitHub. If you prefer one-on-one communication, then you could always sponsor me, if you're [interested in that sort of thing](https://github.com/sponsors/tacosontitan).
 
-[![tacosontitan](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/stackoverflow.png)](https://stackoverflow.com/users/9893154/hazel-%e3%81%b8%e3%81%84%e3%81%9c%e3%82%8b)
+[![tacosontitan](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/stackoverflow.png)](https://stackoverflow.com/users/9893154/taco)
 
 ***Note**: I don't respond to direct messages from non-sponsors outside the discussions area.*
 
 ## ⚒️ What do I do?
 
-I'm a senior developer with more than a decade of experience creating and maintaining software applications. In my career, I've participated in teams ranging in size from 2 to 50 developers, and lead teams of 3 to 5. With my years of working knowledge, I now create infinitely scalable solutions to a vast expanse of issues in the transportation and logistics industry, utilizing a colorful array of technologies.
+IAs a senior developer, I have a decade of professional experience in software development, working with teams of different sizes and domains. I have managed and led teams of up to 5 developers, and contributed to server migration, data transfer, and 3D visualization projects. I enjoy learning new skills and technologies, and collaborating with other developers to deliver high-quality products. With my years of working knowledge, I now create infinitely scalable solutions to a vast expanse of issues utilizing a colorful array of technologies.
 
  [![azure](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/azure.png?size=50)](https://azure.microsoft.com/en-in/)
  [![csharp](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/csharp.png)](https://www.w3schools.com/cs/)
@@ -42,7 +42,7 @@ I listen to an immense variety of music, and with my genre interest ranging from
 |:------------------------------|:-----------------------|:-----------------------------------------------------------------------------------:|
 | Satellite                     | WYS                    | [![Listen on Spotify][spotify-badge]][s0] [![Listen on YouTube][youtube-badge]][y0] |
 | Shockwave                     | Marshmello             | [![Listen on Spotify][spotify-badge]][s1] [![Listen on YouTube][youtube-badge]][y1] |
-| ODDTAXI                       | スカートとPUNPEE            | [![Listen on Spotify][spotify-badge]][s2] [![Listen on YouTube][youtube-badge]][y2] |
+| ODDTAXI                       | スカートとPUNPEE        | [![Listen on Spotify][spotify-badge]][s2] [![Listen on YouTube][youtube-badge]][y2] |
 | Lost in Paradise              | ALI ft. AKLO           | [![Listen on Spotify][spotify-badge]][s3] [![Listen on YouTube][youtube-badge]][y3] |
 | One More Time                 | Daft Punk              | [![Listen on Spotify][spotify-badge]][s4] [![Listen on YouTube][youtube-badge]][y4] |
 | Overthinking                  | INZO                   | [![Listen on Spotify][spotify-badge]][s5] [![Listen on YouTube][youtube-badge]][y5] |
