@@ -1,7 +1,7 @@
 <Project>
   
   <PropertyGroup>
-    <TargetFrameworks>net8.0;net6.0;net7.0;netstandard2.0;netstandard2.1;net48</TargetFrameworks>
+    <TargetFramework>net8.0</TargetFramework>
     <AssemblyVersion>2023.10.9.1</AssemblyVersion>
     <ImplicitUsings>enable</ImplicitUsings>
     <LangVersion>preview</LangVersion>
