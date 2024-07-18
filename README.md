@@ -4,8 +4,6 @@ I'm just another average millennial, with a 🔥 passion for all things code. I 
 
 [![Header](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/header.jpg)](https://github.com/tacosontitan)
 
-*My preferred pronouns are `they/them` or `she/her`. 💁‍♀️*
-
 ## 🗺️ Where am I?
 
 I have a rather limited network presence, but I'm most active here on GitHub, over on Discord ([C#](https://discord.gg/csharp) and [Pineapple Cove](https://discord.gg/SewdzTpr)), and Stack Overflow. If you'd like to communicate with me, then I have a [discussions area](https://github.com/tacosontitan/tacosontitan/discussions) for that here on GitHub. If you prefer one-on-one communication, then you could always sponsor me, if you're [interested in that sort of thing](https://github.com/sponsors/tacosontitan).
