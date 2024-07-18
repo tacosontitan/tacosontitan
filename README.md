@@ -16,7 +16,7 @@ I have a rather limited network presence, but I'm most active here on GitHub, ov
 
 ## ⚒️ What do I do?
 
-IAs a senior developer, I have a decade of professional experience in software development, working with teams of different sizes and domains. I have managed and led teams of up to 5 developers, and contributed to server migration, data transfer, and 3D visualization projects. I enjoy learning new skills and technologies, and collaborating with other developers to deliver high-quality products. With my years of working knowledge, I now create infinitely scalable solutions to a vast expanse of issues utilizing a colorful array of technologies.
+As a senior developer, I have a decade of professional experience in software development, working with teams of different sizes and domains. I have managed and led teams of up to 5 developers, and contributed to server migration, data transfer, and 3D visualization projects. I enjoy learning new skills and technologies, and collaborating with other developers to deliver high-quality products. With my years of working knowledge, I now create infinitely scalable solutions to a vast expanse of issues utilizing a colorful array of technologies.
 
  [![azure](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/azure.png?size=50)](https://azure.microsoft.com/en-in/)
  [![csharp](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/csharp.png)](https://www.w3schools.com/cs/)
