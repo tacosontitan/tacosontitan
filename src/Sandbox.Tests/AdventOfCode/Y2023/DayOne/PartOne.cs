@@ -1,18 +1,19 @@
 ﻿namespace Sandbox.QuickTests.AdventOfCode.Y2023.DayOne;
 
-public sealed class PartOne
+public sealed partial class Trebuchet
 {
     [Fact]
-    public void DayOne_PartOne()
+    public void PartOne()
     {
         var input = Data.PartOne;
-        List<int> calibrationValues = new();
-        string[] splitters = [Environment.NewLine];
-        var lines = input.Split(splitters, StringSplitOptions.RemoveEmptyEntries);
+        Assert.NotNull(input);
+        
+        var calibrationValues = new List<int>();
+        var lines = input.Split([Environment.NewLine], StringSplitOptions.RemoveEmptyEntries);
         foreach (var line in lines)
         {
             var firstDigit = line.FirstOrDefault(char.IsDigit);
-            var lastDigit = line.LastOrDefault(char.IsDigit);
+            var lastDigit = line.FirstOrDefault(char.IsDigit);
             var rawValue = $"{firstDigit}{lastDigit}";
             var calibrationValue = int.Parse(rawValue);
             calibrationValues.Add(calibrationValue);
