@@ -16,7 +16,7 @@ I have a rather limited network presence, but I'm most active here on GitHub, ov
 
 As a senior C# developer with a decade of experience working in .NET environments, I specialize in crafting seamless integrations and optimizing legacy projects. I'm proficient in Agile methodologies, REST APIs, MSSQL, framework design and development, and driving efficiency and scalability through innovative solutions. Most notably, I'm passionate about adopting modern practices to enhance code quality and project outcomes while fostering a culture of continuous improvement.
 
- [![csharp](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/csharp.png)](https://www.w3schools.com/cs/)
+ [![csharp](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/csharp.png)](https://learn.microsoft.com/en-us/dotnet/csharp/)
  [![mssql](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/mssql.png)](https://www.microsoft.com/en-us/sql-server)
  [![typescript](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/typescript.png)](https://www.typescriptlang.org/)
  [![javascript](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
