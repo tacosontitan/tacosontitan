@@ -1,6 +1,6 @@
-# 👋
+# Hi, I'm Hazel! 👋
 
-I'm Hazel, a vivacious software developer with a burning passion for code. Born in 1991, I balance my love for technology with hobbies like gaming, hiking, surfing, dancing, and playing guitar. As a proud member of the LGBTQ+ community, I navigate life with ADHD while embracing abstract thought, vibrant colors, and a superlative love for music.
+I'm a vivacious software developer with a burning passion for code. Born in 1991, I balance my love for technology with hobbies like gaming, hiking, surfing, dancing, and playing guitar. As a proud member of the LGBTQ+ community, I navigate life with ADHD while embracing abstract thought, vibrant colors, and a superlative love for music.
 
 [![Header](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/header.jpg)](https://github.com/tacosontitan)
 
