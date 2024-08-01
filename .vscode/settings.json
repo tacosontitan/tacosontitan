@@ -6,27 +6,29 @@
         "dist": true
     },
     "cSpell.words": [
+        "ADHD",
+        "AKLO",
+        "andiwandirana",
         "antd",
         "appsettings",
         "brainfuck",
         "copypasta",
+        "Doja",
         "envsample",
+        "eushaa",
+        "Fiverr",
         "guids",
         "intelli",
         "intellicode",
-        "tacosontitan",
-        "xunit",
-        "AKLO",
-        "andiwandirana",
-        "Doja",
-        "eushaa",
-        "Fiverr",
         "INZO",
+        "LGBTQ",
         "Marshmello",
         "Neverland",
         "ODDTAXI",
         "PUNPEE",
-        "Trifect"
+        "tacosontitan",
+        "Trifect",
+        "xunit"
     ],
     "dotnet.defaultSolution": "Sandbox.sln"
 }

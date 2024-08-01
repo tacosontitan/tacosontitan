@@ -1,6 +1,6 @@
-# Oh, umm, hello there! 👋
+# 👋
 
-I'm just another average millennial, with a 🔥 passion for all things code. I was born in 1991, and I have many hobbies including creating software, games, and mobile apps, playing video games, and guitar, day trading, and distance running. With that, my goal in life is, and always has been, to learn and experience as much as possible, within reason.
+I'm Hazel, a vivacious software developer with a burning passion for code. Born in 1991, I balance my love for technology with hobbies like gaming, hiking, surfing, dancing, and playing guitar. As a proud member of the LGBTQ+ community, I navigate life with ADHD while embracing abstract thought, vibrant colors, and a superlative love for music.
 
 [![Header](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/header.jpg)](https://github.com/tacosontitan)
 
@@ -14,21 +14,20 @@ I have a rather limited network presence, but I'm most active here on GitHub, ov
 
 ## ⚒️ What do I do?
 
-As a senior developer, I have a decade of professional experience in software development, working with teams of different sizes and domains. I have managed and led teams of up to 5 developers, and contributed to server migration, data transfer, and 3D visualization projects. I enjoy learning new skills and technologies, and collaborating with other developers to deliver high-quality products. With my years of working knowledge, I now create infinitely scalable solutions to a vast expanse of issues utilizing a colorful array of technologies.
+As a senior C# developer with a decade of experience working in .NET environments, I specialize in crafting seamless integrations and optimizing legacy projects. I'm proficient in Agile methodologies, REST APIs, MSSQL, framework design and development, and driving efficiency and scalability through innovative solutions. Most notably, I'm passionate about adopting modern practices to enhance code quality and project outcomes while fostering a culture of continuous improvement.
 
- [![azure](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/azure.png?size=50)](https://azure.microsoft.com/en-in/)
  [![csharp](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/csharp.png)](https://www.w3schools.com/cs/)
+ [![mssql](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/mssql.png)](https://www.microsoft.com/en-us/sql-server)
+ [![typescript](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/typescript.png)](https://www.typescriptlang.org/)
+ [![javascript](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+ [![html5](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/html.png)](https://www.w3.org/html/)
  [![css3](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/css.png)](https://www.w3schools.com/css/)
  [![dotnet](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/msnet.png)](https://dotnet.microsoft.com/)
  [![git](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/git.png)](https://git-scm.com/)
- [![html5](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/html.png)](https://www.w3.org/html/)
- [![javascript](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
- [![mssql](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/mssql.png)](https://www.microsoft.com/en-us/sql-server)
+ [![azure](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/azure.png?size=50)](https://azure.microsoft.com/en-in/)
  [![nodejs](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/node.png)](https://nodejs.org)
  [![postman](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/postman.png)](https://postman.com)
  [![rabbitMQ](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/rabbit.png)](https://www.rabbitmq.com)
- [![typescript](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/typescript.png)](https://www.typescriptlang.org/)
- [![unity](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/icons/x50/unity.png)](https://unity.com/)
 
 *I'm a framework developer at heart, and I have a healthy relationship with unit tests.*
 
