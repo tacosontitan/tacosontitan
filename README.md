@@ -33,20 +33,20 @@ As a senior C# developer with a decade of experience working in .NET environment
 
 ## 🎧 What am I listening to?
 
-I listen to an immense variety of music, and with my genre interest ranging from classical to heavy metal, there's not much I *won't* listen to. If you're curious, the table below contains my top ten most played tracks of 2022 according to Spotify. You can click on the Spotify or YouTube badges in the source column to listen with the respective service.
+I listen to an immense variety of music, and with my genre interest ranging from classical to heavy metal, there's not much I *won't* listen to. If you're curious, the table below contains the 10 latest tracks added to my [`chasing dopamine` playlist on Spotify](https://open.spotify.com/playlist/5r8boOQd4Wf3NmCM8cOiST?si=9a64d134213444fa).
 
-| Title                         | Artist                 |                                       Source                                        |
-|:------------------------------|:-----------------------|:-----------------------------------------------------------------------------------:|
-| Satellite                     | WYS                    | [![Listen on Spotify][spotify-badge]][s0] [![Listen on YouTube][youtube-badge]][y0] |
-| Shockwave                     | Marshmello             | [![Listen on Spotify][spotify-badge]][s1] [![Listen on YouTube][youtube-badge]][y1] |
-| ODDTAXI                       | スカートとPUNPEE        | [![Listen on Spotify][spotify-badge]][s2] [![Listen on YouTube][youtube-badge]][y2] |
-| Lost in Paradise              | ALI ft. AKLO           | [![Listen on Spotify][spotify-badge]][s3] [![Listen on YouTube][youtube-badge]][y3] |
-| One More Time                 | Daft Punk              | [![Listen on Spotify][spotify-badge]][s4] [![Listen on YouTube][youtube-badge]][y4] |
-| Overthinking                  | INZO                   | [![Listen on Spotify][spotify-badge]][s5] [![Listen on YouTube][youtube-badge]][y5] |
-| Rocket Girl                   | Lemaitre ft. Betty Who | [![Listen on Spotify][spotify-badge]][s6] [![Listen on YouTube][youtube-badge]][y6] |
-| Neverland                     | Trifect                | [![Listen on Spotify][spotify-badge]][s7] [![Listen on YouTube][youtube-badge]][y7] |
-| Everybody (Backstreet's Back) | Backstreet Boys        | [![Listen on Spotify][spotify-badge]][s8] [![Listen on YouTube][youtube-badge]][y8] |
-| Kiss Me More                  | Doja Cat ft. SZA       | [![Listen on Spotify][spotify-badge]][s9] [![Listen on YouTube][youtube-badge]][y9] |
+| Title                             | Artist                          |                                       Source                                        |
+|:----------------------------------|:--------------------------------|:-----------------------------------------------------------------------------------:|
+| IV. Sweatpants                    | Childish Gambino, Jason Martin  | [![Listen on Spotify][spotify-badge]][s0] [![Listen on YouTube][youtube-badge]][y0] |
+| Smells Like Teen Spirit           | Witchz                          | [![Listen on Spotify][spotify-badge]][s1] [![Listen on YouTube][youtube-badge]][y1] |
+| Saddy Daddy-O                     | Artimus Wolz                    | [![Listen on Spotify][spotify-badge]][s2] [![Listen on YouTube][youtube-badge]][y2] |
+| Make Believe                      | Memphis May Fire                | [![Listen on Spotify][spotify-badge]][s3] [![Listen on YouTube][youtube-badge]][y3] |
+| Habit                             | Still Woozy                     | [![Listen on Spotify][spotify-badge]][s4] [![Listen on YouTube][youtube-badge]][y4] |
+| Make You Mine                     | Madison Beer                    | [![Listen on Spotify][spotify-badge]][s5] [![Listen on YouTube][youtube-badge]][y5] |
+| Loud                              | The Home Team                   | [![Listen on Spotify][spotify-badge]][s6] [![Listen on YouTube][youtube-badge]][y6] |
+| Call On Me - Ryan Riback Remix    | Starley, Ryan Riback            | [![Listen on Spotify][spotify-badge]][s7] [![Listen on YouTube][youtube-badge]][y7] |
+| deathwish (feat. nothing.nowhere) | Stand Atlantic, nothing.nowhere | [![Listen on Spotify][spotify-badge]][s8] [![Listen on YouTube][youtube-badge]][y8] |
+| messy in heaven                   | venbee, goddard.                | [![Listen on Spotify][spotify-badge]][s9] [![Listen on YouTube][youtube-badge]][y9] |
 
 *Let's be honest, it's impossible to fit all of one's favorite songs into a 10 row table.*
 
@@ -81,32 +81,32 @@ This artist created all the circular logos you see in this readme.
 [youtube-badge]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 
 <!-- Music Links -->
-[s0]: https://open.spotify.com/track/5mCFG50hfO2SS5CxSTCeWQ?si=20be0df6cd304694
-[y0]: https://www.youtube.com/watch?v=UP1tPLkyZyI
+[s0]: https://open.spotify.com/track/3x4I4nRuZp5NdtGvCPw6Ms?si=a9882f01a9754788
+[y0]: https://www.youtube.com/watch?v=ExVtrghW5Y4
 
-[s1]: https://open.spotify.com/track/3sOGVdj5VPY6C2XImtlzj7?si=87af9f4e550c42bc
-[y1]: https://www.youtube.com/watch?v=YH18coS7c9E
+[s1]: https://open.spotify.com/track/62uS5JxRCPcbzaC7A63zKr?si=8e13339089d34d0d
+[y1]: https://www.youtube.com/watch?v=2DDHXrLGX1w
 
-[s2]: https://open.spotify.com/track/4bMo9lJmh3jNTzfmfQ1YcL?si=484a4a92b8d54014
-[y2]: https://www.youtube.com/watch?v=LKMw0hBDBUw
+[s2]: https://open.spotify.com/track/493JwOBVJAGB4safZK0Q4E?si=f20cbc1e5f924bcb
+[y2]: https://www.youtube.com/watch?v=HhjWiBeqjB8
 
-[s3]: https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX?si=b342c244fd5e4f89
-[y3]: https://www.youtube.com/watch?v=E-9LT2jizkA
+[s3]: https://open.spotify.com/track/31iAZuJu1Obz239eDpMfee?si=2a0f27c98464459c
+[y3]: https://www.youtube.com/watch?v=nLU3EzJCpA8
 
-[s4]: https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV?si=30985d7f998b478e
-[y4]: https://www.youtube.com/watch?v=FGBhQbmPwH8
+[s4]: https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL?si=eb82cd679caa4784
+[y4]: https://www.youtube.com/watch?v=I3WakeIlDZ0
 
-[s5]: https://open.spotify.com/track/7qGoMOzR9pJ1bPl4bFmTN7?si=d64b7119d29c44da
-[y5]: https://www.youtube.com/watch?v=2WrOaA7QCM4
+[s5]: https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL?si=71b92e9ffd35473d
+[y5]: https://www.youtube.com/watch?v=XFR7v5ix5hU
 
-[s6]: https://open.spotify.com/track/4wvj3LqF8EqGxoNc1FIbHr?si=6d40571e0a4b44ef
-[y6]: https://www.youtube.com/watch?v=bfwOdpur01M
+[s6]: https://open.spotify.com/track/0Nb7cvBprOkNhHMrmvKkd2?si=bc2deb1f91154a14
+[y6]: https://www.youtube.com/watch?v=JiaCK_HWugI
 
-[s7]: https://open.spotify.com/track/5m0uWrm9gp38F81BR6sNvd?si=9ca6d8c033f942de
-[y7]: https://www.youtube.com/watch?v=EdVLbU5vU1I
+[s7]: https://open.spotify.com/track/3GDTO4VnjlQbHfNJ87FNfn?si=a078cc4a39084c0a
+[y7]: https://www.youtube.com/watch?v=I-VsisgVkHw
 
-[s8]: https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ?si=fe3c5becd3054ab0
-[y8]: https://www.youtube.com/watch?v=6M6samPEMpM
+[s8]: https://open.spotify.com/track/6l70xzvmZdAJnM41s0iPDD?si=7b9611fe0d5e4874
+[y8]: https://www.youtube.com/watch?v=ZB5yS1i72pk
 
-[s9]: https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz?si=eed15903bd4d4b6f
-[y9]: https://www.youtube.com/watch?v=0EVVKs6DQLo
+[s9]: https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO?si=06da42a5a5874f51
+[y9]: https://www.youtube.com/watch?v=kq0esXnc29k
