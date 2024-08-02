@@ -1,6 +1,6 @@
-# Hi, I'm Hazel! 👋
+# Hello there 👋
 
-I'm a vivacious software developer with a burning passion for code. Born in 1991, I balance my love for technology with hobbies like gaming, hiking, surfing, dancing, and playing guitar. As a proud member of the LGBTQ+ community, I navigate life with ADHD while embracing abstract thought, vibrant colors, and a superlative love for music.
+I'm a vivacious software developer with a burning passion for code. Born in 1991, I navigate life with ADHD while embracing abstract thought and balancing my love for technology with hobbies like gaming, hiking, surfing, dancing, and playing guitar.
 
 [![Header](https://raw.githubusercontent.com/tacosontitan/tacosontitan/main/resources/header.jpg)](https://github.com/tacosontitan)
 
@@ -33,7 +33,7 @@ As a senior C# developer with a decade of experience working in .NET environment
 
 ## 🎧 What am I listening to?
 
-I listen to an immense variety of music, and with my genre interest ranging from classical to heavy metal, there's not much I *won't* listen to. If you're curious, the table below contains the 10 latest tracks added to my [`chasing dopamine` playlist on Spotify](https://open.spotify.com/playlist/5r8boOQd4Wf3NmCM8cOiST?si=9a64d134213444fa).
+I have a superlative love for music, and will listen to just about anything; if you're curious, the table below contains the 10 latest tracks added to my [`chasing dopamine` playlist on Spotify](https://open.spotify.com/playlist/5r8boOQd4Wf3NmCM8cOiST?si=9a64d134213444fa).
 
 | Title                             | Artist                          |                                       Source                                        |
 |:----------------------------------|:--------------------------------|:-----------------------------------------------------------------------------------:|
