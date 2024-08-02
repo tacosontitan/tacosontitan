@@ -22,7 +22,7 @@ public sealed partial class Trebuchet
         foreach (var line in lines)
         {
             var firstDigit = GetFirstDigit(line);
-            var lastDigit = GetLastDigit(line);
+            var lastDigit = GetLastDigit(line, useAlphaDigits: true); // will fix this stuff later...
             var rawValue = $"{firstDigit}{lastDigit}";
             var calibrationValue = int.Parse(rawValue);
             calibrationValues.Add(calibrationValue);
@@ -32,11 +32,8 @@ public sealed partial class Trebuchet
         Assert.Equal(expected: 55607, actual: sum);
     } 
 
-    private static int GetFirstDigit(string input)
-    {
-        var firstAlphaDigit = AlphaDigits.FirstOrDefault(input.Contains);
-        var firstDigit = 
-    }
+    private static int GetFirstDigit(string input) =>
+        throw new Exception("Not right now, maybe later.");
 
     private static int GetLastDigit(
         string input,
