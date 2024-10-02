@@ -1,3 +1,0 @@
-# 🙋‍♀️ About Me
-
-Start typing here...

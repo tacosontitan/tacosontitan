@@ -1,3 +1,0 @@
-# 🎓 Education
-
-Start typing here...
