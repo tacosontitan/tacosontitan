@@ -12,7 +12,7 @@
             "style": "folder"
           },
           "style": "diamond",
-          "template": "\ue5ff {{ .Path }}",
+          "template": "📂 {{ .Path }}",
           "trailing_diamond": "\ue0b4",
           "type": "path"
         },
