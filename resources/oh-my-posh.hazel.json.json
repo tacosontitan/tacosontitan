@@ -7,13 +7,11 @@
         {
           "background": "#29315A",
           "foreground": "#3EC669",
-          "leading_diamond": "ᚠ",
           "properties": {
             "style": "folder"
           },
-          "style": "diamond",
+          "style": "powerline",
           "template": "📂 {{ .Path }}",
-          "trailing_diamond": "\ue0b4",
           "type": "path"
         },
         {
