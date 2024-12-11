@@ -27,7 +27,9 @@ The following labels should be added:
 | :---- | :--------: | :---------: |
 | `🔍 needs information` | `#55130b` | This issue or pull requestion needs more information before it's ready. |
 | `🚸 dependencies` | `#05010e` | This issue or pull request modifies dependencies. |
+| `🏗️ refactor` | `#0e060c` | This issue or pull request requires refactoring. |
 | `💎 feature` | `#040d06` | This issue or pull request relates to a feature. |
 | `💩 defect` | `#0f0000` | This issue or pull request relates to a defect. |
+| `🧪 tests` | `#010f03` | This issue or pull request relates to tests. |
 | `⌛ stale` | `#eeeeee` | This issue or pull request has grown old. |
 | `⛔ spam` | `#3f0505` | This is spam; you should only view it for humor. |
