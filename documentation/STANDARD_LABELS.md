@@ -25,6 +25,7 @@ All of my repositories utilize standardized labels to provide a uniform experien
 
 | Label | Color Code | Description |
 | :---- | :--------: | :---------- |
+| `🎛️ repository` | `#c2e0c6` | This issue applies changes to the repository. |
 | `🚸 dependencies` | `#0366d6` | This issue or pull request modifies dependencies. |
 | `🏗️ refactor` | `#d9fc92` | This issue or pull request requires refactoring. |
 | `🧪 tests` | `#74BBA4` | This issue or pull request relates to tests. |
