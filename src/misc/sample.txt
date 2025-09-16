@@ -1,1 +1,0 @@
-This is a placeholder file for rapidly evaluating text data on the fly.
