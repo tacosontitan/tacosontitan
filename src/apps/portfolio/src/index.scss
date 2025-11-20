@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background: #18191A;
+  color: #F4F6F8;
+}
+
+.placeholder {
+  min-height: 100vh;
+  background: #18191A;
+  color: #F4C6F8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
