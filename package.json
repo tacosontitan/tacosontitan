@@ -4,13 +4,16 @@
   "description": "A simple portfolio website.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "lint": "turbo run lint"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "packageManager": "pnpm@10.23.0",
   "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.1",
     "turbo": "^2.6.1"
   }
 }
